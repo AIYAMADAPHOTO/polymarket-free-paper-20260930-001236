@@ -1,0 +1,16 @@
+GitHub Actions 完全無料48時間Paper版
+
+- VPS不要
+- PCつけっぱなし不要
+- Codex不要
+- Polymarket実注文なし / PAPER ONLY
+- 仮想初期資産 50 USD
+- 最大1,000市場/周期
+- 約10分ごとに1周期
+- Gemini無料枠: gemini-3.5-flash-lite（fallback 3.1-flash-lite）
+- AI呼び出しローカル上限 150回/日
+- 8%以上の実行可能edge
+- Kelly sizing 最大6%
+- 政治・選挙・法案市場は除外
+- 48時間終了後workflow自動停止
+- GitHub SecretにGemini API keyを保存
