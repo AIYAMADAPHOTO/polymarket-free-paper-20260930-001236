@@ -1,0 +1,20 @@
+**
+!Dockerfile
+!Dockerfile.free
+!docker-compose.free.yml
+!docker-compose.yml
+!requirements.txt
+!config.py
+!main.py
+!phase3.py
+!vps.py
+!freebot.py
+!src/
+!src/**
+!tests/
+!tests/*.py
+!verification/
+!verification/phase2_read_only_audit.json
+**/__pycache__/
+**/*.pyc
+# Positive allowlist: no .env, venv, old data/logs/experiments or migration archives in image.
