@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+!.env.free.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Gemini key must never be committed. Runtime state is intentionally tracked
+# during the 48h GitHub Actions integration test.
