@@ -1,0 +1,15 @@
+Polymarket 無料枠・元投稿準拠 Paper Bot 改造版
+
+- 既存Phase 1〜3の会計・CLOB板約定・永続化・テスト資産を流用
+- 最大1,000市場 / 10分走査
+- 無料公開データを収集し、Gemini無料枠でfair valueを推定
+- executable edge 8%以上のみ候補
+- Kelly sizing、1ポジション最大6%
+- 仮想50 USD / 48時間 PAPER ONLY
+- 実注文・Wallet・秘密鍵・USDCなし
+- 有料APIへのfallbackなし
+- 政治・選挙・法案等の市場は対象外
+
+148/148 tests PASS。
+Docker engineが実行環境に無いためDocker build/live API end-to-endは未実施。
+開始前に FREE_SETUP_JA.md を確認してください。
