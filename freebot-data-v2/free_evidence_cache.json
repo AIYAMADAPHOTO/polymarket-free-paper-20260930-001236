@@ -581,7 +581,7 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T22:09:32.629836+00:00",
+      "fetched_at": "2026-10-01T22:40:47.754425+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -626,9 +626,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-26T03:05:13+00:00",
-          "source": "Pluang",
+          "source": "pluang.com",
           "source_url": "https://pluang.com",
-          "title": "Markets price in four more Fed rate hikes by 20... - Pluang",
+          "title": "Markets price in four more Fed rate hikes by 20... - pluang.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2pBRlNqRHpGM0xPQlAwR3FGeG85dllXeGJvM1M0dUFjUzRrbkIzcnhsUG51SVZ4YVVBNkhsdndjZUpNYXRINVQtMTRWTXhWUFdudlpmeDlCbi1OZFpVaGw5SGhmbHNEZm5lUWNLNTktNExISFZSOTlvMHRsOTJZUzFGbWUtTWRBd0lGbGZhVHRRenpsaFJXdmJKaFhKMTdnMVhhbnM0WGRVb00?oc=5"
         }
       ],
