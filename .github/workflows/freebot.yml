@@ -2,10 +2,6 @@ name: Polymarket Free 48h Paper Test
 
 on:
   workflow_dispatch:
-  schedule:
-    # Avoid :00 where GitHub says scheduled workflows can be delayed more often.
-    # Six runs/hour = approximately one paper-trading cycle every 10 minutes.
-    - cron: '3,13,23,33,43,53 * * * *'
 
 permissions:
   contents: write
@@ -18,13 +14,11 @@ concurrency:
 jobs:
   paper-cycle:
     runs-on: ubuntu-latest
-    # Hard cost/runtime guard. Over 48h this schedule can consume at most
-    # 1,728 Linux runner-minutes + one manual-start run (6 min).
-    timeout-minutes: 6
+    timeout-minutes: 15
     env:
       TRADING_MODE: PAPER
       STARTING_BALANCE_USD: '50.00'
-      FREEBOT_DATA_DIR: freebot-data
+      FREEBOT_DATA_DIR: freebot-data-v2
       FREEBOT_DURATION_HOURS: '48'
       FREE_SCAN_LIMIT: '1000'
       FREE_PAGE_SIZE: '100'
@@ -38,7 +32,6 @@ jobs:
       FREE_MAX_POSITION_FRACTION: '0.06'
       FREE_MAX_EXPOSURE_FRACTION: '0.30'
       FREE_MAX_POSITIONS: '5'
-      # Flash-Lite is used because a 10-minute schedule needs >144 requests/day.
       GEMINI_MODEL: gemini-3.5-flash-lite
       GEMINI_USE_GOOGLE_SEARCH: 'false'
       GEMINI_MAX_CALLS_PER_DAY: '150'
@@ -56,49 +49,50 @@ jobs:
         run: python3 --version
 
       - name: Zero-cost preflight
-        run: python3 freebot.py preflight --data freebot-data
+        run: python3 freebot.py preflight --data "$FREEBOT_DATA_DIR"
 
       - name: Run one paper cycle
-        run: python3 freebot.py once --data freebot-data
+        run: python3 freebot.py once --data "$FREEBOT_DATA_DIR"
 
       - name: Build run summary
         if: always()
-        run: python3 scripts/github_summary.py --data freebot-data
+        run: python3 scripts/github_summary.py --data "$FREEBOT_DATA_DIR"
 
       - name: Commit paper state back to repository
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          if [ ! -d freebot-data ]; then
+          if [ ! -d "$FREEBOT_DATA_DIR" ]; then
             echo "No state directory to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A freebot-data
+          git add -A "$FREEBOT_DATA_DIR"
           if git diff --cached --quiet; then
             echo "No state changes."
             exit 0
           fi
-          git commit -m "paper-test: persist cycle ${GITHUB_RUN_NUMBER}"
-          # concurrency prevents overlapping workflow writers, but rebase once in
-          # case a manual repository edit landed during the cycle.
+          git commit -m "paper-test-v2: persist cycle ${GITHUB_RUN_NUMBER}"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
-      - name: Disable schedule after the 48h experiment completes
+      - name: Queue next 10-minute cycle
         if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
           set -euo pipefail
-          if python3 scripts/github_is_complete.py --data freebot-data; then
-            echo "48h experiment completed. Disabling this workflow to stop future scheduled runs."
-            gh api --method PUT \
-              -H "Accept: application/vnd.github+json" \
-              "/repos/${GITHUB_REPOSITORY}/actions/workflows/freebot.yml/disable"
-          else
-            echo "Experiment still running or no final status yet."
+          if python3 scripts/github_is_complete.py --data "$FREEBOT_DATA_DIR"; then
+            echo "48h experiment completed. No further cycle will be queued."
+            exit 0
           fi
+          echo "Waiting 10 minutes before queuing the next cycle..."
+          sleep 600
+          gh api --method POST \
+            -H "Accept: application/vnd.github+json" \
+            "/repos/${GITHUB_REPOSITORY}/actions/workflows/freebot.yml/dispatches" \
+            -f ref="${GITHUB_REF_NAME}"
+          echo "Next cycle queued."
