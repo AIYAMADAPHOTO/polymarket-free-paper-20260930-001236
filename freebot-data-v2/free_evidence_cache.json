@@ -581,15 +581,23 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:38:18.267240+00:00",
+      "fetched_at": "2026-10-01T22:09:32.629836+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T11:41:37+00:00",
           "source": "qz.com",
           "source_url": "https://qz.com",
-          "title": "U.S. Treasury yields hit 24-year highs as global bond selloff deepens - qz.com",
+          "title": "U.S. Treasury yields surge to 24-year highs in global bond selloff - qz.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOY0xEZXAyeEM5UDJHNWF0TGZseS1OdzFla285b1Z4dFZmVThvdnBGcVd4RkpHMUtuM1VzQkwySWZDYW9BbFotQzJPSkN5VU85MzVHdGdLa0NObXdzR1RTU1dINlNWY1hxRkFpTFdMY2sxTWRDcHc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-30T20:00:21+00:00",
+          "source": "Yahoo Finance",
+          "source_url": "https://finance.yahoo.com",
+          "title": "Mortgage rate predictions for the next five years: Will rates keep climbing? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWtFTG5QcWNLVjN2NVNGbG9lcFdGdGMzQ3dZOGZTc05iNXBFVUVKY0NGTVk2cUZLQUdJRUphODhMSzBMTjdrZTFrTVZJRHh5SEEzS1Fzbm1iTXRjeDRqNTVwOXBub243U29UMDh1MkFLN3VQcndtY19tYVhsSmhzZ3l6X3FNeWhKRzBFMUdRV1A1N1MzeTh4b1VJQ25mcDBId0w0cGdtcVl3U0c1SWZzYmdhRmloOUZtQ0RGbjhRSW1oMWQxazJtMHh1d25QQ1BxQURKTWV6TXZfcFpuWkVBTm43NGc?oc=5"
         },
         {
           "kind": "news_rss",
@@ -598,14 +606,6 @@
           "source_url": "https://www.morningstar.com",
           "title": "4 Stocks to Buy Before They Rise Further - Morningstar",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaV9vd2dCQWpuNDdUZUJzZllFMWRtV3BISzlkMkRHNlQ2ZFkycUZjSFlqSUxJd1NnR2NLOTV0U05DTjBGcEJEY0FDb2RwSjd3a0pxS1Y2OGhRLUFaMTl4YzQzci1oZnVhaFFFb0xxSmFYS2pYQnFxT09jd2EzeTRJNDZsSmUzanEzM29MZ3FKNHBqS29SXzhuXw?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-23T14:11:49+00:00",
-          "source": "Yahoo Finance",
-          "source_url": "https://finance.yahoo.com",
-          "title": "Mortgage rate predictions for the next five years: What you can expect through 2031 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbVBWbm9DOWhudlNPT1IzcXBXVFRNRHhvS0QwVnk4V3BFekZZUUxtbzB2N2FqbjVkYk81blVjaE9rV3hsVmdfUFNJV25GY2JpWWdLUDBtNmlDMEUwT2xLbDZ5endBNlN6cmJCYUxvaWxqNlJfenhNVUVrZGFaWmQ0c003aUxhdDRrdjhBTVZfcGtfZU5sQWJtbFl3ZTR2RW0tczZLMzZUY3NpZzE5TDRKX2Y5djlqZlg5TTdCOUhhWVRpc2ZWR21fZzJUczhwSGh6cGlwSGNBdk5lTVl3cWdWV2M0MW8xRnVBS3VKd3E5TQ?oc=5"
         },
         {
           "kind": "news_rss",
