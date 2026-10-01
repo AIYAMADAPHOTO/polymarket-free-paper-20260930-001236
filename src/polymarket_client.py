@@ -72,7 +72,20 @@ class PolymarketClient:
             params['ascending'] = 'true' if ascending else 'false'
         if include_tag:
             params['include_tag'] = 'true'
-        data = self._get(GAMMA_URL, '/markets/keyset', params)
+        try:
+            data = self._get(GAMMA_URL, '/markets/keyset', params)
+        except ApiError as exc:
+            # Gamma can reject some optional parameter combinations with HTTP 422.
+            # The broad scanner ranks locally anyway, so retry the minimal keyset
+            # request instead of aborting the whole paper-trading cycle.
+            if 'HTTP 422' not in str(exc) or (not order and not include_tag):
+                raise
+            fallback = {'closed': 'false', 'limit': limit}
+            if cursor:
+                fallback['after_cursor'] = cursor
+            self.log.warning(
+                'Gamma keyset rejected optional params; retrying minimal keyset request')
+            data = self._get(GAMMA_URL, '/markets/keyset', fallback)
         if not isinstance(data, dict) or not isinstance(data.get('markets'), list):
             raise ApiError('Invalid Gamma market page schema')
         return data
