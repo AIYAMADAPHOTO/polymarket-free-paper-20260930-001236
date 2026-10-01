@@ -250,18 +250,20 @@ def run(directory, config, once=False, shutdown=None, opener=None):
             if utcnow() >= end:
                 _report(directory, broker, strategy, manifest, 'COMPLETED')
                 return 0
+            cycle_failed = False
             try:
                 result = run_cycle(directory, config, client, gemini, broad, enrich, broker, strategy, storage, evidence)
                 log.info('FREE cycle %s', result)
                 _write_json(directory / 'free_last_cycle.json', result)
             except (ApiError, ValueError, KeyError, TypeError) as exc:
+                cycle_failed = True
                 log.exception('FREE cycle failed; state retained; no paid fallback')
                 strategy.state['errors'].append({'timestamp': timestamp(), 'error': str(exc)})
                 strategy._save()
                 storage.append_csv('free_runtime_errors.csv', {'timestamp': timestamp(), 'error': str(exc)})
             report = _report(directory, broker, strategy, manifest)
             if once:
-                return 0
+                return 2 if cycle_failed else 0
             sleep_until = min(end, utcnow() + __import__('datetime').timedelta(seconds=config.scan_interval_seconds))
             while utcnow() < sleep_until:
                 if shutdown and shutdown.reason:
