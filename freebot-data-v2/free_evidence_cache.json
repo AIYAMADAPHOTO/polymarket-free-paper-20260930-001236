@@ -1,9 +1,66 @@
 {
   "markets": {
+    "608368": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "source": "SmartAsset.com",
+          "source_url": "https://smartasset.com",
+          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-22T12:13:00+00:00",
+          "source": "Action Network",
+          "source_url": "https://www.actionnetwork.com",
+          "title": "OpenAI’s IPO Looks Like a 2027 Story - Action Network",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnUyZDR5aC1jZzRlamp6THZndUF4Q2ZxTXVid0x0WlBXNlFnTzBTLS1OZE9ndEdOelQ3ZXNUVm9pWWZ4ZzlIYm56YU16eEZ4SEs3cEtXU3ZVek9TRWdQaVVLb1l1Q25NSXRObFd2Q2NUbDQ4TkVBRXk0SVE1WkxVenJSNA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-23T05:53:34+00:00",
+          "source": "OddsShopper",
+          "source_url": "https://www.oddsshopper.com",
+          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - OddsShopper",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-07T07:00:00+00:00",
+          "source": "24/7 Wall St.",
+          "source_url": "https://247wallst.com",
+          "title": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXU3OEVPNVFsTUVUdzZJSjVoNDFRVlpmVVV5aE0xcUZpVGlkUVR6Q05jSl94S05ObDZVOGdsVFV0VXZvVEZZWmxDelZZamkzOHVPeFhrbjlMNTBGS1NjcjQ2a181aVFOQ2NOYXVjNG83TVRhczBRaWpZVGxXSzdIYmtrMFZuWlpyMnlXR003cEh5LTBpXzV5bWR5d3Jna1FITUVwQm5seVAyV2IxX3AyM0NNYzJFdHFWQUg5TFJrWE55dw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "source": "CryptoSlate",
+          "source_url": "https://cryptoslate.com",
+          "title": "OpenAI IPO date Odds & Prediction Market Analysis - CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hT0RFclhLMUN0Mm80bGxuVW1YUnhySmVhS3FXYTl3UHdaNzM1V2d4YWY2YWVVTS1HODZWaV9PT0NycGttUkFoaTVWMHVzaV9PWXdGRkM3SW1GTTQ5YUVlcnZNa0wxY21L?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-06-08T02:44:46+00:00",
+          "source": "Klover.ai",
+          "source_url": "https://www.klover.ai",
+          "title": "Complete 2026 AI IPO Landscape: Every Company, Every Bet, Every Risk [In-Depth Analysis] [2026] - Klover.ai",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2V4SjNoZTNnQ01WTXVHbExuaFJnNDFmcXZyTzN3X0VyVEQ5YXBjLVEyeVJaVjdxU2FVeUhHUkRXbGJUNDVYcE9aMFRUNXFNYUdSR3hkemR1ZGsyM090U1FuenItV0h5TFQwbDkzNENtTFJ2NFM0UUpKLUxXUjA3Z0xFb21odTZTWktHcnNmbzJBeXhKTFZPX0pxZHJXdVdlNGhUUXZ0OGE4WUNRaFVn?oc=5"
+        }
+      ],
+      "market_id": "608368",
+      "query": "Will OpenAI not IPO by December 31, 2026?"
+    },
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -15,19 +72,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T16:57:14+00:00",
-          "source": "washingtonpost.com",
-          "source_url": "https://www.washingtonpost.com",
-          "title": "Dembélé: No issues with France teammate Mbappé despite Ballon d’Or chatter - washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkd3VXpZZ2lyZWhlQTQ4QjdWVS01Ymsza3pLdVZLSmZwNWRZRGZxYVRGNDB4dkY2TjkyTHg4N0IyLTRsUmwtZzdCQ2xUbHdyQmx6WWk5OUhKeFpjUjJQVF9zbU5hdDdFZ05SLU42V3E3TUR0MUJVeE9aQlJzdVNoakFnckI1Qld4bDZKY252V0ZQUllGNEpHN0tJRXVMTVBUc0NJVGJvTUNSX2JtaEl4WmRfUml1OEVyLWY4V0RhTVFhTDVmY01nNGxaSzV0U05TQ3c?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T10:17:00+00:00",
-          "source": "Planet Football",
+          "published_at": "2026-10-01T14:51:00+00:00",
+          "source": "planetfootball.com",
           "source_url": "https://www.planetfootball.com",
-          "title": "Everyone who has backed the Kylian Mbappe Ballon d’Or PR campaign: Mourinho, Henry… - Planet Football",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3I5WlBILUxjSmRESmgyUll5eGZTMUJGckE1a2pPTVJaV2xQbjQ1N1duZlVlOUttbmdwaXN6c1ZNejU2bWpGSTVXbkVIYS1rTExTdTEzaXRuVTd0dk9LTVd1RWhTaHRjQzZacU1yNFI2N0phNHo3RVd0OFVNRUkzRWs2QThwaFRHMXhLU3ppQy1wTktQNjB3?oc=5"
+          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - planetfootball.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
         },
         {
           "kind": "news_rss",
@@ -52,6 +101,14 @@
           "source_url": "https://www.espn.com",
           "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "source": "cnn.com",
+          "source_url": "https://www.cnn.com",
+          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - cnn.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaFlMQWZja0NFZGhweEJtYmpZMl82MTR0MDJ6MVYwdXB6VS11N3g3bjZqSWljcS1vM0xHd0gwR1RRaTdlSTdxbG9BbDhGajl2MGM0WXJCdzgwdExzRWswNGJSY1M3Smo4NUFaYXVlQU9NSVpnS3dxT0hJbw?oc=5"
         }
       ],
       "market_id": "608540",
@@ -60,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -73,9 +130,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:22:39+00:00",
-          "source": "barcauniversal.com",
+          "source": "Barca Universal",
           "source_url": "https://barcauniversal.com",
-          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - barcauniversal.com",
+          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
         },
         {
@@ -117,16 +174,8 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T12:33:15+00:00",
-          "source": "bundesliga.com",
-          "source_url": "https://www.bundesliga.com",
-          "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
-        },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
@@ -134,14 +183,6 @@
           "source_url": "https://sports.yahoo.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern",
-          "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -166,6 +207,22 @@
           "source_url": "https://www.espn.com",
           "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-30T10:30:00+00:00",
+          "source": "bavarianfootballworks.com",
+          "source_url": "https://www.bavarianfootballworks.com",
+          "title": "Uli Hoeneß makes Ballon d’Or case for Bayern Munich’s Harry Kane - bavarianfootballworks.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNUmRRanhyX0YtYjBEc2dxWkpFTkZ0dmFoR21IWVRCdmhNcVE0bnY4SnQwRWhET1Q5RS0zdV8zS0xWVTFlaVdfVTNNSGhTOHBTQ29KZk16SGdJUkRNZDVCMDVxbk5xN2VzZFE4RW5JamcxLWlwN19JUl9wUl8yblJMaHpja19OajVrN2tFa0dfWXpaT1Z5bDF6azVIc2dpYktoSjFkMUF3TEpmc3JybGxXaXBVVFRLc2ljSzQ3bC1GTmwwTHJTVEhBNURPT3ZyVm15SU9kVUhsVWlRNGRWMEtWWG82WWN6N21fM3F3T1RDNUNoejBWU2ZSNTdfQUozWmYweDh0UW1JN2w4VXZJZEVXU2JLaE5Bb3ZDbWwtZ0xmNWtsLUZ5dzRidkFlb1ZBdGVjLVhBZGg3YjAtZXppa2Y0OUotM0gtUTA3QndwVzluMnBiSjdZYnA4U0NJVC05T0Y4dXdn?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-26T12:06:23+00:00",
+          "source": "bundesliga.com",
+          "source_url": "https://www.bundesliga.com",
+          "title": "Harry Kane would be \"very proud\" to win Ballon d'Or - bundesliga.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmZvR3J2a1VZV2NKb0RpNG9rcGFUYnhkazJ1REZhbjhwM3NEVjFTY0VETjJWZkh2SnFQU3VoeHBpYXM3YWctYkExa1dCNnBjQ0dSZHdtM1F1TjFWNVpsaTNWR3dRb015aTRuYzRXazhvR1p1aDhtNWQ2MU9TU21WUzQxVUhUQ2I0cGFsenFuN3E4MUhzSl9weXpQNnZjNDUyd3dONE43dXlhUVNfWWUxQkp5STg?oc=5"
         }
       ],
       "market_id": "608547",
@@ -174,7 +231,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -211,17 +268,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "Inter Miami CF",
+          "source": "intermiamicf.com",
           "source_url": "https://www.intermiamicf.com",
-          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - intermiamicf.com",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "mlssoccer.com",
+          "source": "MLSsoccer.com",
           "source_url": "https://www.mlssoccer.com",
-          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - mlssoccer.com",
+          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - MLSsoccer.com",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1IwcVN3NFA4ZHB5RjllUzJjUWtNeTZRTTczY0FKYmw0VXhGNWxzYUN0TUQ5dnlLRVVSUmFZQVhGT1dHMnJDaUk5dEZKM1Z0NmQ4aFB0WGJUU29MbE93NEQ3MEl1aGtOLVdXUUw1aFdpbWNfdTFIanB2ZHVMcGNWS1hpT1BQcWJXSFVwQ25pTTFwUEdUX2c?oc=5"
         }
       ],
@@ -231,7 +288,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -244,9 +301,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "federalnewsnetwork.com",
+          "source": "Federal News Network",
           "source_url": "https://federalnewsnetwork.com",
-          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - federalnewsnetwork.com",
+          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - Federal News Network",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWVHbjVZU2NrN25rNlBzRVBIR1BiQmpUMnMxYXJPdU10X2JTSEFKa2Y5LTJtb2FhMlJpakdwNlRRZ2JXUDFvRjVZaGY0d3Z5VHQ1Tkh1QUJKbl84WFFjZEt6cldiZFdDeUh3Nkg4VktQZmFULVZuaGFYUHJoeXdVYnpPM3k2RGJtVFhMdWNkN0FLdlh6T0JDQlJ6YjAwaHNuVm8wQWtQY3A1YTRWcWdZdm9LaHozT3lEOFZ3WkZDZw?oc=5"
         },
         {
@@ -288,7 +345,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -353,7 +410,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T18:09:45.285315+00:00",
+      "fetched_at": "2026-10-01T18:40:45.198850+00:00",
       "items": [
         {
           "kind": "news_rss",
