@@ -1,9 +1,9 @@
 {
-  "ai_model": null,
+  "ai_model": "gemini-3.5-flash-lite",
   "cash": "49.96551725",
   "entries": 0,
   "equity": "49.96551725",
-  "evidence_fresh_fetches": 8,
+  "evidence_fresh_fetches": 0,
   "evidence_markets": 8,
   "exits": 0,
   "open_positions": 0,
@@ -17,5 +17,5 @@
     "requested_limit": 1000
   },
   "selected_for_ai": 40,
-  "timestamp": "2026-10-01T11:21:02.747840+00:00"
+  "timestamp": "2026-10-01T11:31:32.374413+00:00"
 }
