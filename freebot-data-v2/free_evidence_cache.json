@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -60,7 +60,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -73,9 +73,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:22:39+00:00",
-          "source": "Barca Universal",
+          "source": "barcauniversal.com",
           "source_url": "https://barcauniversal.com",
-          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
+          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - barcauniversal.com",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -126,14 +126,6 @@
           "source_url": "https://sports.yahoo.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern Munich",
-          "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -166,6 +158,14 @@
           "source_url": "https://www.bundesliga.com",
           "title": "Harry Kane would be \"very proud\" to win Ballon d'Or - bundesliga.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmZvR3J2a1VZV2NKb0RpNG9rcGFUYnhkazJ1REZhbjhwM3NEVjFTY0VETjJWZkh2SnFQU3VoeHBpYXM3YWctYkExa1dCNnBjQ0dSZHdtM1F1TjFWNVpsaTNWR3dRb015aTRuYzRXazhvR1p1aDhtNWQ2MU9TU21WUzQxVUhUQ2I0cGFsenFuN3E4MUhzSl9weXpQNnZjNDUyd3dONE43dXlhUVNfWWUxQkp5STg?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "ESPN",
+          "source_url": "https://www.espn.com",
+          "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
         }
       ],
       "market_id": "608547",
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -203,9 +203,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "Inter Miami CF",
+          "source": "intermiamicf.com",
           "source_url": "https://www.intermiamicf.com",
-          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - intermiamicf.com",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
         },
         {
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -244,9 +244,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "federalnewsnetwork.com",
+          "source": "Federal News Network",
           "source_url": "https://federalnewsnetwork.com",
-          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - federalnewsnetwork.com",
+          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - Federal News Network",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWVHbjVZU2NrN25rNlBzRVBIR1BiQmpUMnMxYXJPdU10X2JTSEFKa2Y5LTJtb2FhMlJpakdwNlRRZ2JXUDFvRjVZaGY0d3Z5VHQ1Tkh1QUJKbl84WFFjZEt6cldiZFdDeUh3Nkg4VktQZmFULVZuaGFYUHJoeXdVYnpPM3k2RGJtVFhMdWNkN0FLdlh6T0JDQlJ6YjAwaHNuVm8wQWtQY3A1YTRWcWdZdm9LaHozT3lEOFZ3WkZDZw?oc=5"
         },
         {
@@ -288,14 +288,14 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-25T07:00:00+00:00",
-          "source": "Casino.org",
+          "source": "casino.org",
           "source_url": "https://www.casino.org",
-          "title": "The 2026 Nobel Peace Prize Odds and Predictions - Casino.org",
+          "title": "The 2026 Nobel Peace Prize Odds and Predictions - casino.org",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FdEJIWWdrU1duRFZkUzVrZm92WFQzLUJiUkxIU3dua2U5VzQ2MFlBaFoyV2dLZ2NGcENxVnRBUDNDSms0UWtyZjNBLWJ1UHVfRUxoMFlXRmp4RTkzTjFuZzdPMTJkMzEtRU13c21ZUlo?oc=5"
         },
         {
@@ -345,7 +345,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -366,9 +366,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
-          "source": "actionnetwork.com",
+          "source": "Action Network",
           "source_url": "https://www.actionnetwork.com",
-          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - actionnetwork.com",
+          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - Action Network",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzM1X2dvU1NTTkY4M19Nd3hSeDAxM1g2MnpjTTBfdi1PbDVCa0t1UnNzeHc5YU5vVTR6Z0p1QmpvazZVQUpSZ21KRmpuRG03WExkVUlfcmpYOHgxeERvZmhJN0wtNEtRZnBsdHBQM0o2cWxZaThWblo2V0M5bFdUSVQxN3M5QlhkVldDSmpEeGhzN0Y2NDN5dnd3?oc=5"
         },
         {
@@ -402,7 +402,7 @@
     "665513": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T11:52:03.002551+00:00",
+      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -431,17 +431,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-31T07:00:00+00:00",
-          "source": "turkiyetoday.com",
+          "source": "Türkiye Today",
           "source_url": "https://www.turkiyetoday.com",
-          "title": "Merz calls Germany-Israel reconciliation ‘greatest achievement’ - turkiyetoday.com",
+          "title": "Merz calls Germany-Israel reconciliation ‘greatest achievement’ - Türkiye Today",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWFjR0p4Z1lMeXhUNEgyd3NiMzNvcHBkRHl4RHdseUNxdzNyNThDRi0xNzhvdmRGVWhGQXFya24yNk5IN0J0M2xVNFM5NVkzbGtGck9RdG1KanVlcHhYVU9HUXgtUC1RQ3dueERBSktoclN4c1d0cDJLT3VKcmRNenlKZEFudnNSc3pHV1k3eW9ESkk3Z3R5ZjFzUzJreVF6aFk5VEtRMA?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-08-19T07:00:00+00:00",
-          "source": "dw.com",
+          "source": "DW.com",
           "source_url": "https://www.dw.com",
-          "title": "Germany condemns Israeli minister's Gaza 'killings' remarks - dw.com",
+          "title": "Germany condemns Israeli minister's Gaza 'killings' remarks - DW.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmtzNkVwd0pENUJ1Z1FxeHAzVU9jbWswX3ZnV0dwNU5rc2psMDY5Vk5wNzYzYzU0RlhGSGZUZzgza0xsdzYwQkZHcnVuMURkVUs3MDJUWktnbnhFUERTZjZwZ3RRbHA5U2FYV1pMOW5WeW1jOFZoUUQzNkpwRGFaZlRKcWxsMzBnMUJZNU15OHJOc21ZTU0waHlWSmdhOVZmR1V4U3NOSdIBpwFBVV95cUxPTGhGbHJURDMwZUdtSC1vUzcwVnMwQUNUVlNuVlFpeHZzV0xiZjhwM0swbFd1WlJXZkE0Q1hndnpfdzV0Rmk1R3VzcWI3ekl6cGVvcDM2cVFTYlVNVE5iUUhFZmE5bDVQbXlQWW1Pc3ZJd2lYNlE4U0w5WlBCbHFJbVVuN0JtXzFsdWxBODBWanhmalhmeWZvaklLZEloaV9jaG9INFFwbw?oc=5"
         },
         {
