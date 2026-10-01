@@ -402,7 +402,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:01:40.652159+00:00",
+      "fetched_at": "2026-10-01T23:32:53.576689+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -415,9 +415,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-14T07:00:00+00:00",
-          "source": "aimultiple.com",
+          "source": "AIMultiple",
           "source_url": "https://aimultiple.com",
-          "title": "AGI/Singularity: 10,000 Predictions Analyzed - aimultiple.com",
+          "title": "AGI/Singularity: 10,000 Predictions Analyzed - AIMultiple",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNkwzTFZkTG41N2Rad1NTTFFSa1dLUTYwZnVRMVdrTkg1N0ZTN1g2cU5LRWp6S1JnSlBOeTAtR0VySEtRUEh2azlfYVJLWEYxT0R4WlVMdllDWXpuVUZaR09KNE5tWHpQNmN1Q2tPQWVfNjd3VWhXQlprMUM0Zw?oc=5"
         },
         {
@@ -447,9 +447,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-07T07:00:00+00:00",
-          "source": "Benzinga",
+          "source": "benzinga.com",
           "source_url": "https://www.benzinga.com",
-          "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - Benzinga",
+          "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - benzinga.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3N4aDVfM2hOMHppbzU5dGt3b2owQVI1WjJIVnkzWEpHdm1LNllIRVJYeVE5bGM2QXBBYXlsZHBjR1AtczcxS3g3OFU1Y1JSc0JfdlJCa0ZydjRrN01QT1ZxYTVScU5EX1FreERKd3ZVUldxNlFaTkNxbHhyWDZWSmNzTWRDV2JRcWVkUE9vOW5oeWRZcERRMTVZRDJRdDdkMV8wZVJWSkRzRl9TX09nU1dJb3FCS01aOHc?oc=5"
         }
       ],
