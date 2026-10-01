@@ -3,17 +3,9 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "47.00000075",
-  "positions": {
-    "665374:NO": {
-      "market_id": "665374",
-      "market_title": "Will the U.S. invade Iran before 2027?",
-      "outcome": "NO",
-      "quantity": "3.448275",
-      "cost_basis": "2.99999925"
-    }
-  },
-  "realized_pnl": "0",
+  "cash_balance": "49.96551725",
+  "positions": {},
+  "realized_pnl": "-0.03448275",
   "trades": [
     {
       "trade_id": 1,
@@ -69,6 +61,57 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 2,
+      "timestamp": "2026-10-01T10:28:02.898739+00:00",
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "side": "SELL",
+      "quantity": "3.448275",
+      "requested_price": "0.860000000000000000",
+      "simulated_fill_price": "0.860000000000000000",
+      "spread": "0.01",
+      "fee": "0",
+      "fee_status": "free",
+      "fee_source": "Gamma feesEnabled=false",
+      "fee_rate": "0",
+      "slippage": "0.00",
+      "position_before": "3.448275",
+      "position_after": "0.000000",
+      "cash_before": "47.00000075",
+      "cash_after": "49.96551725",
+      "realized_pnl": "-0.03448275",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.88",
+      "model_confidence": "0.8",
+      "source_quality": "0.8",
+      "edge": "0.02",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.86",
+      "exit_ask": "0.87",
+      "exit_spread": "0.01",
+      "requested_quantity": "3.448275",
+      "fill_status": "filled",
+      "fill_notional": "2.96551650",
+      "fill_legs": [
+        [
+          "0.86",
+          "3.448275"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-01T10:28:02.897391+00:00",
+      "book_timestamp": "1790850479000",
+      "gross_pnl": "-0.03448275",
+      "net_pnl": "-0.03448275",
+      "return_pct": "-1.14942528735632183908045977011494252873563218390804597701149"
     }
   ],
   "test_run": null,
@@ -113,40 +156,30 @@
       "ai_temperature": "0.10",
       "billing_disabled_confirmed": true
     },
-    "positions_meta": {
-      "665374:NO": {
-        "entry_time": "2026-10-01T10:17:41.302988+00:00",
-        "entry_price": "0.870000000000000000",
-        "entry_cost": "2.99999925",
-        "fair_probability": "0.95",
-        "model_confidence": "0.7",
-        "edge": "0.08",
-        "ai_model": "gemini-3.5-flash-lite"
-      }
-    },
+    "positions_meta": {},
     "last_trade_by_market": {
-      "665374": "2026-10-01T10:17:41.302988+00:00"
+      "665374": "2026-10-01T10:28:02.898739+00:00"
     },
     "day": {
       "date": "2026-10-01",
       "starting_equity": "50.00"
     },
     "counters": {
-      "cycles": 1,
-      "markets_scanned": 1029,
-      "prefilter_selected": 40,
-      "political_excluded": 601,
-      "ai_evaluations": 40,
-      "ai_skips": 32,
+      "cycles": 2,
+      "markets_scanned": 2058,
+      "prefilter_selected": 80,
+      "political_excluded": 1202,
+      "ai_evaluations": 80,
+      "ai_skips": 65,
       "edge_candidates": 1,
       "entries": 1,
-      "exits": 0,
-      "rejections": 0
+      "exits": 1,
+      "rejections": 1
     },
     "errors": [],
     "warnings": [],
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "db3130a059d346853b70c16538a5f5093da126b7e3a09cdbb0dc91f3c1065c2b"
+  "checksum": "0404646d7d9c1c61f9ab90ede22a68e1c596884ae391c54ed81e30c1ebd95cac"
 }
