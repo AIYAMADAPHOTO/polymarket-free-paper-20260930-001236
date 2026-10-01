@@ -399,6 +399,63 @@
       "market_id": "637004",
       "query": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?"
     },
+    "653788": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T21:27:54.730190+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T06:55:34+00:00",
+          "source": "Yahoo Tech",
+          "source_url": "https://tech.yahoo.com",
+          "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not - Yahoo Tech",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHc4WDkyaGNOMmNzdnh3Z01KNDhubUIxNF91MjlTcjNqaVl3bGYwYVJLR1NVOG1sLXdocXpqUWdnc05RWFl5RjJzVW5lSkQzMC01U005LUZMajFOdG0yekZ3Tm8zeVlEN1dqemNmX2t0cDYzdmlNRm1Jd0N2WG1CbGRn?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-14T07:00:00+00:00",
+          "source": "AIMultiple",
+          "source_url": "https://aimultiple.com",
+          "title": "AGI/Singularity: 10,000 Predictions Analyzed - AIMultiple",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNkwzTFZkTG41N2Rad1NTTFFSa1dLUTYwZnVRMVdrTkg1N0ZTN1g2cU5LRWp6S1JnSlBOeTAtR0VySEtRUEh2azlfYVJLWEYxT0R4WlVMdllDWXpuVUZaR09KNE5tWHpQNmN1Q2tPQWVfNjd3VWhXQlprMUM0Zw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "source": "oddsshopper.com",
+          "source_url": "https://www.oddsshopper.com",
+          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - oddsshopper.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rNmYxU1lIVkJ1X2k5TFlRdnY5RG9sZEd6R2FsYkRTYVVIRk1udnEyRUhfOUFScXRySzZiYmkxTHBjNU1EN1hicHE4cGxuMTVmQ1BQQTI3aWJ2SW5sV215OHo4TGhhOHd4VE1ST3A2b2p5Uy1mZEowaGhmMA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-19T07:00:00+00:00",
+          "source": "tech-insider.org",
+          "source_url": "https://tech-insider.org",
+          "title": "AGI in 5 Years? Manifold Bettors Put It at 62% After GPT-6 Astra - tech-insider.org",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Va0ExVFpWSjBueFFRcXN0VDBIM2dYclVuaUJEOHdGMWtrRnAycU5QNVJUanJxelQ3VzVKdks5NXlYVmxmQzF1UlFuVmFkb0xmWFROV0FudllCSkxBcWtOWWxUdURRTkxpQy0yUkprZV9YOG5QcUs4a1pCM0I?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "finance.biggo.com",
+          "source_url": "https://finance.biggo.com",
+          "title": "Prediction Markets See 62% Odds of AGI Announcement by Early 2027 After GPT-6 Astra Debut - finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUlNUbllnMDhfN0tMdWhGeHlYWjlHWE5ab2ZGSmREMV9mSU9jR1o5bFFPRVFSOWMtZ3BncUtTbEFIREkwZEI1SUZFY1hRaGFNdHZ3WFMzQzRrSnR3VXNBN1FEVVdtdG9hcHZ1UEhtbERqYlBqVFE?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-07T07:00:00+00:00",
+          "source": "benzinga.com",
+          "source_url": "https://www.benzinga.com",
+          "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - benzinga.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3N4aDVfM2hOMHppbzU5dGt3b2owQVI1WjJIVnkzWEpHdm1LNllIRVJYeVE5bGM2QXBBYXlsZHBjR1AtczcxS3g3OFU1Y1JSc0JfdlJCa0ZydjRrN01QT1ZxYTVScU5EX1FreERKd3ZVUldxNlFaTkNxbHhyWDZWSmNzTWRDV2JRcWVkUE9vOW5oeWRZcERRMTVZRDJRdDdkMV8wZVJWSkRzRl9TX09nU1dJb3FCS01aOHc?oc=5"
+        }
+      ],
+      "market_id": "653788",
+      "query": "OpenAI announces it has achieved AGI before 2027?"
+    },
     "665224": {
       "category_hint": "weather",
       "errors": [],
