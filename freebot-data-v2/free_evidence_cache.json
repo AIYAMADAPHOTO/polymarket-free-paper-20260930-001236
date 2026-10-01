@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -16,9 +16,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T10:17:00+00:00",
-          "source": "Planet Football",
+          "source": "planetfootball.com",
           "source_url": "https://www.planetfootball.com",
-          "title": "Everyone who has backed the Kylian Mbappe Ballon d’Or PR campaign: Mourinho, Henry… - Planet Football",
+          "title": "Everyone who has backed the Kylian Mbappe Ballon d’Or PR campaign: Mourinho, Henry… - planetfootball.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3I5WlBILUxjSmRESmgyUll5eGZTMUJGckE1a2pPTVJaV2xQbjQ1N1duZlVlOUttbmdwaXN6c1ZNejU2bWpGSTVXbkVIYS1rTExTdTEzaXRuVTd0dk9LTVd1RWhTaHRjQzZacU1yNFI2N0phNHo3RVd0OFVNRUkzRWs2QThwaFRHMXhLU3ppQy1wTktQNjB3?oc=5"
         },
         {
@@ -48,9 +48,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-22T07:00:00+00:00",
-          "source": "cnn.com",
+          "source": "CNN",
           "source_url": "https://www.cnn.com",
-          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - cnn.com",
+          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - CNN",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaFlMQWZja0NFZGhweEJtYmpZMl82MTR0MDJ6MVYwdXB6VS11N3g3bjZqSWljcS1vM0xHd0gwR1RRaTdlSTdxbG9BbDhGajl2MGM0WXJCdzgwdExzRWswNGJSY1M3Smo4NUFaYXVlQU9NSVpnS3dxT0hJbw?oc=5"
         }
       ],
@@ -60,7 +60,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -105,9 +105,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T08:04:50+00:00",
-          "source": "beninwebtv.bj",
+          "source": "Benin Web TV",
           "source_url": "https://beninwebtv.bj",
-          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - beninwebtv.bj",
+          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
         }
       ],
@@ -117,8 +117,16 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T12:33:15+00:00",
+          "source": "bundesliga.com",
+          "source_url": "https://www.bundesliga.com",
+          "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
+        },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
@@ -130,9 +138,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "fcbayern.com",
+          "source": "FC Bayern Munich",
           "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
@@ -158,14 +166,6 @@
           "source_url": "https://www.espn.com",
           "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-26T12:06:23+00:00",
-          "source": "bundesliga.com",
-          "source_url": "https://www.bundesliga.com",
-          "title": "Harry Kane would be \"very proud\" to win Ballon d'Or - bundesliga.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmZvR3J2a1VZV2NKb0RpNG9rcGFUYnhkazJ1REZhbjhwM3NEVjFTY0VETjJWZkh2SnFQU3VoeHBpYXM3YWctYkExa1dCNnBjQ0dSZHdtM1F1TjFWNVpsaTNWR3dRb015aTRuYzRXazhvR1p1aDhtNWQ2MU9TU21WUzQxVUhUQ2I0cGFsenFuN3E4MUhzSl9weXpQNnZjNDUyd3dONE43dXlhUVNfWWUxQkp5STg?oc=5"
         }
       ],
       "market_id": "608547",
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -211,18 +211,18 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "Inter Miami CF",
-          "source_url": "https://www.intermiamicf.com",
-          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
+          "source": "CNN",
+          "source_url": "https://www.cnn.com",
+          "title": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "mlssoccer.com",
-          "source_url": "https://www.mlssoccer.com",
-          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - mlssoccer.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1IwcVN3NFA4ZHB5RjllUzJjUWtNeTZRTTczY0FKYmw0VXhGNWxzYUN0TUQ5dnlLRVVSUmFZQVhGT1dHMnJDaUk5dEZKM1Z0NmQ4aFB0WGJUU29MbE93NEQ3MEl1aGtOLVdXUUw1aFdpbWNfdTFIanB2ZHVMcGNWS1hpT1BQcWJXSFVwQ25pTTFwUEdUX2c?oc=5"
+          "source": "Inter Miami CF",
+          "source_url": "https://www.intermiamicf.com",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
         }
       ],
       "market_id": "608565",
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -288,7 +288,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -353,7 +353,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
+      "fetched_at": "2026-10-01T15:32:03.954150+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -398,9 +398,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-04-05T07:00:00+00:00",
-          "source": "TradingView",
+          "source": "tradingview.com",
           "source_url": "https://www.tradingview.com",
-          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
+          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - tradingview.com",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
         }
       ],
