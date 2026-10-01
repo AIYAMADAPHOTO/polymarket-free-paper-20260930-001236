@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
+      "fetched_at": "2026-10-01T22:19:56.139207+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -24,9 +24,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-23T05:53:34+00:00",
-          "source": "oddsshopper.com",
+          "source": "OddsShopper",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - oddsshopper.com",
+          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - OddsShopper",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
+      "fetched_at": "2026-10-01T22:19:56.139207+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -137,14 +137,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T14:51:00+00:00",
-          "source": "Planet Football",
-          "source_url": "https://www.planetfootball.com",
-          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-30T13:17:40+00:00",
           "source": "voz.us",
           "source_url": "https://voz.us",
@@ -153,10 +145,18 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T14:51:00+00:00",
+          "source": "Planet Football",
+          "source_url": "https://www.planetfootball.com",
+          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-23T20:00:01+00:00",
-          "source": "si.com",
+          "source": "Sports Illustrated",
           "source_url": "https://www.si.com",
-          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - si.com",
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
         },
         {
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
+      "fetched_at": "2026-10-01T22:19:56.139207+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -219,9 +219,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-22T07:00:00+00:00",
-          "source": "CBS Sports",
+          "source": "cbssports.com",
           "source_url": "https://www.cbssports.com",
-          "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - CBS Sports",
+          "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - cbssports.com",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJaSVZvSFp0MDNNNDA4UWpNa0YyeE4yQWl2RlZCX1dYNHFjUWN6VE1UZEh1MFVkS1VLUmtUc1hkTEtFbXdPX0FfZ1A5ODhBcFV1S3RxRkEwVWpwVDBlbzBQV2xWVE1uOHZwVk9iVERhaFZGSDYxMUhYRmlsU3haOWtUckRpdEhIOHBxUlZSdWJOS3lNYm5QNW5YZHdhaVE2RnoxM2R3?oc=5"
         }
       ],
@@ -288,7 +288,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
+      "fetched_at": "2026-10-01T22:19:56.139207+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -345,14 +345,14 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
+      "fetched_at": "2026-10-01T22:19:56.139207+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-25T07:00:00+00:00",
-          "source": "Casino.org",
+          "source": "casino.org",
           "source_url": "https://www.casino.org",
-          "title": "The 2026 Nobel Peace Prize Odds and Predictions - Casino.org",
+          "title": "The 2026 Nobel Peace Prize Odds and Predictions - casino.org",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FdEJIWWdrU1duRFZkUzVrZm92WFQzLUJiUkxIU3dua2U5VzQ2MFlBaFoyV2dLZ2NGcENxVnRBUDNDSms0UWtyZjNBLWJ1UHVfRUxoMFlXRmp4RTkzTjFuZzdPMTJkMzEtRU13c21ZUlo?oc=5"
         },
         {
@@ -374,17 +374,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-07T22:47:31+00:00",
-          "source": "oddsshopper.com",
+          "source": "OddsShopper",
           "source_url": "https://www.oddsshopper.com",
-          "title": "Nobel Peace Prize Odds: The Winner Probably Isn't Listed - oddsshopper.com",
+          "title": "Nobel Peace Prize Odds: The Winner Probably Isn't Listed - OddsShopper",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUFmd213cDJQUzdPRjVDZU12b2dBeWpVMGFkUzBMQkR6eFhoYmQ2QzZ2bkh3OEp0bEhsTEphTjBRX3cxMFpqS3JmNjZ5eHAyVF9PYkUtazYtdlM1XzNvVjBoaEZobHdpdm85Ull1RXBlSVJTR2wtVGc1dG80LTlyWWlFSVQyX09qR3U4cV9TYmxxWlpOT09r?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-05-01T07:00:00+00:00",
-          "source": "MassLive.com",
+          "source": "masslive.com",
           "source_url": "https://www.masslive.com",
-          "title": "Does Trump have a chance at the 2026 Nobel peace prize? What betting markets say - MassLive.com",
+          "title": "Does Trump have a chance at the 2026 Nobel peace prize? What betting markets say - masslive.com",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0lPOWpnU2NOR3BiaGRCUTZVSWxCLWxlQ0oyeDRzTndUbmVnWmd2alVFWTJkZGlhVFpPVXcxLVVDOFlxMlZoeXVqWDIzT1VuanAtTHlnRTlvTnk3LTNLR1p3aTBwTG4zMVpBSDBxWDFWZlp3dFBxQWVBa2NGcUlrVHhUZjk0TVpsMHpqVWctcDB0dlg5b3NRNHpmR0JMTWN6Z0V1alVVVThFYVRjM2lnbWdpUzVhT0FWN3ZSajVCQdIB0wFBVV95cUxQY0ZMbTZRRlFNajZmT2lfSW02UUp6aXpyUkx6V1poYUhUQTRCUUJIMlZvNks0eXBsTDFQZXd0M2psbGg5aUpCQ21STU05d2JlRmlzZ1diYmk0UjVZN2tMQWdfY2F6Rm1lbjR1b3B2R1BlWVUxMXAzaVJZMDhiN3FIWFdCTGpJbXY2WVlLUkhhVzBKS1Bhc2lTWUxwT0xNeU95TUpHVWVkSWhabGs2ZFZua3Q1LVlJUzRCTkU5by1ianRYSVVYN3JWNDlWS1FITjh4VHln?oc=5"
         },
         {
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
+      "fetched_at": "2026-10-01T22:19:56.139207+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -480,9 +480,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-08T07:00:00+00:00",
-          "source": "benzinga.com",
+          "source": "Benzinga",
           "source_url": "https://www.benzinga.com",
-          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - benzinga.com",
+          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - Benzinga",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2p6enRWYzZ3RUtjRERxY2ZnSWhmRkZGbFNvNUkwVVpVRkd5Q25CQ0xaYmk1R0c3Q2FsdGZJR3ItZ3JTYzZTSUZ5dllJellxUUEzQ1N0VDhteGMyOFQtbXk4eWN6WVk2NXEtQnlJeUpQcktWMlh2cGNua2xsT25IZXB1dEpNLUxVVVozZVFoa0lROUlFbUxWQkZmLVVweTMtR21nTkZzZ0QxNjFrLVZhSkl2QnJKZnRTMUZGNVBiRy16c1NhQWE3WHIwVW03aE0?oc=5"
         },
         {
@@ -496,9 +496,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-09T07:00:00+00:00",
-          "source": "benzinga.com",
+          "source": "Benzinga",
           "source_url": "https://www.benzinga.com",
-          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - benzinga.com",
+          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - Benzinga",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRURHbjZXYk1fbGNZMDJZTzdISVVlXzQwNklDU3NtbnRqanpEYVlwX1U3OHhma3NmQmpfTUZIOVRNUE5meXk3X1N0eENfX0hYdElWWGdmVGRHOUNPUl9IbGI1STFCbWlTMlpHdUxaVGFhU3IwZ3EyYzFzNG1mVFhhX0h4OWlGSWxoOUY4R1lraEVkNVB5T2dGaWlxbmp3S1lESm5lQ1EtS0poUEtyVWZMaXJxazNmSjFaWExrX2tjeVVXdHdzaUM2cTM1Y3BqMTVOeXF2OFU3RkF4aW95aFI0Rmg0ZjFZb2oyVS1sRUNsaTl6SmlHM0hjQmZOd3M0MG00Q1FwdGlzbkZ3SUlXbTNIdVN3?oc=5"
         },
         {
