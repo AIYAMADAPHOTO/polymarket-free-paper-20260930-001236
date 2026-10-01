@@ -1,40 +1,32 @@
 {
-  "cash": "46.93519496",
+  "cash": "49.89622266",
   "counters": {
-    "ai_evaluations": 2360,
-    "ai_skips": 1724,
-    "cycles": 65,
+    "ai_evaluations": 2400,
+    "ai_skips": 1756,
+    "cycles": 66,
     "edge_candidates": 3,
     "entries": 3,
-    "exits": 2,
-    "markets_scanned": 66885,
-    "political_excluded": 39065,
-    "prefilter_selected": 2600,
-    "rejections": 13
+    "exits": 3,
+    "markets_scanned": 67914,
+    "political_excluded": 39666,
+    "prefilter_selected": 2640,
+    "rejections": 14
   },
   "equity_mark_to_bid_before_exit_fee": "49.89622266",
   "last_model": "gemini-3.5-flash-lite",
   "net_pnl_mark_to_bid": "-0.10377734",
-  "open_positions": {
-    "665374:NO": {
-      "cost_basis": "2.99586332",
-      "market_id": "665374",
-      "market_title": "Will the U.S. invade Iran before 2027?",
-      "outcome": "NO",
-      "quantity": "3.483562"
-    }
-  },
+  "open_positions": {},
   "paid_api_fallback_used": false,
   "real_order_code_used": false,
-  "realized_pnl": "-0.06894172",
+  "realized_pnl": "-0.10377734",
   "return_pct_mark_to_bid": "-0.2075546800",
   "scheduled_end_time": "2026-10-03T10:17:27.841065+00:00",
   "start_time": "2026-10-01T10:17:27.841065+00:00",
   "starting_equity": "50.00",
   "status": "RUNNING",
-  "timestamp": "2026-10-01T21:28:02.796098+00:00",
-  "trade_count": 5,
+  "timestamp": "2026-10-01T21:38:27.194322+00:00",
+  "trade_count": 6,
   "unpriced_positions": [],
-  "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.03483562",
+  "unrealized_pnl_mark_to_bid_before_exit_fee": "0",
   "valuation_status": "fresh_bid_before_exit_fee"
 }
