@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:17:34.883530+00:00",
+      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -24,9 +24,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-23T05:53:34+00:00",
-          "source": "OddsShopper",
+          "source": "oddsshopper.com",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - OddsShopper",
+          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - oddsshopper.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:17:34.883530+00:00",
+      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -154,9 +154,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-23T20:00:01+00:00",
-          "source": "Sports Illustrated",
+          "source": "si.com",
           "source_url": "https://www.si.com",
-          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - si.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
         },
         {
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:17:34.883530+00:00",
+      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -194,10 +194,18 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T06:01:00+00:00",
+          "source": "FC Bayern Munich",
+          "source_url": "https://fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -215,14 +223,6 @@
           "source_url": "https://www.cbssports.com",
           "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJaSVZvSFp0MDNNNDA4UWpNa0YyeE4yQWl2RlZCX1dYNHFjUWN6VE1UZEh1MFVkS1VLUmtUc1hkTEtFbXdPX0FfZ1A5ODhBcFV1S3RxRkEwVWpwVDBlbzBQV2xWVE1uOHZwVk9iVERhaFZGSDYxMUhYRmlsU3haOWtUckRpdEhIOHBxUlZSdWJOS3lNYm5QNW5YZHdhaVE2RnoxM2R3?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "ESPN",
-          "source_url": "https://www.espn.com",
-          "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
         }
       ],
       "market_id": "608547",
@@ -288,7 +288,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:17:34.883530+00:00",
+      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -345,7 +345,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:17:34.883530+00:00",
+      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -374,9 +374,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-07T22:47:31+00:00",
-          "source": "OddsShopper",
+          "source": "oddsshopper.com",
           "source_url": "https://www.oddsshopper.com",
-          "title": "Nobel Peace Prize Odds: The Winner Probably Isn't Listed - OddsShopper",
+          "title": "Nobel Peace Prize Odds: The Winner Probably Isn't Listed - oddsshopper.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUFmd213cDJQUzdPRjVDZU12b2dBeWpVMGFkUzBMQkR6eFhoYmQ2QzZ2bkh3OEp0bEhsTEphTjBRX3cxMFpqS3JmNjZ5eHAyVF9PYkUtazYtdlM1XzNvVjBoaEZobHdpdm85Ull1RXBlSVJTR2wtVGc1dG80LTlyWWlFSVQyX09qR3U4cV9TYmxxWlpOT09r?oc=5"
         },
         {
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T21:17:34.883530+00:00",
+      "fetched_at": "2026-10-01T21:48:40.947405+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -480,9 +480,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-08T07:00:00+00:00",
-          "source": "Benzinga",
+          "source": "benzinga.com",
           "source_url": "https://www.benzinga.com",
-          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - Benzinga",
+          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - benzinga.com",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2p6enRWYzZ3RUtjRERxY2ZnSWhmRkZGbFNvNUkwVVpVRkd5Q25CQ0xaYmk1R0c3Q2FsdGZJR3ItZ3JTYzZTSUZ5dllJellxUUEzQ1N0VDhteGMyOFQtbXk4eWN6WVk2NXEtQnlJeUpQcktWMlh2cGNua2xsT25IZXB1dEpNLUxVVVozZVFoa0lROUlFbUxWQkZmLVVweTMtR21nTkZzZ0QxNjFrLVZhSkl2QnJKZnRTMUZGNVBiRy16c1NhQWE3WHIwVW03aE0?oc=5"
         },
         {
@@ -496,9 +496,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-09T07:00:00+00:00",
-          "source": "Benzinga",
+          "source": "benzinga.com",
           "source_url": "https://www.benzinga.com",
-          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - Benzinga",
+          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - benzinga.com",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRURHbjZXYk1fbGNZMDJZTzdISVVlXzQwNklDU3NtbnRqanpEYVlwX1U3OHhma3NmQmpfTUZIOVRNUE5meXk3X1N0eENfX0hYdElWWGdmVGRHOUNPUl9IbGI1STFCbWlTMlpHdUxaVGFhU3IwZ3EyYzFzNG1mVFhhX0h4OWlGSWxoOUY4R1lraEVkNVB5T2dGaWlxbmp3S1lESm5lQ1EtS0poUEtyVWZMaXJxazNmSjFaWExrX2tjeVVXdHdzaUM2cTM1Y3BqMTVOeXF2OFU3RkF4aW95aFI0Rmg0ZjFZb2oyVS1sRUNsaTl6SmlHM0hjQmZOd3M0MG00Q1FwdGlzbkZ3SUlXbTNIdVN3?oc=5"
         },
         {
