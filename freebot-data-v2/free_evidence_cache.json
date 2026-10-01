@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -60,7 +60,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -251,19 +251,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "Forbes",
-          "source_url": "https://www.forbes.com",
-          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-09T07:00:00+00:00",
           "source": "Reuters",
           "source_url": "https://www.reuters.com",
           "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -275,11 +275,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-15T07:00:00+00:00",
-          "source": "Norada Real Estate Investments",
-          "source_url": "https://www.noradarealestate.com",
-          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlhMTEFheG1UWnI0c0J0RHJJZEZUR0lWMGtNQUdqbzg1X2c1Zng4b2x3Nkx3TC0wQWI4T1c5N3lwNUl5QzJ5T1lWemhLLTJ4V1JSTzdRX1BBVGMzVEtSLVFZWjdnS25aZ3p4WGRGTEhlRUFTY0VKZ3ktX1JFVHBWMlgxekpmSEJjR20zUw?oc=5"
+          "published_at": "2026-01-29T08:00:00+00:00",
+          "source": "J.P. Morgan",
+          "source_url": "https://www.jpmorgan.com",
+          "title": "Fed Leaves Rates Unchanged to Start 2026: Is a Cut Coming in March? - J.P. Morgan",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclBRVmJheElTNjZMUVRPalRFeXN6LW95NjdyN29ZVk40VDZIUXdCS3NGczNBYXd4Y2ZGTWhqVC0xWmVJN2F5MkVhM2pMRXVkb1ZvYnRkU2VRVVptTEhaUENkaG5yU25jbV84SjZFem1KRkRLOC1PcGJEbElQQVBLak9pWVNLUk5MNDFIdGdUMA?oc=5"
         }
       ],
       "market_id": "616902",
@@ -288,7 +288,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -353,7 +353,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
+      "fetched_at": "2026-10-01T17:37:30.848172+00:00",
       "items": [
         {
           "kind": "news_rss",
