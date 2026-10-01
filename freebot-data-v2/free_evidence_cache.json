@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -16,9 +16,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "Diario AS",
+          "source": "en.as.com",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -60,7 +60,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -96,19 +96,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T08:04:50+00:00",
-          "source": "Benin Web TV",
-          "source_url": "https://beninwebtv.bj",
-          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-23T09:23:00+00:00",
           "source": "ESPN",
           "source_url": "https://www.espn.com",
           "title": "Lamine Yamal rejects goal stats for Ballon d'Or for 'players that make you dream' - ESPN",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDMtcmVBcGZGYld6aWYzdkFlV2xwLVVGcnBablRHeHR3U2R0cHpCQWg4Rlhaa25DNklNelJYX2hrbGI0Mk94V1BjQmVXUlIzQ0I3aGhqLUhELU9oTVR3ZzRBSmRnM09mSUFMMlRLSl9wV3FBSXp5NUxYcFFpSTdUWlhIMlJCVWRCanVCMUxFUkQwbk1TTU44OFZVaDEwNEJiVlhqTV9sYWQzdjgwalE?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T08:04:50+00:00",
+          "source": "Benin Web TV",
+          "source_url": "https://beninwebtv.bj",
+          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
         }
       ],
       "market_id": "608545",
@@ -117,7 +117,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -129,10 +129,18 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T06:01:00+00:00",
+          "source": "FC Bayern Munich",
+          "source_url": "https://fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "Diario AS",
+          "source": "en.as.com",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -158,14 +166,6 @@
           "source_url": "https://www.bundesliga.com",
           "title": "Harry Kane would be \"very proud\" to win Ballon d'Or - bundesliga.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmZvR3J2a1VZV2NKb0RpNG9rcGFUYnhkazJ1REZhbjhwM3NEVjFTY0VETjJWZkh2SnFQU3VoeHBpYXM3YWctYkExa1dCNnBjQ0dSZHdtM1F1TjFWNVpsaTNWR3dRb015aTRuYzRXazhvR1p1aDhtNWQ2MU9TU21WUzQxVUhUQ2I0cGFsenFuN3E4MUhzSl9weXpQNnZjNDUyd3dONE43dXlhUVNfWWUxQkp5STg?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-30T10:30:00+00:00",
-          "source": "Bavarian Football Works",
-          "source_url": "https://www.bavarianfootballworks.com",
-          "title": "Uli Hoeneß makes Ballon d’Or case for Bayern Munich’s Harry Kane - Bavarian Football Works",
-          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNUmRRanhyX0YtYjBEc2dxWkpFTkZ0dmFoR21IWVRCdmhNcVE0bnY4SnQwRWhET1Q5RS0zdV8zS0xWVTFlaVdfVTNNSGhTOHBTQ29KZk16SGdJUkRNZDVCMDVxbk5xN2VzZFE4RW5JamcxLWlwN19JUl9wUl8yblJMaHpja19OajVrN2tFa0dfWXpaT1Z5bDF6azVIc2dpYktoSjFkMUF3TEpmc3JybGxXaXBVVFRLc2ljSzQ3bC1GTmwwTHJTVEhBNURPT3ZyVm15SU9kVUhsVWlRNGRWMEtWWG82WWN6N21fM3F3T1RDNUNoejBWU2ZSNTdfQUozWmYweDh0UW1JN2w4VXZJZEVXU2JLaE5Bb3ZDbWwtZ0xmNWtsLUZ5dzRidkFlb1ZBdGVjLVhBZGg3YjAtZXppa2Y0OUotM0gtUTA3QndwVzluMnBiSjdZYnA4U0NJVC05T0Y4dXdn?oc=5"
         }
       ],
       "market_id": "608547",
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -187,9 +187,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "Diario AS",
+          "source": "en.as.com",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -203,17 +203,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "CNN",
-          "source_url": "https://www.cnn.com",
-          "title": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "Inter Miami CF",
+          "source": "intermiamicf.com",
           "source_url": "https://www.intermiamicf.com",
-          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - intermiamicf.com",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
         },
         {
@@ -223,6 +215,14 @@
           "source_url": "https://www.mlssoccer.com",
           "title": "Lionel Messi nominated for Ballon d'Or 2026 award - MLSsoccer.com",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1IwcVN3NFA4ZHB5RjllUzJjUWtNeTZRTTczY0FKYmw0VXhGNWxzYUN0TUQ5dnlLRVVSUmFZQVhGT1dHMnJDaUk5dEZKM1Z0NmQ4aFB0WGJUU29MbE93NEQ3MEl1aGtOLVdXUUw1aFdpbWNfdTFIanB2ZHVMcGNWS1hpT1BQcWJXSFVwQ25pTTFwUEdUX2c?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "CNN",
+          "source_url": "https://www.cnn.com",
+          "title": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5"
         }
       ],
       "market_id": "608565",
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -260,9 +260,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-09T07:00:00+00:00",
-          "source": "Reuters",
+          "source": "reuters.com",
           "source_url": "https://www.reuters.com",
-          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
+          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
         },
         {
@@ -288,7 +288,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -301,9 +301,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-04-30T07:00:00+00:00",
-          "source": "Reuters",
+          "source": "reuters.com",
           "source_url": "https://www.reuters.com",
-          "title": "Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - Reuters",
+          "title": "Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEU2bWlwNXhGTnRRUFE0aUJZTEp2dGNndXVfYTRPNFVMc3diZVl2UGFSZUx5ZzZTSG5yM1hJWERpTjFLMEpRVjU3ZVVCQ1FaTFE2ZUNqZDc2OUZ1WWtJSnBrZHNfNkF3Rm5BV0VJc3hCOUNLVjQ1TC1pRGxjTHdQLTl5ZXFuTnR4OGZjRGJmeDM3bTkzcW45bmFEam9TUXdra3NqQjhPUDFQS2NOOERTX0RmejIxaDRFdlhNUg?oc=5"
         },
         {
@@ -353,7 +353,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:57:49.038887+00:00",
+      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -373,14 +373,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-05T07:00:00+00:00",
-          "source": "tradingview.com",
-          "source_url": "https://www.tradingview.com",
-          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
           "source": "Action Network",
           "source_url": "https://www.actionnetwork.com",
@@ -389,19 +381,27 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-03-27T07:00:00+00:00",
-          "source": "Fortune",
-          "source_url": "https://fortune.com",
-          "title": "The Iran war could drag into 2027, analyst warns. The economic fallout is just getting started - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZYR0xpQTVlTXJVM2ItWV9lSDBTSEpzUkNfMG9pR1B2bnl2N2V2U3Q3MDdLODlHcGV4Y0NhZzlRejg5dTVNci00VFlUSFNpbkFEZURfb25tYnNlYUd4ODk5YWprcjFRdmhmYXRxZDhxVTJFX0F6TmdRa016ckdtaGtXU1dvR0hlTjBLamVqV09xQkNNeC1TdXl0TEpyUQ?oc=5"
+          "published_at": "2026-07-09T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRURHbjZXYk1fbGNZMDJZTzdISVVlXzQwNklDU3NtbnRqanpEYVlwX1U3OHhma3NmQmpfTUZIOVRNUE5meXk3X1N0eENfX0hYdElWWGdmVGRHOUNPUl9IbGI1STFCbWlTMlpHdUxaVGFhU3IwZ3EyYzFzNG1mVFhhX0h4OWlGSWxoOUY4R1lraEVkNVB5T2dGaWlxbmp3S1lESm5lQ1EtS0poUEtyVWZMaXJxazNmSjFaWExrX2tjeVVXdHdzaUM2cTM1Y3BqMTVOeXF2OFU3RkF4aW95aFI0Rmg0ZjFZb2oyVS1sRUNsaTl6SmlHM0hjQmZOd3M0MG00Q1FwdGlzbkZ3SUlXbTNIdVN3?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-03-01T08:00:00+00:00",
-          "source": "CoinDesk",
-          "source_url": "https://www.coindesk.com",
-          "title": "Polymarket traders bet record $500 million on U.S.-Iran war - CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGRjUjBuZUhWLXJLQ0pQQWVacDNZNm9zWFBjOU90dHFKZlZmaWhzRnpvTmNKU00tQzIxOHhmR0N3YTNCNXA2LWdYb3NVcXk3S1lOSWdSMEI1V3Nwa2F0RGZRcU5KRV9QSi1xOEhwZ1hLclFCRlM1dDktVlBtSUhaYnZWRGM2Slo1dXp4TXZIM3BJN09YYTRLOUlMcDJOZ19aY01ycXJCdFJsclZ0MkwtUkZISTVUUERZUzFZSXNKRk42NlM0QUNn?oc=5"
+          "published_at": "2026-07-18T07:00:00+00:00",
+          "source": "CryptoSlate",
+          "source_url": "https://cryptoslate.com",
+          "title": "US x Iran Effective Ceasefire date Final Result & Prediction Market - CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVRsTWJ0WDNrWEdyR3dUYjZvdEVENERQUm83UzFxeEhQdnp3a3c5TDNkMXEtOWlQN0JMeDVRS0ZvX1FqV2dvSWl0ZWYyaEgycl9sSUdrYXhyZ3lVY3FYdEFYam9fZXhmemJWQldaUTNVNUtTSXF4M3pjb0NWZXdxODIwbmc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-05T07:00:00+00:00",
+          "source": "TradingView",
+          "source_url": "https://www.tradingview.com",
+          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
         }
       ],
       "market_id": "665374",
