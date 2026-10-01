@@ -1,0 +1,9 @@
+timestamp,market_id,error
+2026-10-01T10:48:39.345497+00:00,665374,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,608565,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,608545,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,608540,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,608547,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,665513,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,616902,news_rss:HTTPError:HTTP Error 503: Service Unavailable
+2026-10-01T10:48:39.345497+00:00,637004,news_rss:HTTPError:HTTP Error 503: Service Unavailable
