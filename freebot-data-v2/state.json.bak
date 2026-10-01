@@ -348,8 +348,8 @@
       "markets_scanned": 47334,
       "prefilter_selected": 1840,
       "political_excluded": 27646,
-      "ai_evaluations": 1640,
-      "ai_skips": 1173,
+      "ai_evaluations": 1680,
+      "ai_skips": 1183,
       "edge_candidates": 3,
       "entries": 3,
       "exits": 2,
@@ -365,5 +365,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "04c41ff1bbba9aaf4feae9067626a292e6cba06f8e116b4c1dde662b191c05a9"
+  "checksum": "6b9e8cee0b3a6f242ad6bb28b6ed632e278d460a1dd94c3d661a292bf534d6b8"
 }
