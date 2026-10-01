@@ -1,3 +1,4 @@
 timestamp,cash_balance,realized_pnl,equity,unrealized_pnl,valuation_status,unpriced_positions
 2026-10-01T10:17:41.305874+00:00,47.00000075,0,49.96551725,-0.03448275,fresh_bid_before_exit_fee,[]
 2026-10-01T10:28:02.901726+00:00,49.96551725,-0.03448275,49.96551725,0,fresh_bid_before_exit_fee,[]
+2026-10-01T13:05:43.134171+00:00,46.96758686,-0.03448275,49.93105828,-0.03445897,fresh_bid_before_exit_fee,[]
