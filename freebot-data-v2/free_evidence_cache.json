@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -15,10 +15,18 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T10:17:00+00:00",
+          "source": "Planet Football",
+          "source_url": "https://www.planetfootball.com",
+          "title": "Everyone who has backed the Kylian Mbappe Ballon d’Or PR campaign: Mourinho, Henry… - Planet Football",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3I5WlBILUxjSmRESmgyUll5eGZTMUJGckE1a2pPTVJaV2xQbjQ1N1duZlVlOUttbmdwaXN6c1ZNejU2bWpGSTVXbkVIYS1rTExTdTEzaXRuVTd0dk9LTVd1RWhTaHRjQzZacU1yNFI2N0phNHo3RVd0OFVNRUkzRWs2QThwaFRHMXhLU3ppQy1wTktQNjB3?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -40,18 +48,10 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-22T07:00:00+00:00",
-          "source": "CNN",
+          "source": "cnn.com",
           "source_url": "https://www.cnn.com",
-          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - CNN",
+          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - cnn.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaFlMQWZja0NFZGhweEJtYmpZMl82MTR0MDJ6MVYwdXB6VS11N3g3bjZqSWljcS1vM0xHd0gwR1RRaTdlSTdxbG9BbDhGajl2MGM0WXJCdzgwdExzRWswNGJSY1M3Smo4NUFaYXVlQU9NSVpnS3dxT0hJbw?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-15T07:00:00+00:00",
-          "source": "Sports Illustrated",
-          "source_url": "https://www.si.com",
-          "title": "What the Biggest 2026 Ballon d’Or Nominees Have Said About Their Chances - Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OUU1EOW1xeEVCcEF6X2RieDk5N2cxVFBQdkNHLUpVWUNaZUNHSV9BMV9DdFpEMF95MmVvbmFnazhMU0RxMFRkMzJRY0ctTGRXZ2xLVm02REhLeDAwRU5yOHFGcTZpaTdURmwxSUQ1bGVuMEZq?oc=5"
         }
       ],
       "market_id": "608540",
@@ -60,7 +60,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -105,9 +105,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T08:04:50+00:00",
-          "source": "Benin Web TV",
+          "source": "beninwebtv.bj",
           "source_url": "https://beninwebtv.bj",
-          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
+          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - beninwebtv.bj",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
         }
       ],
@@ -117,7 +117,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -130,17 +130,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern Munich",
+          "source": "fcbayern.com",
           "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "title": "Harry Kane's October outlook: My month - fcbayern.com",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -187,9 +187,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -202,27 +202,27 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T14:30:58+00:00",
+          "source": "Bookies.com",
+          "source_url": "https://bookies.com",
+          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmZfRkxEcW80WnY4OVVSeUpuNXFPTldGd2l2Qmxuem0weEEtQlhaZUZlbVdpTU9vRlJfNWQwWnVDUlhmRnN2YjM4NV9xRVpZTG14cHhUQ3FRMFl0ZHlBeThmVXlSRkVGZ0Fuek5TVjBhNUwyVDZyMm5EQjRyUzZjVVBVMUpieTNqRkJuRktPZ2hkT2ZXUWhIanJQcHdoLXdJ?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "intermiamicf.com",
+          "source": "Inter Miami CF",
           "source_url": "https://www.intermiamicf.com",
-          "title": "Leo Messi Nominated for 2026 Ballon d’Or - intermiamicf.com",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "MLSsoccer.com",
+          "source": "mlssoccer.com",
           "source_url": "https://www.mlssoccer.com",
-          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - MLSsoccer.com",
+          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - mlssoccer.com",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1IwcVN3NFA4ZHB5RjllUzJjUWtNeTZRTTczY0FKYmw0VXhGNWxzYUN0TUQ5dnlLRVVSUmFZQVhGT1dHMnJDaUk5dEZKM1Z0NmQ4aFB0WGJUU29MbE93NEQ3MEl1aGtOLVdXUUw1aFdpbWNfdTFIanB2ZHVMcGNWS1hpT1BQcWJXSFVwQ25pTTFwUEdUX2c?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "CNN",
-          "source_url": "https://www.cnn.com",
-          "title": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5"
         }
       ],
       "market_id": "608565",
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -260,9 +260,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-09T07:00:00+00:00",
-          "source": "reuters.com",
+          "source": "Reuters",
           "source_url": "https://www.reuters.com",
-          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - reuters.com",
+          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
         },
         {
@@ -288,7 +288,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -301,9 +301,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-04-30T07:00:00+00:00",
-          "source": "reuters.com",
+          "source": "Reuters",
           "source_url": "https://www.reuters.com",
-          "title": "Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - reuters.com",
+          "title": "Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEU2bWlwNXhGTnRRUFE0aUJZTEp2dGNndXVfYTRPNFVMc3diZVl2UGFSZUx5ZzZTSG5yM1hJWERpTjFLMEpRVjU3ZVVCQ1FaTFE2ZUNqZDc2OUZ1WWtJSnBrZHNfNkF3Rm5BV0VJc3hCOUNLVjQ1TC1pRGxjTHdQLTl5ZXFuTnR4OGZjRGJmeDM3bTkzcW45bmFEam9TUXdra3NqQjhPUDFQS2NOOERTX0RmejIxaDRFdlhNUg?oc=5"
         },
         {
@@ -332,11 +332,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-30T07:00:00+00:00",
-          "source": "Newsweek",
-          "source_url": "https://www.newsweek.com",
-          "title": "Donald Trump’s Odds of Winning 2026 Nobel Peace Prize Surge - Newsweek",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVpGSVN6MFFFSUk1bExOMEw1aDNhY2Q0elh5SGNUbTNZdGx4TkxEUmNCRklta0h5N1VkdDhHUThZcl9DTnZtNnhZMzA5QUFPYjNWUmVCVkJBaFZpTTlPUU5oWWl3b285cTU5WWtfc0VkZ2lsTHQzaWYwVlROQVY1Z29qYjdHeXVqUzFv?oc=5"
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "source": "OLBG",
+          "source_url": "https://www.olbg.com",
+          "title": "Nobel Peace Prize 2026 Odds: Trump Drifts As Sudan Group Leads - OLBG",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWVEa09xZER3eFNlRFF6eW45cUpVYU9EWEp0Nkt4WDdLalczWXpvbF9ESTh6dERSNzlfQU5QZGVKY2dKdThTOU1kMTlzSzYzQlBGbWlHLV90WWVjRl93dFNyc1ZQaENKRUloazRIdkdKLTRWZkk3UmVkTG5HeHBpMXNOZ3J3NUdycGs3OQ?oc=5"
         }
       ],
       "market_id": "637004",
@@ -353,7 +353,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T14:29:02.128202+00:00",
+      "fetched_at": "2026-10-01T15:00:15.604758+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -374,9 +374,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
-          "source": "Action Network",
+          "source": "actionnetwork.com",
           "source_url": "https://www.actionnetwork.com",
-          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - Action Network",
+          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - actionnetwork.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzM1X2dvU1NTTkY4M19Nd3hSeDAxM1g2MnpjTTBfdi1PbDVCa0t1UnNzeHc5YU5vVTR6Z0p1QmpvazZVQUpSZ21KRmpuRG03WExkVUlfcmpYOHgxeERvZmhJN0wtNEtRZnBsdHBQM0o2cWxZaThWblo2V0M5bFdUSVQxN3M5QlhkVldDSmpEeGhzN0Y2NDN5dnd3?oc=5"
         },
         {
