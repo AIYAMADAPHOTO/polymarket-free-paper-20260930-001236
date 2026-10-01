@@ -467,7 +467,7 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T17:27:09.109240+00:00",
+      "fetched_at": "2026-10-01T17:59:09.243303+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -488,9 +488,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-23T14:11:49+00:00",
-          "source": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "source_url": "https://finance.yahoo.com",
-          "title": "Mortgage rate predictions for the next five years: What you can expect through 2031 - finance.yahoo.com",
+          "title": "Mortgage rate predictions for the next five years: What you can expect through 2031 - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbVBWbm9DOWhudlNPT1IzcXBXVFRNRHhvS0QwVnk4V3BFekZZUUxtbzB2N2FqbjVkYk81blVjaE9rV3hsVmdfUFNJV25GY2JpWWdLUDBtNmlDMEUwT2xLbDZ5endBNlN6cmJCYUxvaWxqNlJfenhNVUVrZGFaWmQ0c003aUxhdDRrdjhBTVZfcGtfZU5sQWJtbFl3ZTR2RW0tczZLMzZUY3NpZzE5TDRKX2Y5djlqZlg5TTdCOUhhWVRpc2ZWR21fZzJUczhwSGh6cGlwSGNBdk5lTVl3cWdWV2M0MW8xRnVBS3VKd3E5TQ?oc=5"
         },
         {

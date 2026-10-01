@@ -344,21 +344,26 @@
       "starting_equity": "50.00"
     },
     "counters": {
-      "cycles": 44,
-      "markets_scanned": 45276,
-      "prefilter_selected": 1760,
-      "political_excluded": 26444,
-      "ai_evaluations": 1600,
-      "ai_skips": 1166,
+      "cycles": 45,
+      "markets_scanned": 46305,
+      "prefilter_selected": 1800,
+      "political_excluded": 27045,
+      "ai_evaluations": 1640,
+      "ai_skips": 1173,
       "edge_candidates": 3,
       "entries": 3,
       "exits": 2,
       "rejections": 7
     },
-    "errors": [],
+    "errors": [
+      {
+        "timestamp": "2026-10-01T17:48:45.956617+00:00",
+        "error": "Expecting value: line 317 column 18 (char 10453)"
+      }
+    ],
     "warnings": [],
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "40d393bfdd280bdbb8af1beeaea6399a4aad035585a0862a3ac5886117aad42c"
+  "checksum": "3c6c07a8817a2db6ba03d59f66f15ebc8a51a11803498bc7518ee2ee40acbc68"
 }
