@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -16,9 +16,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -60,7 +60,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -73,9 +73,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:22:39+00:00",
-          "source": "barcauniversal.com",
+          "source": "Barca Universal",
           "source_url": "https://barcauniversal.com",
-          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - barcauniversal.com",
+          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
         },
         {
@@ -88,19 +88,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T08:04:50+00:00",
-          "source": "Benin Web TV",
-          "source_url": "https://beninwebtv.bj",
-          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-23T20:00:01+00:00",
           "source": "Sports Illustrated",
           "source_url": "https://www.si.com",
           "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T08:04:50+00:00",
+          "source": "Benin Web TV",
+          "source_url": "https://beninwebtv.bj",
+          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
         },
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -130,9 +130,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -187,9 +187,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
@@ -203,9 +203,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "intermiamicf.com",
+          "source": "Inter Miami CF",
           "source_url": "https://www.intermiamicf.com",
-          "title": "Leo Messi Nominated for 2026 Ballon d’Or - intermiamicf.com",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
         },
         {
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -251,19 +251,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-09T07:00:00+00:00",
-          "source": "Reuters",
-          "source_url": "https://www.reuters.com",
-          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
           "source": "Forbes",
           "source_url": "https://www.forbes.com",
           "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
         },
         {
           "kind": "news_rss",
@@ -275,11 +275,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-01-29T08:00:00+00:00",
-          "source": "J.P. Morgan",
-          "source_url": "https://www.jpmorgan.com",
-          "title": "Fed Leaves Rates Unchanged to Start 2026: Is a Cut Coming in March? - J.P. Morgan",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclBRVmJheElTNjZMUVRPalRFeXN6LW95NjdyN29ZVk40VDZIUXdCS3NGczNBYXd4Y2ZGTWhqVC0xWmVJN2F5MkVhM2pMRXVkb1ZvYnRkU2VRVVptTEhaUENkaG5yU25jbV84SjZFem1KRkRLOC1PcGJEbElQQVBLak9pWVNLUk5MNDFIdGdUMA?oc=5"
+          "published_at": "2026-09-15T07:00:00+00:00",
+          "source": "Norada Real Estate Investments",
+          "source_url": "https://www.noradarealestate.com",
+          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlhMTEFheG1UWnI0c0J0RHJJZEZUR0lWMGtNQUdqbzg1X2c1Zng4b2x3Nkx3TC0wQWI4T1c5N3lwNUl5QzJ5T1lWemhLLTJ4V1JSTzdRX1BBVGMzVEtSLVFZWjdnS25aZ3p4WGRGTEhlRUFTY0VKZ3ktX1JFVHBWMlgxekpmSEJjR20zUw?oc=5"
         }
       ],
       "market_id": "616902",
@@ -288,7 +288,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -324,19 +324,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-02T07:00:00+00:00",
-          "source": "OLBG",
-          "source_url": "https://www.olbg.com",
-          "title": "Nobel Peace Prize 2026 Odds: Trump Drifts As Sudan Group Leads - OLBG",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWVEa09xZER3eFNlRFF6eW45cUpVYU9EWEp0Nkt4WDdLalczWXpvbF9ESTh6dERSNzlfQU5QZGVKY2dKdThTOU1kMTlzSzYzQlBGbWlHLV90WWVjRl93dFNyc1ZQaENKRUloazRIdkdKLTRWZkk3UmVkTG5HeHBpMXNOZ3J3NUdycGs3OQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-05-01T07:00:00+00:00",
           "source": "MassLive.com",
           "source_url": "https://www.masslive.com",
           "title": "Does Trump have a chance at the 2026 Nobel peace prize? What betting markets say - MassLive.com",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0lPOWpnU2NOR3BiaGRCUTZVSWxCLWxlQ0oyeDRzTndUbmVnWmd2alVFWTJkZGlhVFpPVXcxLVVDOFlxMlZoeXVqWDIzT1VuanAtTHlnRTlvTnk3LTNLR1p3aTBwTG4zMVpBSDBxWDFWZlp3dFBxQWVBa2NGcUlrVHhUZjk0TVpsMHpqVWctcDB0dlg5b3NRNHpmR0JMTWN6Z0V1alVVVThFYVRjM2lnbWdpUzVhT0FWN3ZSajVCQdIB0wFBVV95cUxQY0ZMbTZRRlFNajZmT2lfSW02UUp6aXpyUkx6V1poYUhUQTRCUUJIMlZvNks0eXBsTDFQZXd0M2psbGg5aUpCQ21STU05d2JlRmlzZ1diYmk0UjVZN2tMQWdfY2F6Rm1lbjR1b3B2R1BlWVUxMXAzaVJZMDhiN3FIWFdCTGpJbXY2WVlLUkhhVzBKS1Bhc2lTWUxwT0xNeU95TUpHVWVkSWhabGs2ZFZua3Q1LVlJUzRCTkU5by1ianRYSVVYN3JWNDlWS1FITjh4VHln?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-30T07:00:00+00:00",
+          "source": "Newsweek",
+          "source_url": "https://www.newsweek.com",
+          "title": "Donald Trump’s Odds of Winning 2026 Nobel Peace Prize Surge - Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVpGSVN6MFFFSUk1bExOMEw1aDNhY2Q0elh5SGNUbTNZdGx4TkxEUmNCRklta0h5N1VkdDhHUThZcl9DTnZtNnhZMzA5QUFPYjNWUmVCVkJBaFZpTTlPUU5oWWl3b285cTU5WWtfc0VkZ2lsTHQzaWYwVlROQVY1Z29qYjdHeXVqUzFv?oc=5"
         }
       ],
       "market_id": "637004",
@@ -345,7 +345,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -365,6 +365,14 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-04-05T07:00:00+00:00",
+          "source": "TradingView",
+          "source_url": "https://www.tradingview.com",
+          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
           "source": "Action Network",
           "source_url": "https://www.actionnetwork.com",
@@ -373,27 +381,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-07-09T07:00:00+00:00",
-          "source": "Benzinga",
-          "source_url": "https://www.benzinga.com",
-          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRURHbjZXYk1fbGNZMDJZTzdISVVlXzQwNklDU3NtbnRqanpEYVlwX1U3OHhma3NmQmpfTUZIOVRNUE5meXk3X1N0eENfX0hYdElWWGdmVGRHOUNPUl9IbGI1STFCbWlTMlpHdUxaVGFhU3IwZ3EyYzFzNG1mVFhhX0h4OWlGSWxoOUY4R1lraEVkNVB5T2dGaWlxbmp3S1lESm5lQ1EtS0poUEtyVWZMaXJxazNmSjFaWExrX2tjeVVXdHdzaUM2cTM1Y3BqMTVOeXF2OFU3RkF4aW95aFI0Rmg0ZjFZb2oyVS1sRUNsaTl6SmlHM0hjQmZOd3M0MG00Q1FwdGlzbkZ3SUlXbTNIdVN3?oc=5"
+          "published_at": "2026-03-27T07:00:00+00:00",
+          "source": "Fortune",
+          "source_url": "https://fortune.com",
+          "title": "The Iran war could drag into 2027, analyst warns. The economic fallout is just getting started - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZYR0xpQTVlTXJVM2ItWV9lSDBTSEpzUkNfMG9pR1B2bnl2N2V2U3Q3MDdLODlHcGV4Y0NhZzlRejg5dTVNci00VFlUSFNpbkFEZURfb25tYnNlYUd4ODk5YWprcjFRdmhmYXRxZDhxVTJFX0F6TmdRa016ckdtaGtXU1dvR0hlTjBLamVqV09xQkNNeC1TdXl0TEpyUQ?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-07-18T07:00:00+00:00",
-          "source": "CryptoSlate",
-          "source_url": "https://cryptoslate.com",
-          "title": "US x Iran Effective Ceasefire date Final Result & Prediction Market - CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVRsTWJ0WDNrWEdyR3dUYjZvdEVENERQUm83UzFxeEhQdnp3a3c5TDNkMXEtOWlQN0JMeDVRS0ZvX1FqV2dvSWl0ZWYyaEgycl9sSUdrYXhyZ3lVY3FYdEFYam9fZXhmemJWQldaUTNVNUtTSXF4M3pjb0NWZXdxODIwbmc?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-04-05T07:00:00+00:00",
-          "source": "TradingView",
-          "source_url": "https://www.tradingview.com",
-          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
+          "published_at": "2026-03-01T08:00:00+00:00",
+          "source": "CoinDesk",
+          "source_url": "https://www.coindesk.com",
+          "title": "Polymarket traders bet record $500 million on U.S.-Iran war - CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGRjUjBuZUhWLXJLQ0pQQWVacDNZNm9zWFBjOU90dHFKZlZmaWhzRnpvTmNKU00tQzIxOHhmR0N3YTNCNXA2LWdYb3NVcXk3S1lOSWdSMEI1V3Nwa2F0RGZRcU5KRV9QSi1xOEhwZ1hLclFCRlM1dDktVlBtSUhaYnZWRGM2Slo1dXp4TXZIM3BJN09YYTRLOUlMcDJOZ19aY01ycXJCdFJsclZ0MkwtUkZISTVUUERZUzFZSXNKRk42NlM0QUNn?oc=5"
         }
       ],
       "market_id": "665374",
@@ -402,7 +402,7 @@
     "665513": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T12:23:20.476689+00:00",
+      "fetched_at": "2026-10-01T12:54:50.980801+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -411,14 +411,6 @@
           "source_url": "https://www.king5.com",
           "title": "German chancellor faces tough times after first far-right party's state election win since Nazi era - KING5.com",
           "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNeUwyeFp0NGhESXJMNGNMSmFWUW4wc0lZNG80ODF4NzJmVlY3c0tESUNYeHg0a2tZeUxGOTZ0cHBDX1JSVkw1YlRKRm1vNkR6VkljMXBoRXVzR1EyVUJ6SUVmMHFPZ0hSQlZVTldMcnRpdFdtU0poU2hpaTNGcktTeDNCdG5yY1V5d1JGM1dWVmoxb19jZXhTRTVYM0dZVGJwbmR3cWVYR0JQM3huYk5xa1dycXZnR3ZZVkk5ZW0wWnQ3YUZMd01YNUVBeUY3UXFYc01lUVFjdmF0MGE0NklfWWlYbGdldE1FLVFHa1hiMUpMSS1tWEtoaDAzWk56cFgzYnVmQm42UjBXclVtcjZIeG9rY0xJX3A3aktrQWtjeEF2ZmM?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-07T07:00:00+00:00",
-          "source": "France 24",
-          "source_url": "https://www.france24.com",
-          "title": "Germany’s Merz 'deeply shocked' by far-right AfD's historic electoral victory - France 24",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2UzNm5vbm8yYjlIbEk3ZGlFV1E1QmtHR0RaNms2ajZqUjYtdFBEdEN3ZjVtaEF5cm9naHExOERfVm1FOV9NNzFsTnZRdGdXOHZCamt4bmhNWTVLeURCWmVDeWFIa1psbUZlcHpqNjhmZ2Rqck9YVkREWXAtckFNeURsdTFmU1RUdC03TmRVZVEzT1BzNENzanB3dEJKOVhJUk1VSmxlbTU0V243WmpWd3JobDE?oc=5"
         },
         {
           "kind": "news_rss",
@@ -451,6 +443,14 @@
           "source_url": "https://www.reuters.com",
           "title": "New stability record for Italy's Meloni may prove fleeting - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWNlTEVQN3A1VTlGRGtZb1dITUtFazBfV1k1ZnZkSGhad3B0bnFMc3U4SlNxYzMwQXN5WXhhRml4YVduRmVIVnhSdk00dHF4UVRIcmhHWVk0UWN1UmFnb2d2c0dGNUVzcVF0czlCNmlsLTB0TWNmUWVuNkotQ3pjcHhhcFBFOFNFZHdsOXhCWFlGeThPRnpNOXZmcG5BWVZPbmk0SA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "The Guardian",
+          "source_url": "https://www.theguardian.com",
+          "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXZxRVNNa1pHN3lfMXFCSU1TZjY5MUZaUDRUODlYTk1YbkNfVzhSMWMyLWdRVnJGRzI3Tm1IemxWdzdhejlqeFNWRm9rRnl4QkJ1QnhSVHpYVFhBci1Ga1Q4dzZGNTY2RDhURTV2MDR4Y1NLNTdCYVB4N1FXdldkcXdoNGdUMU1RV3dmNkI1akNlT0xV?oc=5"
         }
       ],
       "market_id": "665513",
