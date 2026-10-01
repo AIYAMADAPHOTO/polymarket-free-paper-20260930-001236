@@ -5,3 +5,4 @@ timestamp,error
 2026-09-30T09:02:11.147439+00:00,HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true
 2026-09-30T15:53:11.928539+00:00,HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true
 2026-09-30T20:45:01.252906+00:00,HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true
+2026-10-01T00:13:43.283144+00:00,HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true

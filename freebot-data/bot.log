@@ -252,3 +252,45 @@ Traceback (most recent call last):
     raise ApiError(f'HTTP {exc.code}: {url}') from exc
 src.polymarket_client.ApiError: HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true
 2026-09-30 20:45:01,252Z INFO State saved trades=0 cash=50.00
+2026-10-01 00:13:43,007Z INFO State restored cash=50.00 positions=0 trades=0
+2026-10-01 00:13:43,212Z WARNING API error HTTP 422 GET https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true
+2026-10-01 00:13:43,212Z ERROR FREE cycle failed; state retained; no paid fallback
+Traceback (most recent call last):
+  File "/home/runner/work/polymarket-free-paper-20260930-001236/polymarket-free-paper-20260930-001236/src/polymarket_client.py", line 43, in _get
+    with self.opener.open(req, timeout=self.timeout) as response:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 422: Unprocessable Entity
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/work/polymarket-free-paper-20260930-001236/polymarket-free-paper-20260930-001236/src/free_runtime.py", line 254, in run
+    result = run_cycle(directory, config, client, gemini, broad, enrich, broker, strategy, storage, evidence)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/polymarket-free-paper-20260930-001236/polymarket-free-paper-20260930-001236/src/free_runtime.py", line 124, in run_cycle
+    candidates = broad.scan()
+                 ^^^^^^^^^^^^
+  File "/home/runner/work/polymarket-free-paper-20260930-001236/polymarket-free-paper-20260930-001236/src/broad_scanner.py", line 120, in scan
+    page = self.client.market_page(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/polymarket-free-paper-20260930-001236/polymarket-free-paper-20260930-001236/src/polymarket_client.py", line 75, in market_page
+    data = self._get(GAMMA_URL, '/markets/keyset', params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/polymarket-free-paper-20260930-001236/polymarket-free-paper-20260930-001236/src/polymarket_client.py", line 50, in _get
+    raise ApiError(f'HTTP {exc.code}: {url}') from exc
+src.polymarket_client.ApiError: HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true
+2026-10-01 00:13:43,283Z INFO State saved trades=0 cash=50.00

@@ -91,11 +91,15 @@
       {
         "timestamp": "2026-09-30T20:45:01.251129+00:00",
         "error": "HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true"
+      },
+      {
+        "timestamp": "2026-10-01T00:13:43.281215+00:00",
+        "error": "HTTP 422: https://gamma-api.polymarket.com/markets/keyset?closed=false&limit=100&order=volume_num%2Cliquidity_num&ascending=false&include_tag=true"
       }
     ],
     "warnings": [],
     "last_model": null,
     "last_grounding_sources": []
   },
-  "checksum": "e44a88e6fa6f7177e22172e56391130ab0a214a7e8e5a8da539611f2a2e512cc"
+  "checksum": "d4f983fab77cab25a852b36553925f3598a81e9a8cc09a79420d7fcf65e6d4a0"
 }
