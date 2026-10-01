@@ -24,3 +24,11 @@ timestamp,error,paid_fallback
   }
 }
 ",False
+2026-10-01T18:30:29.020899+00:00,"Gemini HTTP 503 model=gemini-3.5-flash-lite: {
+  ""error"": {
+    ""code"": 503,
+    ""message"": ""This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."",
+    ""status"": ""UNAVAILABLE""
+  }
+}
+",False
