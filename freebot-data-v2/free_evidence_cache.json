@@ -3,7 +3,7 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -12,6 +12,14 @@
           "source_url": "https://www.forbes.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T16:57:14+00:00",
+          "source": "The Washington Post",
+          "source_url": "https://www.washingtonpost.com",
+          "title": "Dembélé: No issues with France teammate Mbappé despite Ballon d’Or chatter - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkd3VXpZZ2lyZWhlQTQ4QjdWVS01Ymsza3pLdVZLSmZwNWRZRGZxYVRGNDB4dkY2TjkyTHg4N0IyLTRsUmwtZzdCQ2xUbHdyQmx6WWk5OUhKeFpjUjJQVF9zbU5hdDdFZ05SLU42V3E3TUR0MUJVeE9aQlJzdVNoakFnckI1Qld4bDZKY252V0ZQUllGNEpHN0tJRXVMTVBUc0NJVGJvTUNSX2JtaEl4WmRfUml1OEVyLWY4V0RhTVFhTDVmY01nNGxaSzV0U05TQ3c?oc=5"
         },
         {
           "kind": "news_rss",
@@ -44,14 +52,6 @@
           "source_url": "https://www.espn.com",
           "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-22T07:00:00+00:00",
-          "source": "CNN",
-          "source_url": "https://www.cnn.com",
-          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - CNN",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaFlMQWZja0NFZGhweEJtYmpZMl82MTR0MDJ6MVYwdXB6VS11N3g3bjZqSWljcS1vM0xHd0gwR1RRaTdlSTdxbG9BbDhGajl2MGM0WXJCdzgwdExzRWswNGJSY1M3Smo4NUFaYXVlQU9NSVpnS3dxT0hJbw?oc=5"
         }
       ],
       "market_id": "608540",
@@ -60,14 +60,14 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "sports.yahoo.com",
+          "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - sports.yahoo.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -130,9 +130,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "sports.yahoo.com",
+          "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - sports.yahoo.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
         },
         {
@@ -174,7 +174,7 @@
     "608565": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -231,7 +231,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -268,9 +268,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-11T07:00:00+00:00",
-          "source": "newsweek.com",
+          "source": "Newsweek",
           "source_url": "https://www.newsweek.com",
-          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - newsweek.com",
+          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - Newsweek",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2gxejhKMWQ2Z0xyRmJyNUxieFRZUmtQZXcyazh5REJjRExVN1VINFZmZVhiZkxXRVp4TmoxWWlWQWRrVktrcDM1TmtRRkltcDZPM1pNOXFFcGlnaEpKenpyM0IyNXVMT3dVMU90ZnU3bnZ1WTduMDJxcy11OExIZWNiVGh0aU0?oc=5"
         },
         {
@@ -288,7 +288,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -332,11 +332,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-02T07:00:00+00:00",
-          "source": "OLBG",
-          "source_url": "https://www.olbg.com",
-          "title": "Nobel Peace Prize 2026 Odds: Trump Drifts As Sudan Group Leads - OLBG",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWVEa09xZER3eFNlRFF6eW45cUpVYU9EWEp0Nkt4WDdLalczWXpvbF9ESTh6dERSNzlfQU5QZGVKY2dKdThTOU1kMTlzSzYzQlBGbWlHLV90WWVjRl93dFNyc1ZQaENKRUloazRIdkdKLTRWZkk3UmVkTG5HeHBpMXNOZ3J3NUdycGs3OQ?oc=5"
+          "published_at": "2026-04-30T07:00:00+00:00",
+          "source": "Newsweek",
+          "source_url": "https://www.newsweek.com",
+          "title": "Donald Trump’s Odds of Winning 2026 Nobel Peace Prize Surge - Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVpGSVN6MFFFSUk1bExOMEw1aDNhY2Q0elh5SGNUbTNZdGx4TkxEUmNCRklta0h5N1VkdDhHUThZcl9DTnZtNnhZMzA5QUFPYjNWUmVCVkJBaFZpTTlPUU5oWWl3b285cTU5WWtfc0VkZ2lsTHQzaWYwVlROQVY1Z29qYjdHeXVqUzFv?oc=5"
         }
       ],
       "market_id": "637004",
@@ -353,7 +353,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T16:34:41.735651+00:00",
+      "fetched_at": "2026-10-01T17:06:13.375848+00:00",
       "items": [
         {
           "kind": "news_rss",
