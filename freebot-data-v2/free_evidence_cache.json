@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:22:21.944906+00:00",
+      "fetched_at": "2026-10-01T23:53:45.780975+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:22:21.944906+00:00",
+      "fetched_at": "2026-10-01T23:53:45.780975+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:22:21.944906+00:00",
+      "fetched_at": "2026-10-01T23:53:45.780975+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -202,6 +202,14 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T20:30:58+00:00",
+          "source": "bookies.com",
+          "source_url": "https://bookies.com",
+          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - bookies.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmZfRkxEcW80WnY4OVVSeUpuNXFPTldGd2l2Qmxuem0weEEtQlhaZUZlbVdpTU9vRlJfNWQwWnVDUlhmRnN2YjM4NV9xRVpZTG14cHhUQ3FRMFl0ZHlBeThmVXlSRkVGZ0Fuek5TVjBhNUwyVDZyMm5EQjRyUzZjVVBVMUpieTNqRkJuRktPZ2hkT2ZXUWhIanJQcHdoLXdJ?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
           "source": "Diario AS",
           "source_url": "https://en.as.com",
@@ -215,14 +223,6 @@
           "source_url": "https://www.planetfootball.com",
           "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-22T07:00:00+00:00",
-          "source": "CBS Sports",
-          "source_url": "https://www.cbssports.com",
-          "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJaSVZvSFp0MDNNNDA4UWpNa0YyeE4yQWl2RlZCX1dYNHFjUWN6VE1UZEh1MFVkS1VLUmtUc1hkTEtFbXdPX0FfZ1A5ODhBcFV1S3RxRkEwVWpwVDBlbzBQV2xWVE1uOHZwVk9iVERhaFZGSDYxMUhYRmlsU3haOWtUckRpdEhIOHBxUlZSdWJOS3lNYm5QNW5YZHdhaVE2RnoxM2R3?oc=5"
         }
       ],
       "market_id": "608547",
@@ -288,14 +288,14 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:22:21.944906+00:00",
+      "fetched_at": "2026-10-01T23:53:45.780975+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-15T07:00:00+00:00",
-          "source": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "source_url": "https://finance.yahoo.com",
-          "title": "Fed predictions for 2026: Will a rate hike happen by the end of the year? - finance.yahoo.com",
+          "title": "Fed predictions for 2026: Will a rate hike happen by the end of the year? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTNEWW9YbkJOT3A4YjhPMlZZY29YMjc1X29fMDkzMDdQczlEQkpfT0g5NjhtcVdKSWhqZTc2OG1WX3VyU3lWQWkwUHRUR3JrR2U0YXdJdDMwN1ZNcDdPWW5Db3JPeWdqRzNzemhhWXEzcFBxSUV1WndyYjJDSHRjLW5pS0NLUEJHbEFUVXJDdDVaNkEwb25IeTlWcWJkUHBH?oc=5"
         },
         {
@@ -345,7 +345,7 @@
     "637004": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:22:21.944906+00:00",
+      "fetched_at": "2026-10-01T23:53:45.780975+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T23:22:21.944906+00:00",
+      "fetched_at": "2026-10-01T23:53:45.780975+00:00",
       "items": [
         {
           "kind": "news_rss",
