@@ -1,0 +1,461 @@
+{
+  "markets": {
+    "608540": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T07:23:35+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "Diario AS",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T17:25:46+00:00",
+          "source": "usmfreepress.org",
+          "source_url": "https://usmfreepress.org",
+          "title": "The 2026 Ballon d’Or Race has become a debate - usmfreepress.org",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONk1Hc3pVY2ZocC1ad0lIbnlrSzVYSEFFRjhoZ3NibndzOVJwSFExdUJDdHhHNzJRbUVwT0pEbXVaelk5MUNOYzJUX2hEbi1JWU5MNERGQnJEVDJMa251MnEyQ1ZsNnlMMDZyOW5BbWdZcDhLc25wYkNmVHFsZnVRcDJYdHZNem9aYWc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "ESPN",
+          "source_url": "https://www.espn.com",
+          "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "source": "CNN",
+          "source_url": "https://www.cnn.com",
+          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - CNN",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaFlMQWZja0NFZGhweEJtYmpZMl82MTR0MDJ6MVYwdXB6VS11N3g3bjZqSWljcS1vM0xHd0gwR1RRaTdlSTdxbG9BbDhGajl2MGM0WXJCdzgwdExzRWswNGJSY1M3Smo4NUFaYXVlQU9NSVpnS3dxT0hJbw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-25T13:23:04+00:00",
+          "source": "backpagefc.com",
+          "source_url": "https://backpagefc.com",
+          "title": "Ballon d'Or 2026: Who Wins, Odds and Voting Rules - backpagefc.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzlpazZUOG0yamc4cTdrUjZ6djVEcXRIOC0xS09VT2JMck5aYVdJOUxDcGhGbDU4N3ZCdzlZajhHQ1pQOE9tb29rYjNGeFhmTmhuSTdIZ2hSY0hBa1c3NFk0M3otQ0xPbE10Skg0eFktbDN0WVhlckVWd0RiVTVja0N6RVBHQ2FFQV9KNWpSekZXcWptMm80N1FSZENUSjdjUWc?oc=5"
+        }
+      ],
+      "market_id": "608540",
+      "query": "Will Kylian Mbappé win the 2026 Ballon d'Or?"
+    },
+    "608545": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T07:23:35+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T06:22:39+00:00",
+          "source": "Barca Universal",
+          "source_url": "https://barcauniversal.com",
+          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-30T13:17:40+00:00",
+          "source": "voz.us",
+          "source_url": "https://voz.us",
+          "title": "Ballon d'Or: The battle of Lamine Yamal, Mbappé, and Kane - voz.us",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTZLZWFidTZMOVd3Q252ZXBHYUM1U0QzdG5jS1Q5VFdydTBsVjZPY3JLMFFDTjhIWTVCUjlCa0dmTldQSkZQT2pyVGVySTIzalVKa0I4Q01QX1Juc0ZDS2lKUnp0cm5UamNtSnA4Sm5IM0RDZFVYN2hLYTYyR1pOM3hWQnBURl9DV3hENnpZcVl6VTVlU2dRdWpCZ0tvWWs?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T08:04:50+00:00",
+          "source": "Benin Web TV",
+          "source_url": "https://beninwebtv.bj",
+          "title": "Ballon d’Or 2026: Joan Laporta expresses his support for Lamine Yamal - Benin Web TV",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlBGZ3I1cE84Z01nZ3YtTUVMUTVvNl9XZF9hZEdYVEZ5NVVBLTk5TFF3Q1hJRjU4OXZ1dFJRVmNPY0hmTW1iX28tSi1HOFRSdEkwQnY2MDhkTVlpZGhTcl9LT2R1ZnUxencyU2xzOWxDQUEzbjVCbWhWYjNMYm1mdDF6YjI0d1JYR0dKQUVhWW9vdlI4d1gyeA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-23T20:00:01+00:00",
+          "source": "Sports Illustrated",
+          "source_url": "https://www.si.com",
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-30T14:28:53+00:00",
+          "source": "Bookies.com",
+          "source_url": "https://bookies.com",
+          "title": "Ballon d'Or Betting Odds: Kane and Yamal Deadlocked as Favourites - Bookies.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnRhOVJXSGZ5enRiN0NqbjFpNHRUbnFrWEFGNUJZdEpieHQ0dXh3a1U1d1FwLUxJa2lGY280VG5OMklZdkJOcWZBeVhrdGdLcDdJRXE2cE5XZ0pUQTE5OTlLZHBuNHBkWnR4eVpnWHdHZ0N3V3M1VmVXZnJKN1RXSXR1ekVKOC12Q1hQeTN1bC1tcUlvX3RhZ3gySTQ3dw?oc=5"
+        }
+      ],
+      "market_id": "608545",
+      "query": "Will Lamine Yamal win the 2026 Ballon d'Or?"
+    },
+    "608547": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T06:01:00+00:00",
+          "source": "FC Bayern Munich",
+          "source_url": "https://fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T07:23:35+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "Diario AS",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "source": "CBS Sports",
+          "source_url": "https://www.cbssports.com",
+          "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJaSVZvSFp0MDNNNDA4UWpNa0YyeE4yQWl2RlZCX1dYNHFjUWN6VE1UZEh1MFVkS1VLUmtUc1hkTEtFbXdPX0FfZ1A5ODhBcFV1S3RxRkEwVWpwVDBlbzBQV2xWVE1uOHZwVk9iVERhaFZGSDYxMUhYRmlsU3haOWtUckRpdEhIOHBxUlZSdWJOS3lNYm5QNW5YZHdhaVE2RnoxM2R3?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-26T12:06:23+00:00",
+          "source": "bundesliga.com",
+          "source_url": "https://www.bundesliga.com",
+          "title": "Harry Kane would be \"very proud\" to win Ballon d'Or - bundesliga.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmZvR3J2a1VZV2NKb0RpNG9rcGFUYnhkazJ1REZhbjhwM3NEVjFTY0VETjJWZkh2SnFQU3VoeHBpYXM3YWctYkExa1dCNnBjQ0dSZHdtM1F1TjFWNVpsaTNWR3dRb015aTRuYzRXazhvR1p1aDhtNWQ2MU9TU21WUzQxVUhUQ2I0cGFsenFuN3E4MUhzSl9weXpQNnZjNDUyd3dONE43dXlhUVNfWWUxQkp5STg?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T17:45:00+00:00",
+          "source": "Bavarian Football Works",
+          "source_url": "https://www.bavarianfootballworks.com",
+          "title": "‘Voters aren’t naive’ claims former Ballon d’Or chief - Bavarian Football Works",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORDFGdExrYmxRb3oyb2p2Z1RhZ0MyX0VGcjdFc205SnpaTDJiOEptT0tSTGcwNHNadURocW56cWJvWU5waXJ4WHZRWEZLbFpIR2dmSVhhUFJtZkNxUzJ2RDVKNUJtX25DTjZXSVJ2YjdZcDlvbGFBSllmemZZWlRheXA5eDF2QUpRLTdWTXpVcFBWa0t4azYzOVZYWUpYam9Kdi01b1gyc0taODhVbXJibnVtVU9EM2FpYkFDQ2RxS0M3ZTgtU05KZV82QmRHaFg4SlE?oc=5"
+        }
+      ],
+      "market_id": "608547",
+      "query": "Will Harry Kane win the 2026 Ballon d'Or?"
+    },
+    "608565": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T07:23:35+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "Diario AS",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-24T11:50:00+00:00",
+          "source": "Sports Illustrated",
+          "source_url": "https://www.si.com",
+          "title": "Five Reasons Why Lionel Messi Should Win the Ballon d’Or - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWlJWbkdReVdMZkY2X3hQMVV3RFBxMlVGVDRvT2N4bUJMQjRqNDdLdVFQenBjeEt6MHkzcmRZdTFDWlpXX3ZlTGVYOXdmZUkzMTYwVTduZDFCWElwQVhralZDaENCN2o2RlBLUkZ4WnJVYmNnbjFUSG9YQW9tWDY3Wjh5RQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "Inter Miami CF",
+          "source_url": "https://www.intermiamicf.com",
+          "title": "Leo Messi Nominated for 2026 Ballon d’Or - Inter Miami CF",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "MLSsoccer.com",
+          "source_url": "https://www.mlssoccer.com",
+          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - MLSsoccer.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1IwcVN3NFA4ZHB5RjllUzJjUWtNeTZRTTczY0FKYmw0VXhGNWxzYUN0TUQ5dnlLRVVSUmFZQVhGT1dHMnJDaUk5dEZKM1Z0NmQ4aFB0WGJUU29MbE93NEQ3MEl1aGtOLVdXUUw1aFdpbWNfdTFIanB2ZHVMcGNWS1hpT1BQcWJXSFVwQ25pTTFwUEdUX2c?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "CNN",
+          "source_url": "https://www.cnn.com",
+          "title": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5"
+        }
+      ],
+      "market_id": "608565",
+      "query": "Will Lionel Messi win the 2026 Ballon d'Or?"
+    },
+    "616902": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-15T07:00:00+00:00",
+          "source": "Yahoo Finance",
+          "source_url": "https://finance.yahoo.com",
+          "title": "Fed predictions for 2026: Will a rate hike happen by the end of the year? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTNEWW9YbkJOT3A4YjhPMlZZY29YMjc1X29fMDkzMDdQczlEQkpfT0g5NjhtcVdKSWhqZTc2OG1WX3VyU3lWQWkwUHRUR3JrR2U0YXdJdDMwN1ZNcDdPWW5Db3JPeWdqRzNzemhhWXEzcFBxSUV1WndyYjJDSHRjLW5pS0NLUEJHbEFUVXJDdDVaNkEwb25IeTlWcWJkUHBH?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "federalnewsnetwork.com",
+          "source_url": "https://federalnewsnetwork.com",
+          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - federalnewsnetwork.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWVHbjVZU2NrN25rNlBzRVBIR1BiQmpUMnMxYXJPdU10X2JTSEFKa2Y5LTJtb2FhMlJpakdwNlRRZ2JXUDFvRjVZaGY0d3Z5VHQ1Tkh1QUJKbl84WFFjZEt6cldiZFdDeUh3Nkg4VktQZmFULVZuaGFYUHJoeXdVYnpPM3k2RGJtVFhMdWNkN0FLdlh6T0JDQlJ6YjAwaHNuVm8wQWtQY3A1YTRWcWdZdm9LaHozT3lEOFZ3WkZDZw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-11T07:00:00+00:00",
+          "source": "Newsweek",
+          "source_url": "https://www.newsweek.com",
+          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2gxejhKMWQ2Z0xyRmJyNUxieFRZUmtQZXcyazh5REJjRExVN1VINFZmZVhiZkxXRVp4TmoxWWlWQWRrVktrcDM1TmtRRkltcDZPM1pNOXFFcGlnaEpKenpyM0IyNXVMT3dVMU90ZnU3bnZ1WTduMDJxcy11OExIZWNiVGh0aU0?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-01-29T08:00:00+00:00",
+          "source": "J.P. Morgan",
+          "source_url": "https://www.jpmorgan.com",
+          "title": "Fed Leaves Rates Unchanged to Start 2026: Is a Cut Coming in March? - J.P. Morgan",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclBRVmJheElTNjZMUVRPalRFeXN6LW95NjdyN29ZVk40VDZIUXdCS3NGczNBYXd4Y2ZGTWhqVC0xWmVJN2F5MkVhM2pMRXVkb1ZvYnRkU2VRVVptTEhaUENkaG5yU25jbV84SjZFem1KRkRLOC1PcGJEbElQQVBLak9pWVNLUk5MNDFIdGdUMA?oc=5"
+        }
+      ],
+      "market_id": "616902",
+      "query": "Will no Fed rate cuts happen in 2026?"
+    },
+    "637004": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "source": "casino.org",
+          "source_url": "https://www.casino.org",
+          "title": "The 2026 Nobel Peace Prize Odds and Predictions - casino.org",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FdEJIWWdrU1duRFZkUzVrZm92WFQzLUJiUkxIU3dua2U5VzQ2MFlBaFoyV2dLZ2NGcENxVnRBUDNDSms0UWtyZjNBLWJ1UHVfRUxoMFlXRmp4RTkzTjFuZzdPMTJkMzEtRU13c21ZUlo?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-30T07:00:00+00:00",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "title": "Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEU2bWlwNXhGTnRRUFE0aUJZTEp2dGNndXVfYTRPNFVMc3diZVl2UGFSZUx5ZzZTSG5yM1hJWERpTjFLMEpRVjU3ZVVCQ1FaTFE2ZUNqZDc2OUZ1WWtJSnBrZHNfNkF3Rm5BV0VJc3hCOUNLVjQ1TC1pRGxjTHdQLTl5ZXFuTnR4OGZjRGJmeDM3bTkzcW45bmFEam9TUXdra3NqQjhPUDFQS2NOOERTX0RmejIxaDRFdlhNUg?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-12T07:00:00+00:00",
+          "source": "NEXT.io",
+          "source_url": "https://next.io",
+          "title": "Who Will Win the 2026 Nobel Peace Prize? - NEXT.io",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnQyaVkxVEw0NXFUUW1jQmJHRWFncG9JQ19CX3V6bjB0UElNN09XdGVaVjBuYzZXckRZMkEwalk3RXAyTXIySlg1ZzZXamRWc1BxUGNoeVU3MUVIZGlVd1ZLRUIwbTRibVVxWkRURkZqeHdsc052MVhPZEF4OVFuVkJ1RlAzQngyVUEwMg?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-07T22:47:31+00:00",
+          "source": "OddsShopper",
+          "source_url": "https://www.oddsshopper.com",
+          "title": "Nobel Peace Prize Odds: The Winner Probably Isn't Listed - OddsShopper",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUFmd213cDJQUzdPRjVDZU12b2dBeWpVMGFkUzBMQkR6eFhoYmQ2QzZ2bkh3OEp0bEhsTEphTjBRX3cxMFpqS3JmNjZ5eHAyVF9PYkUtazYtdlM1XzNvVjBoaEZobHdpdm85Ull1RXBlSVJTR2wtVGc1dG80LTlyWWlFSVQyX09qR3U4cV9TYmxxWlpOT09r?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-05-01T07:00:00+00:00",
+          "source": "MassLive.com",
+          "source_url": "https://www.masslive.com",
+          "title": "Does Trump have a chance at the 2026 Nobel peace prize? What betting markets say - MassLive.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0lPOWpnU2NOR3BiaGRCUTZVSWxCLWxlQ0oyeDRzTndUbmVnWmd2alVFWTJkZGlhVFpPVXcxLVVDOFlxMlZoeXVqWDIzT1VuanAtTHlnRTlvTnk3LTNLR1p3aTBwTG4zMVpBSDBxWDFWZlp3dFBxQWVBa2NGcUlrVHhUZjk0TVpsMHpqVWctcDB0dlg5b3NRNHpmR0JMTWN6Z0V1alVVVThFYVRjM2lnbWdpUzVhT0FWN3ZSajVCQdIB0wFBVV95cUxQY0ZMbTZRRlFNajZmT2lfSW02UUp6aXpyUkx6V1poYUhUQTRCUUJIMlZvNks0eXBsTDFQZXd0M2psbGg5aUpCQ21STU05d2JlRmlzZ1diYmk0UjVZN2tMQWdfY2F6Rm1lbjR1b3B2R1BlWVUxMXAzaVJZMDhiN3FIWFdCTGpJbXY2WVlLUkhhVzBKS1Bhc2lTWUxwT0xNeU95TUpHVWVkSWhabGs2ZFZua3Q1LVlJUzRCTkU5by1ianRYSVVYN3JWNDlWS1FITjh4VHln?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "source": "OLBG",
+          "source_url": "https://www.olbg.com",
+          "title": "Nobel Peace Prize 2026 Odds: Trump Drifts As Sudan Group Leads - OLBG",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWVEa09xZER3eFNlRFF6eW45cUpVYU9EWEp0Nkt4WDdLalczWXpvbF9ESTh6dERSNzlfQU5QZGVKY2dKdThTOU1kMTlzSzYzQlBGbWlHLV90WWVjRl93dFNyc1ZQaENKRUloazRIdkdKLTRWZkk3UmVkTG5HeHBpMXNOZ3J3NUdycGs3OQ?oc=5"
+        }
+      ],
+      "market_id": "637004",
+      "query": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?"
+    },
+    "665374": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-16T07:00:00+00:00",
+          "source": "CryptoSlate",
+          "source_url": "https://cryptoslate.com",
+          "title": "Will the U.S. invade Iran before 2027 Odds & Prediction Market Analysis - CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2dkU2dLd2t0c1JLUmZoUGhqdEdLR2xzT3MxRE92eGhHWEQ5dTlNYzhnSWl6Vkt4ckpKOG5GNTkxUGRvbElHdWhDV1o3b0pjenhVcmJXbG95dWdQdHpiMGM0QVFzbFhkMC12R1lxVDRiZ014MXdLUk94ZFUxeXZWZmdNc0V6dw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-08T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2p6enRWYzZ3RUtjRERxY2ZnSWhmRkZGbFNvNUkwVVpVRkd5Q25CQ0xaYmk1R0c3Q2FsdGZJR3ItZ3JTYzZTSUZ5dllJellxUUEzQ1N0VDhteGMyOFQtbXk4eWN6WVk2NXEtQnlJeUpQcktWMlh2cGNua2xsT25IZXB1dEpNLUxVVVozZVFoa0lROUlFbUxWQkZmLVVweTMtR21nTkZzZ0QxNjFrLVZhSkl2QnJKZnRTMUZGNVBiRy16c1NhQWE3WHIwVW03aE0?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-17T07:00:00+00:00",
+          "source": "Action Network",
+          "source_url": "https://www.actionnetwork.com",
+          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - Action Network",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzM1X2dvU1NTTkY4M19Nd3hSeDAxM1g2MnpjTTBfdi1PbDVCa0t1UnNzeHc5YU5vVTR6Z0p1QmpvazZVQUpSZ21KRmpuRG03WExkVUlfcmpYOHgxeERvZmhJN0wtNEtRZnBsdHBQM0o2cWxZaThWblo2V0M5bFdUSVQxN3M5QlhkVldDSmpEeGhzN0Y2NDN5dnd3?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-09T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRURHbjZXYk1fbGNZMDJZTzdISVVlXzQwNklDU3NtbnRqanpEYVlwX1U3OHhma3NmQmpfTUZIOVRNUE5meXk3X1N0eENfX0hYdElWWGdmVGRHOUNPUl9IbGI1STFCbWlTMlpHdUxaVGFhU3IwZ3EyYzFzNG1mVFhhX0h4OWlGSWxoOUY4R1lraEVkNVB5T2dGaWlxbmp3S1lESm5lQ1EtS0poUEtyVWZMaXJxazNmSjFaWExrX2tjeVVXdHdzaUM2cTM1Y3BqMTVOeXF2OFU3RkF4aW95aFI0Rmg0ZjFZb2oyVS1sRUNsaTl6SmlHM0hjQmZOd3M0MG00Q1FwdGlzbkZ3SUlXbTNIdVN3?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-18T07:00:00+00:00",
+          "source": "CryptoSlate",
+          "source_url": "https://cryptoslate.com",
+          "title": "US x Iran Effective Ceasefire date Final Result & Prediction Market - CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVRsTWJ0WDNrWEdyR3dUYjZvdEVENERQUm83UzFxeEhQdnp3a3c5TDNkMXEtOWlQN0JMeDVRS0ZvX1FqV2dvSWl0ZWYyaEgycl9sSUdrYXhyZ3lVY3FYdEFYam9fZXhmemJWQldaUTNVNUtTSXF4M3pjb0NWZXdxODIwbmc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-05T07:00:00+00:00",
+          "source": "TradingView",
+          "source_url": "https://www.tradingview.com",
+          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
+        }
+      ],
+      "market_id": "665374",
+      "query": "Will the U.S. invade Iran before 2027?"
+    },
+    "665513": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-01T10:17:29.981952+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-07T07:31:00+00:00",
+          "source": "KING5.com",
+          "source_url": "https://www.king5.com",
+          "title": "German chancellor faces tough times after first far-right party's state election win since Nazi era - KING5.com",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNeUwyeFp0NGhESXJMNGNMSmFWUW4wc0lZNG80ODF4NzJmVlY3c0tESUNYeHg0a2tZeUxGOTZ0cHBDX1JSVkw1YlRKRm1vNkR6VkljMXBoRXVzR1EyVUJ6SUVmMHFPZ0hSQlZVTldMcnRpdFdtU0poU2hpaTNGcktTeDNCdG5yY1V5d1JGM1dWVmoxb19jZXhTRTVYM0dZVGJwbmR3cWVYR0JQM3huYk5xa1dycXZnR3ZZVkk5ZW0wWnQ3YUZMd01YNUVBeUY3UXFYc01lUVFjdmF0MGE0NklfWWlYbGdldE1FLVFHa1hiMUpMSS1tWEtoaDAzWk56cFgzYnVmQm42UjBXclVtcjZIeG9rY0xJX3A3aktrQWtjeEF2ZmM?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "Internationale Politik Quarterly",
+          "source_url": "https://ip-quarterly.com",
+          "title": "Germany’s Policy Toward India: The Case for Positive Realism - Internationale Politik Quarterly",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0UtaXgtRlJpazdELTFJV05sNEVoME1aaExPZm1YVTRLc2M3N2NpV0pRaUlFQ2hwTkhnSVFUQllOQ3NPeGhtWURlekNENkprSFZ4V3B1ckpUbFV0a1JrUWNXMG5HTDZTc2R4YXZyV2hweUdEQ3B0cHhlZ1RURTBOcHBOMWo?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "Türkiye Today",
+          "source_url": "https://www.turkiyetoday.com",
+          "title": "Merz calls Germany-Israel reconciliation ‘greatest achievement’ - Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWFjR0p4Z1lMeXhUNEgyd3NiMzNvcHBkRHl4RHdseUNxdzNyNThDRi0xNzhvdmRGVWhGQXFya24yNk5IN0J0M2xVNFM5NVkzbGtGck9RdG1KanVlcHhYVU9HUXgtUC1RQ3dueERBSktoclN4c1d0cDJLT3VKcmRNenlKZEFudnNSc3pHV1k3eW9ESkk3Z3R5ZjFzUzJreVF6aFk5VEtRMA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "source": "DW.com",
+          "source_url": "https://www.dw.com",
+          "title": "Germany condemns Israeli minister's Gaza 'killings' remarks - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmtzNkVwd0pENUJ1Z1FxeHAzVU9jbWswX3ZnV0dwNU5rc2psMDY5Vk5wNzYzYzU0RlhGSGZUZzgza0xsdzYwQkZHcnVuMURkVUs3MDJUWktnbnhFUERTZjZwZ3RRbHA5U2FYV1pMOW5WeW1jOFZoUUQzNkpwRGFaZlRKcWxsMzBnMUJZNU15OHJOc21ZTU0waHlWSmdhOVZmR1V4U3NOSdIBpwFBVV95cUxPTGhGbHJURDMwZUdtSC1vUzcwVnMwQUNUVlNuVlFpeHZzV0xiZjhwM0swbFd1WlJXZkE0Q1hndnpfdzV0Rmk1R3VzcWI3ekl6cGVvcDM2cVFTYlVNVE5iUUhFZmE5bDVQbXlQWW1Pc3ZJd2lYNlE4U0w5WlBCbHFJbVVuN0JtXzFsdWxBODBWanhmalhmeWZvaklLZEloaV9jaG9INFFwbw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "title": "New stability record for Italy's Meloni may prove fleeting - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWNlTEVQN3A1VTlGRGtZb1dITUtFazBfV1k1ZnZkSGhad3B0bnFMc3U4SlNxYzMwQXN5WXhhRml4YVduRmVIVnhSdk00dHF4UVRIcmhHWVk0UWN1UmFnb2d2c0dGNUVzcVF0czlCNmlsLTB0TWNmUWVuNkotQ3pjcHhhcFBFOFNFZHdsOXhCWFlGeThPRnpNOXZmcG5BWVZPbmk0SA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "The Guardian",
+          "source_url": "https://www.theguardian.com",
+          "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXZxRVNNa1pHN3lfMXFCSU1TZjY5MUZaUDRUODlYTk1YbkNfVzhSMWMyLWdRVnJGRzI3Tm1IemxWdzdhejlqeFNWRm9rRnl4QkJ1QnhSVHpYVFhBci1Ga1Q4dzZGNTY2RDhURTV2MDR4Y1NLNTdCYVB4N1FXdldkcXdoNGdUMU1RV3dmNkI1akNlT0xV?oc=5"
+        }
+      ],
+      "market_id": "665513",
+      "query": "Friedrich Merz out as Chancellor of Germany before December 31, 2026?"
+    }
+  },
+  "version": 1
+}

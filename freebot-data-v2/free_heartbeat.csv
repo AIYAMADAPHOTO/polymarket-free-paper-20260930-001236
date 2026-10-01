@@ -1,0 +1,2 @@
+timestamp,markets_inspected,selected_for_ai,ai_model,evidence_markets,evidence_fresh_fetches,entries,exits,cash,equity,open_positions
+2026-10-01T10:17:41.306731+00:00,1029,40,gemini-3.5-flash-lite,8,8,1,0,47.00000075,49.96551725,1

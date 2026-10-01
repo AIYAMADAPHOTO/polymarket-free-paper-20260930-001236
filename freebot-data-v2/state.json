@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "mode": "PAPER_ONLY",
+  "starting_balance": "50.00",
+  "start_time": "2026-10-01T10:17:27.862196+00:00",
+  "cash_balance": "47.00000075",
+  "positions": {
+    "665374:NO": {
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "quantity": "3.448275",
+      "cost_basis": "2.99999925"
+    }
+  },
+  "realized_pnl": "0",
+  "trades": [
+    {
+      "trade_id": 1,
+      "timestamp": "2026-10-01T10:17:41.302988+00:00",
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "side": "BUY",
+      "quantity": "3.448275",
+      "requested_price": "0.89",
+      "simulated_fill_price": "0.870000000000000000",
+      "spread": "0.01",
+      "fee": "0",
+      "fee_status": "free",
+      "fee_source": "Gamma feesEnabled=false",
+      "fee_rate": "0",
+      "slippage": "0.00",
+      "position_before": "0",
+      "position_after": "3.448275",
+      "cash_before": "50.00",
+      "cash_after": "47.00000075",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "3.0000",
+      "fair_probability": "0.95",
+      "model_confidence": "0.7",
+      "source_quality": "0.8",
+      "edge": "0.08",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.86",
+      "entry_ask": "0.87",
+      "entry_spread": "0.01",
+      "liquidity": "885846.4039",
+      "volume": "70315747.78332204",
+      "requested_quantity": "3.448275",
+      "fill_status": "filled",
+      "fill_notional": "2.99999925",
+      "fill_legs": [
+        [
+          "0.87",
+          "3.448275"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-01T10:17:41.300805+00:00",
+      "book_timestamp": "1790849855997",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
+    }
+  ],
+  "test_run": null,
+  "free_strategy_state": {
+    "version": 1,
+    "strategy": "original_post_free_fair_value_kelly",
+    "start_time": "2026-10-01T10:17:27.865089+00:00",
+    "config": {
+      "scan_limit": 1000,
+      "page_size": 100,
+      "scan_interval_seconds": 600,
+      "duration_hours": 48,
+      "ai_candidate_limit": 40,
+      "min_price": "0.03",
+      "max_price": "0.97",
+      "min_volume": "1000",
+      "min_liquidity": "250",
+      "min_remaining_seconds": 3600,
+      "min_edge": "0.08",
+      "min_confidence": "0.55",
+      "max_position_fraction": "0.06",
+      "kelly_multiplier": "1.0",
+      "max_total_exposure_fraction": "0.30",
+      "max_positions": 5,
+      "min_trade_usd": "0.50",
+      "daily_loss_fraction": "0.15",
+      "market_cooldown_seconds": 3600,
+      "exit_edge_floor": "0.02",
+      "stop_loss_fraction": "0.15",
+      "take_profit_fraction": "0.25",
+      "max_holding_seconds": 86400,
+      "resolution_exit_seconds": 1800,
+      "gemini_model": "gemini-3.5-flash-lite",
+      "gemini_fallback_model": "",
+      "google_search_grounding": false,
+      "max_gemini_calls_per_day": 150,
+      "max_output_tokens": 8192,
+      "evidence_candidate_limit": 8,
+      "evidence_cache_seconds": 1800,
+      "evidence_items_per_market": 6,
+      "evidence_request_timeout_seconds": 12,
+      "ai_temperature": "0.10",
+      "billing_disabled_confirmed": true
+    },
+    "positions_meta": {
+      "665374:NO": {
+        "entry_time": "2026-10-01T10:17:41.302988+00:00",
+        "entry_price": "0.870000000000000000",
+        "entry_cost": "2.99999925",
+        "fair_probability": "0.95",
+        "model_confidence": "0.7",
+        "edge": "0.08",
+        "ai_model": "gemini-3.5-flash-lite"
+      }
+    },
+    "last_trade_by_market": {
+      "665374": "2026-10-01T10:17:41.302988+00:00"
+    },
+    "day": {
+      "date": "2026-10-01",
+      "starting_equity": "50.00"
+    },
+    "counters": {
+      "cycles": 1,
+      "markets_scanned": 1029,
+      "prefilter_selected": 40,
+      "political_excluded": 601,
+      "ai_evaluations": 40,
+      "ai_skips": 32,
+      "edge_candidates": 1,
+      "entries": 1,
+      "exits": 0,
+      "rejections": 0
+    },
+    "errors": [],
+    "warnings": [],
+    "last_model": "gemini-3.5-flash-lite",
+    "last_grounding_sources": []
+  },
+  "checksum": "db3130a059d346853b70c16538a5f5093da126b7e3a09cdbb0dc91f3c1065c2b"
+}
