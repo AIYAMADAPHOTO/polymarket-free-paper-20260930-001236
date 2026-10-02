@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
+      "fetched_at": "2026-10-02T10:21:50.834807+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
+      "fetched_at": "2026-10-02T10:21:50.834807+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
+      "fetched_at": "2026-10-02T10:21:50.834807+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -402,14 +402,14 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
+      "fetched_at": "2026-10-02T10:21:50.834807+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T06:55:34+00:00",
-          "source": "tech.yahoo.com",
+          "source": "Yahoo Tech",
           "source_url": "https://tech.yahoo.com",
-          "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not - tech.yahoo.com",
+          "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not - Yahoo Tech",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHc4WDkyaGNOMmNzdnh3Z01KNDhubUIxNF91MjlTcjNqaVl3bGYwYVJLR1NVOG1sLXdocXpqUWdnc05RWFl5RjJzVW5lSkQzMC01U005LUZMajFOdG0yekZ3Tm8zeVlEN1dqemNmX2t0cDYzdmlNRm1Jd0N2WG1CbGRn?oc=5"
         },
         {
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
+      "fetched_at": "2026-10-02T10:21:50.834807+00:00",
       "items": [
         {
           "kind": "news_rss",
