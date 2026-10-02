@@ -581,7 +581,7 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T03:23:30.998872+00:00",
+      "fetched_at": "2026-10-02T03:54:51.293380+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -691,6 +691,14 @@
       ],
       "market_id": "678445",
       "query": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?"
+    },
+    "681144": {
+      "category_hint": "weather",
+      "errors": [],
+      "fetched_at": "2026-10-02T03:54:51.293380+00:00",
+      "items": [],
+      "market_id": "681144",
+      "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
     }
   },
   "version": 1
