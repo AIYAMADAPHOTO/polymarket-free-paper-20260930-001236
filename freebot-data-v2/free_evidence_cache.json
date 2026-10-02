@@ -117,8 +117,16 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T20:50:29.851965+00:00",
+      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
       "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T18:21:02+00:00",
+          "source": "Yahoo",
+          "source_url": "https://ca.sports.yahoo.com",
+          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnFJeGdESzRHTjh3TEJQT3AzZFF4RHljVlQyc3FuY19zTXdnQlAxeU5HS3VyQXM4WnV0anNaam02dndJdlp3YUFHdkN3QW1vTGVCbmpuTlk3MkdzSkdBWjVRaG1FLWplS0kzb2pmZ0tDaTRRQWVMSlE5YkFnLUF5TnZUQ2U?oc=5"
+        },
         {
           "kind": "news_rss",
           "published_at": "2026-10-02T06:13:00+00:00",
@@ -126,14 +134,6 @@
           "source_url": "https://www.the-independent.com",
           "title": "Who will win the Ballon d’Or? Prediction markets have a new favourite - the-independent.com",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1RrNmJ6YXF1SFJjc3RiNWs0aGxLQkNvY19aU3l3RndPOEZlcGxoaWVVRkVKVDB2ajZfc1hyMHd5TmlJbjM0S2VGUVBmRDBZd2dxeFk4N1BITEYyWjdWcDFxNTE3LW0wcHVPSzdpWkxPTE4xU0dPZkFhLUpXTFhmVGlxa0xtQkFjRzdYVXpNU0ZxZw?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-02T20:22:18+00:00",
-          "source": "goal.com",
-          "source_url": "https://www.goal.com",
-          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - goal.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ20wOGF6U212TEF5TktmOEMzQzdKWE1oRno1aDA3eEVjTWxYR3JIdkhzaU45Qk5wQThmZWtQc2tRYzg5STFzTG9mckx2NDFEblhTTnFDUThpZzlvYXdsb1I1MWhnVHpBRWVIZUxmeXQxX1I4TFhnVW15T2E0emNkODVpM1NVa29JXzU5ei1jb2x4MGJaMUlFbUpyelhHX1gwWVRndlp4RDN2UEVTTEY4?oc=5"
         },
         {
           "kind": "news_rss",
@@ -145,27 +145,27 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-02T06:40:00+00:00",
-          "source": "Yahoo Sports",
-          "source_url": "https://sports.yahoo.com",
-          "title": "Former Barcelona target names Cubarsi among world’s future greats and backs Yamal for Ballon d’Or - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEJxb2hiUVpWWlcwRzlxa0l0R2h3U3ZsZ0NaX1h1WVJsTFBHa05SYkllVko0eHVlU3Y0ZHV4MTM3cElCandoaGdVam5XS2Y5d0dMWVlPMERvN1BQMXd6RXkzdjRrZS1xREZTdDFmUFpYSUs1MHFlRWx1eDU2MXVJRVpmaXlEUnRTWms5N1RJSQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-02T15:07:46+00:00",
-          "source": "Bookies.com",
-          "source_url": "https://bookies.com",
-          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2d1YkhhdEwzdXJhRlI4U2lTYV8ybXNUTXVld1d0MkpBbUhoMFU4Vkw4U1VEQ09sLWl5b0JUd1FWSHlPT2NkOW00NFh5RFR0elF2cHM3b2VDN2ZCbml4UmNnRFNsR0dGV3dVRWJTTGZqeUtwSGtvdDdxV2xEaWNCSWYyWnNGVWRzdlBtZ2czVG11NVJ5aXlweXpYa1pEXy1R?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-30T13:17:40+00:00",
           "source": "voz.us",
           "source_url": "https://voz.us",
           "title": "Ballon d'Or: The battle of Lamine Yamal, Mbappé, and Kane - voz.us",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTZLZWFidTZMOVd3Q252ZXBHYUM1U0QzdG5jS1Q5VFdydTBsVjZPY3JLMFFDTjhIWTVCUjlCa0dmTldQSkZQT2pyVGVySTIzalVKa0I4Q01QX1Juc0ZDS2lKUnp0cm5UamNtSnA4Sm5IM0RDZFVYN2hLYTYyR1pOM3hWQnBURl9DV3hENnpZcVl6VTVlU2dRdWpCZ0tvWWs?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "en.as.com",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T20:22:00+00:00",
+          "source": "The Times of India",
+          "source_url": "https://timesofindia.indiatimes.com",
+          "title": "Zlatan Ibrahimović makes surprise 2026 Ballon d’Or pick after voting closes and backs Barcelona star agai - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcTIzb2FCYnV6dmlxNkxXMUpxdEdoTkR4UU9wMGlfcms1bjR5YmlsOHVNUm5kSE9KZUJ5RWRQeGVqRExOY3Z1eDJwZTVSRWNQTk1oWlNMTmNjX3pCMy1NaEVaRGdXdGdMNGk3Z3FGZ2J4cVh5S294amR3RWViSFhheDZ4VzdFeW9JUXlGZEJTRjdReGN0YUxJSGxkcWFQa01ZZFh1RjBqRmFKbUtVSl91c2dsVmQ1ZDVsS2xsd0VvcUxsdFk0WUdLUmV3UU9ZYVhjd2hyTHZjT2lEU3pRaEdXZmFseUg4YkVfSWUtTGpuZWhNV3liYVJ6aklOYmQzYVlzTHJkUlAtZTAyZTNJN1l0eVZkX0FpWUlTVEItTzhmZ9IBpAJBVV95cUxPY21hbWN3N2pLVzhPWmo4bGxlcjBWWjFld1g0NkJHV3BOdU5tZUdQT1N4bXFXQTFpQ3QwQWk5MURDTjJZU3VZY1BoM1AtZUU2N1BwRm9nZEVfUnZCTjN4S2tVNUFwQWFyQkN4eGdvZWRPRHBHenhMZzRXQ0tvZTdiaVM0dnExZHdET0I1bVd3VklkSmh6aHFSN0R5aGx1SHpnNllQOGFFb2JzX0JCZVFpQmM1blN2WGN4S09aVmVyR0lSdnM3QVpfSHctOEI0Wmd4YXM3RGZlbll0dXMtc01zVlhic2NnTjFTYWVwVWNVckxxSU9kVWZNU2RHazFEY3h0dXE5RVk1UmlHcFZDTk5CUEwzOVlkeWg2dmZiWk1tbVNTODhR?oc=5"
         }
       ],
       "market_id": "608545",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T20:50:29.851965+00:00",
+      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -210,19 +210,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "Diario AS",
-          "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-10-02T20:16:00+00:00",
           "source": "TNT Sports",
           "source_url": "https://www.tntsports.co.uk",
           "title": "Pickford backs Kane for Ballon d'Or with another target beckoning - TNT Sports",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnJQY0dhRFpVeFFlTVFGNnBGZHkwOF85NWNvOFRib3ladFV6cFVlRmlLa2s2bGJoQkRLb0dqS0M3N0JxaVo1SkdsMUtIVE0zRlZnRUcwRDB2elJIUTVXc2JDaHphRkU5bFNsbEFycThnZDVwa2dsRHJuai1jMXYyLWNLUGt1RkJYNmJfckNJd0ZhM2t1ZGluczFPVWFHY2cyOVk4bzBTLW52ay1CdEhKVk00ZUpoUy1KTUVuNXM1alYza1FtNGNmOXBuNXRCRE5KTnpPdG5Edzk1ZTRjSjdaNS1Kc1hSa2hHMVJ6dDVUS0UwWUlpV2J1dEN1MmU?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "en.as.com",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         }
       ],
       "market_id": "608547",
@@ -288,7 +288,7 @@
     "609655": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:51:03.948416+00:00",
+      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -301,17 +301,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-03T07:00:00+00:00",
-          "source": "Harvard Gazette",
+          "source": "news.harvard.edu",
           "source_url": "https://news.harvard.edu",
-          "title": "Are we headed toward recession? Unpredictable. - Harvard Gazette",
+          "title": "Are we headed toward recession? Unpredictable. - news.harvard.edu",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFRpUUdrSGhxWHNRLTZCOEZUdTNFbXdEdWlaMXQ0WTZra2JBN1AzYnplSzVQeHJna1FrVjNiMFZWWkh4MU5Gc1JaV1d1RVk4d3ZOZk1ScTFvTUd3SzZOeFJXWUJEdUNqUDRCZ05Id1pzdm1KYmZSMEJyM3lwNWFCcFVNbFlaYzZtUnBWWTExcTRNR0FobjhJ?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-08-05T07:00:00+00:00",
-          "source": "U.S. News Money",
+          "source": "money.usnews.com",
           "source_url": "https://money.usnews.com",
-          "title": "Recession 2026: What to Watch and How to Prepare | Investing - U.S. News Money",
+          "title": "Recession 2026: What to Watch and How to Prepare | Investing - money.usnews.com",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkxJM0ZibDFiWjFTa1F4Z0dlWG53OUdENDJBWmhCZjliTmJheExjeUpNT0VqQnMya1dpQU00TE5NRDE4NVRPT2Jicm82QjhBX09IcUlaaE5wd2oxaFpJczU3Vm1ZaEVfeFdvRDhsVVlYTkN4bmJ2NE02cXJEazVHNnl5eVdoOVl3b2lMa1NLaEs?oc=5"
         },
         {
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T20:50:29.851965+00:00",
+      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
       "items": [
         {
           "kind": "news_rss",
