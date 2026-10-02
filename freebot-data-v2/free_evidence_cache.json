@@ -459,7 +459,7 @@
     "665224": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T08:26:37.809163+00:00",
+      "fetched_at": "2026-10-02T08:57:53.163572+00:00",
       "items": [],
       "market_id": "665224",
       "query": "Ukraine signs peace deal with Russia before 2027? NOAA NWS forecast weather"
@@ -638,7 +638,7 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:26:37.809163+00:00",
+      "fetched_at": "2026-10-02T08:57:53.163572+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -667,9 +667,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-10T07:00:00+00:00",
-          "source": "indiewire.com",
+          "source": "IndieWire",
           "source_url": "https://www.indiewire.com",
-          "title": "Could ‘Spider-Man: Brand New Day’ Be the First Film to Surpass $1 Billion Domestic? - indiewire.com",
+          "title": "Could ‘Spider-Man: Brand New Day’ Be the First Film to Surpass $1 Billion Domestic? - IndieWire",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2RPdEVna2xrenJxaXFOd05iOVlfVVdTU2RGQ2VLNk9SU0MtWDhnOEZKbDF4eG9PR0FEWk5GblJxYlVUcXZyd3liVGVQcS0zeGU2N0I4eDlBSzdoSDFCdGJBd3ZjNEZWVzQ0OFM4TlBtaHhxcTZlSHlWRnZmdElteld5X2M0UnRvZXF1WUNYUEdlX1otU2RrN0ZULTI2ZGt5SDNLeE5KcC1zQ0NDMXhKTg?oc=5"
         },
         {
