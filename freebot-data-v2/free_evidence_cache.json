@@ -581,7 +581,7 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T07:03:05.486042+00:00",
+      "fetched_at": "2026-10-02T07:34:25.181049+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -609,14 +609,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-24T13:12:49+00:00",
-          "source": "Seeking Alpha",
-          "source_url": "https://seekingalpha.com",
-          "title": "Just how high will the U.S. 10-year yield rise by year-end? - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHYzTzJKM09VRy1JbzcybHVYVS1kZGZXaXB4akN1dmZMcmNhU3lIZjJXNS1JSDNGTlpHZG1vM3kzZjM2Y0lRXy1ZR3NwUDJLZjhJQlE2S1JjN3RZaHQ2ZzlzT0hIdVFTRTFMdlNsTndnQnk1OXdMdTFFZUdrMHAxS2VtRUxCSEVDSEc4RkYzaEJoN3QtaGRPenZZRQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-15T07:00:00+00:00",
           "source": "finance.biggo.com",
           "source_url": "https://finance.biggo.com",
@@ -630,6 +622,14 @@
           "source_url": "https://pluang.com",
           "title": "Markets price in four more Fed rate hikes by 20... - Pluang",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2pBRlNqRHpGM0xPQlAwR3FGeG85dllXeGJvM1M0dUFjUzRrbkIzcnhsUG51SVZ4YVVBNkhsdndjZUpNYXRINVQtMTRWTXhWUFdudlpmeDlCbi1OZFpVaGw5SGhmbHNEZm5lUWNLNTktNExISFZSOTlvMHRsOTJZUzFGbWUtTWRBd0lGbGZhVHRRenpsaFJXdmJKaFhKMTdnMVhhbnM0WGRVb00?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-26T02:51:00+00:00",
+          "source": "tokenpost.com",
+          "source_url": "https://www.tokenpost.com",
+          "title": "Markets Price Four More Fed Hikes as Bitcoin Falls Below $83,000 - tokenpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYRDFfS09zZXVHR0dscHB3V1dqcG80QmV3TXh3YW5VYi0xOHNLYzhuZHppSFpXVTgza1A1QTJXRm81NjFET3liS2o0b2hDcVBHU29YVVVYTUJPQQ?oc=5"
         }
       ],
       "market_id": "677026",
@@ -695,7 +695,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T07:03:05.486042+00:00",
+      "fetched_at": "2026-10-02T07:34:25.181049+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
