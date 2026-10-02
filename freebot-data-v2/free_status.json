@@ -1,54 +1,40 @@
 {
-  "cash": "40.542713151",
+  "cash": "45.960520685",
   "counters": {
-    "ai_evaluations": 5240,
-    "ai_skips": 3507,
-    "cycles": 143,
+    "ai_evaluations": 5280,
+    "ai_skips": 3540,
+    "cycles": 144,
     "edge_candidates": 10,
     "entries": 10,
-    "exits": 7,
-    "markets_scanned": 147147,
-    "political_excluded": 85943,
-    "prefilter_selected": 5720,
-    "rejections": 38
+    "exits": 9,
+    "markets_scanned": 148176,
+    "political_excluded": 86544,
+    "prefilter_selected": 5760,
+    "rejections": 41
   },
-  "equity_mark_to_bid_before_exit_fee": "49.071216585",
+  "equity_mark_to_bid_before_exit_fee": "48.885756585",
   "last_model": "gemini-3.5-flash-lite",
-  "net_pnl_mark_to_bid": "-0.928783415",
+  "net_pnl_mark_to_bid": "-1.114243415",
   "open_positions": {
-    "616902:NO": {
-      "cost_basis": "2.957586401",
-      "market_id": "616902",
-      "market_title": "Will no Fed rate cuts happen in 2026?",
-      "outcome": "NO",
-      "quantity": "85.490497"
-    },
     "665374:NO": {
       "cost_basis": "2.95965044",
       "market_id": "665374",
       "market_title": "Will the U.S. invade Iran before 2027?",
       "outcome": "NO",
       "quantity": "3.441454"
-    },
-    "678445:YES": {
-      "cost_basis": "2.96552864",
-      "market_id": "678445",
-      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
-      "outcome": "YES",
-      "quantity": "4.551701"
     }
   },
   "paid_api_fallback_used": false,
   "real_order_code_used": false,
-  "realized_pnl": "-0.574521368",
-  "return_pct_mark_to_bid": "-1.8575668300",
+  "realized_pnl": "-1.079828875",
+  "return_pct_mark_to_bid": "-2.2284868300",
   "scheduled_end_time": "2026-10-03T10:17:27.841065+00:00",
   "start_time": "2026-10-01T10:17:27.841065+00:00",
   "starting_equity": "50.00",
   "status": "RUNNING",
-  "timestamp": "2026-10-02T11:03:57.982676+00:00",
-  "trade_count": 17,
+  "timestamp": "2026-10-02T11:14:21.060263+00:00",
+  "trade_count": 19,
   "unpriced_positions": [],
-  "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.354262047",
+  "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.03441454",
   "valuation_status": "fresh_bid_before_exit_fee"
 }

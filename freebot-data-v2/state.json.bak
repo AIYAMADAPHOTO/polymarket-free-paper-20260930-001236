@@ -3,15 +3,8 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "43.500299552",
+  "cash_balance": "45.960520685",
   "positions": {
-    "678445:YES": {
-      "market_id": "678445",
-      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
-      "outcome": "YES",
-      "quantity": "4.551701",
-      "cost_basis": "2.96552864"
-    },
     "665374:NO": {
       "market_id": "665374",
       "market_title": "Will the U.S. invade Iran before 2027?",
@@ -20,7 +13,7 @@
       "cost_basis": "2.95965044"
     }
   },
-  "realized_pnl": "-0.574521368",
+  "realized_pnl": "-1.079828875",
   "trades": [
     {
       "trade_id": 1,
@@ -873,6 +866,163 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 17,
+      "timestamp": "2026-10-02T11:03:57.973337+00:00",
+      "market_id": "616902",
+      "market_title": "Will no Fed rate cuts happen in 2026?",
+      "outcome": "NO",
+      "side": "BUY",
+      "quantity": "85.490497",
+      "requested_price": "0.053",
+      "simulated_fill_price": "0.033000000000000000",
+      "spread": "0.001",
+      "fee": "0.13640",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.000",
+      "position_before": "0",
+      "position_after": "85.490497",
+      "cash_before": "43.500299552",
+      "cash_after": "40.542713151",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "2.95758642492",
+      "fair_probability": "0.97",
+      "model_confidence": "0.6",
+      "source_quality": "0.6",
+      "edge": "0.9354045010289272268472132055",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.032",
+      "entry_ask": "0.033",
+      "entry_spread": "0.001",
+      "liquidity": "427241.71288",
+      "volume": "8710925.400619",
+      "requested_quantity": "85.490497",
+      "fill_status": "filled",
+      "fill_notional": "2.821186401",
+      "fill_legs": [
+        [
+          "0.033",
+          "85.490497"
+        ]
+      ],
+      "slippage_cost": "0E-9",
+      "quote_timestamp": "2026-10-02T11:03:57.445370+00:00",
+      "book_timestamp": "1790939031368",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
+    },
+    {
+      "trade_id": 18,
+      "timestamp": "2026-10-02T11:14:21.030116+00:00",
+      "market_id": "616902",
+      "market_title": "Will no Fed rate cuts happen in 2026?",
+      "outcome": "NO",
+      "side": "SELL",
+      "quantity": "85.490497",
+      "requested_price": "0.032000000000000000",
+      "simulated_fill_price": "0.032000000000000000",
+      "spread": "0.001",
+      "fee": "0.13241",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.000",
+      "position_before": "85.490497",
+      "position_after": "0.000000",
+      "cash_before": "40.542713151",
+      "cash_after": "43.145999055",
+      "realized_pnl": "-0.354300497",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.05",
+      "model_confidence": "0.85",
+      "source_quality": "0.9",
+      "edge": "0.018",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.032",
+      "exit_ask": "0.033",
+      "exit_spread": "0.001",
+      "requested_quantity": "85.490497",
+      "fill_status": "filled",
+      "fill_notional": "2.735695904",
+      "fill_legs": [
+        [
+          "0.032",
+          "85.490497"
+        ]
+      ],
+      "slippage_cost": "0E-9",
+      "quote_timestamp": "2026-10-02T11:14:20.524162+00:00",
+      "book_timestamp": "1790939659104",
+      "gross_pnl": "-0.085490497",
+      "net_pnl": "-0.354300497",
+      "return_pct": "-11.9793794318301641393028571745857172001515434341490265731040"
+    },
+    {
+      "trade_id": 19,
+      "timestamp": "2026-10-02T11:14:21.037839+00:00",
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "side": "SELL",
+      "quantity": "4.551701",
+      "requested_price": "0.630000000000000000",
+      "simulated_fill_price": "0.630000000000000000",
+      "spread": "0.01",
+      "fee": "0.05305",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.00",
+      "position_before": "4.551701",
+      "position_after": "0.000000",
+      "cash_before": "43.145999055",
+      "cash_after": "45.960520685",
+      "realized_pnl": "-0.15100701",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.65",
+      "model_confidence": "0.85",
+      "source_quality": "0.9",
+      "edge": "0.02",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.63",
+      "exit_ask": "0.64",
+      "exit_spread": "0.01",
+      "requested_quantity": "4.551701",
+      "fill_status": "filled",
+      "fill_notional": "2.86757163",
+      "fill_legs": [
+        [
+          "0.63",
+          "4.551701"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T11:14:20.638281+00:00",
+      "book_timestamp": "1790939651890",
+      "gross_pnl": "-0.04551701",
+      "net_pnl": "-0.15100701",
+      "return_pct": "-5.09207727631320397566620702068147957593152767528153091787372"
     }
   ],
   "test_run": null,
@@ -918,15 +1068,6 @@
       "billing_disabled_confirmed": true
     },
     "positions_meta": {
-      "678445:YES": {
-        "entry_time": "2026-10-02T10:32:30.669469+00:00",
-        "entry_price": "0.640000000000000000",
-        "entry_cost": "2.96552864",
-        "fair_probability": "0.95",
-        "model_confidence": "0.9",
-        "edge": "0.2984790323441719919652015807",
-        "ai_model": "gemini-3.5-flash-lite"
-      },
       "665374:NO": {
         "entry_time": "2026-10-02T10:42:59.037729+00:00",
         "entry_price": "0.860000000000000000",
@@ -939,24 +1080,25 @@
     },
     "last_trade_by_market": {
       "665374": "2026-10-02T10:42:59.037729+00:00",
-      "678445": "2026-10-02T10:32:30.669469+00:00",
-      "677026": "2026-10-02T02:21:13.783909+00:00"
+      "678445": "2026-10-02T11:14:21.037839+00:00",
+      "677026": "2026-10-02T02:21:13.783909+00:00",
+      "616902": "2026-10-02T11:14:21.030116+00:00"
     },
     "day": {
       "date": "2026-10-02",
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 143,
-      "markets_scanned": 147147,
-      "prefilter_selected": 5720,
-      "political_excluded": 85943,
-      "ai_evaluations": 5240,
-      "ai_skips": 3507,
-      "edge_candidates": 9,
-      "entries": 9,
-      "exits": 7,
-      "rejections": 38
+      "cycles": 144,
+      "markets_scanned": 148176,
+      "prefilter_selected": 5760,
+      "political_excluded": 86544,
+      "ai_evaluations": 5280,
+      "ai_skips": 3540,
+      "edge_candidates": 10,
+      "entries": 10,
+      "exits": 9,
+      "rejections": 40
     },
     "errors": [
       {
@@ -968,5 +1110,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "12077a4cc0049068b596654d6031d1c65c8dc0e1df29512838ea45ef1a7db258"
+  "checksum": "77735eefb440b96d5013bb6b587cb5da6c96ea97e2eab72a1b1d55c861b2b564"
 }
