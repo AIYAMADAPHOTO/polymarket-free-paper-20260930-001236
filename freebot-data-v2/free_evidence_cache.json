@@ -60,23 +60,23 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T20:46:04.765861+00:00",
+      "fetched_at": "2026-10-02T04:15:42.316044+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T14:51:00+00:00",
-          "source": "Planet Football",
-          "source_url": "https://www.planetfootball.com",
-          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
+          "published_at": "2026-10-01T16:37:38+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Dembélé: No issues with France teammate Mbappé despite Ballon d’Or chatter - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlRlNLM0NwQnpLV2dRcUFLX3RBUEJRNUE1bzU1Qnh3R3lmdklIby1hQ3hrV1J1MGhGMDVxVnJ4OUFmcFFZTE9RYUhMY2dHOVNVVzRTdTlOTGJSM3hna0tRSm9QelR6cmtBejB4OG1Qc1lrYmFSTzU3WWZEMFU?oc=5"
         },
         {
           "kind": "news_rss",
@@ -96,19 +96,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "espn.com",
-          "source_url": "https://www.espn.com",
-          "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - espn.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
+          "published_at": "2026-10-01T14:51:00+00:00",
+          "source": "planetfootball.com",
+          "source_url": "https://www.planetfootball.com",
+          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - planetfootball.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-22T07:00:00+00:00",
-          "source": "CNN",
-          "source_url": "https://www.cnn.com",
-          "title": "‘Every player wants to win it’: Kylian Mbappé eyes first Ballon d’Or award - CNN",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaFlMQWZja0NFZGhweEJtYmpZMl82MTR0MDJ6MVYwdXB6VS11N3g3bjZqSWljcS1vM0xHd0gwR1RRaTdlSTdxbG9BbDhGajl2MGM0WXJCdzgwdExzRWswNGJSY1M3Smo4NUFaYXVlQU9NSVpnS3dxT0hJbw?oc=5"
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "source": "ESPN",
+          "source_url": "https://www.espn.com",
+          "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
         }
       ],
       "market_id": "608540",
