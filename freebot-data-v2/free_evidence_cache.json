@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T06:42:17.260880+00:00",
+      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T06:42:17.260880+00:00",
+      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,16 +174,8 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T06:42:17.260880+00:00",
+      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
       "items": [
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T12:33:15+00:00",
-          "source": "bundesliga.com",
-          "source_url": "https://www.bundesliga.com",
-          "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
-        },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
@@ -191,6 +183,14 @@
           "source_url": "https://www.forbes.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T12:33:15+00:00",
+          "source": "bundesliga.com",
+          "source_url": "https://www.bundesliga.com",
+          "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
         },
         {
           "kind": "news_rss",
@@ -203,9 +203,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "fcbayern.com",
+          "source": "FC Bayern Munich",
           "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
@@ -402,7 +402,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T06:42:17.260880+00:00",
+      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T06:42:17.260880+00:00",
+      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
       "items": [
         {
           "kind": "news_rss",
