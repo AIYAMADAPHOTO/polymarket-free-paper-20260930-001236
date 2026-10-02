@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
+      "fetched_at": "2026-10-02T07:44:55.489514+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
+      "fetched_at": "2026-10-02T07:44:55.489514+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -130,9 +130,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T18:00:00+00:00",
-          "source": "Yahoo Sports",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Lamine Yamal explains what Barcelona will need to win the Champions League this season - Yahoo Sports",
+          "title": "Lamine Yamal explains what Barcelona will need to win the Champions League this season - sports.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkNja3haTnBTN0VOanpjOTlZZGpfM3lfQkVOb2w3S05jd0pRVHRXVXVmNGZpN1hBVUd1OU56bEwycmNVQnJWTFA2QUZPMUVBS0RCUXhaa0JOMVVuRHl6SWFHdUkwNjdEcmRUX0tibXVZRnBqU2EybTdreVVxR2hpQmgtXzI1emNRNTByWQ?oc=5"
         },
         {
@@ -162,9 +162,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-23T20:00:01+00:00",
-          "source": "Sports Illustrated",
+          "source": "si.com",
           "source_url": "https://www.si.com",
-          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - si.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
         }
       ],
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
+      "fetched_at": "2026-10-02T07:44:55.489514+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -195,17 +195,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T05:30:00+00:00",
-          "source": "Yahoo Sports",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - Yahoo Sports",
+          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - sports.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklmaE1PRHBJZWJQRjJOSjJTRmZWUWVmS1VYSkJEUzI5XzBKWnF6cXNVS3JCMUhLejVIN280SWg4a3V3SXFwSUxhcmF2Y28tT0xZb1dOUlZLR2YzckdLcm1wekZaemR3dlZTMjJTQTVZOWJOcjJoQzZkb1hHbXNaaw?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern Munich",
+          "source": "fcbayern.com",
           "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "title": "Harry Kane's October outlook: My month - fcbayern.com",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
@@ -402,7 +402,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
+      "fetched_at": "2026-10-02T07:44:55.489514+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T07:13:30.686936+00:00",
+      "fetched_at": "2026-10-02T07:44:55.489514+00:00",
       "items": [
         {
           "kind": "news_rss",
