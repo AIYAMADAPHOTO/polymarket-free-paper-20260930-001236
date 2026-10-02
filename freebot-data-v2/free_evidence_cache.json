@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
+      "fetched_at": "2026-10-02T22:24:24.963006+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
+      "fetched_at": "2026-10-02T22:24:24.963006+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -288,7 +288,7 @@
     "609655": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
+      "fetched_at": "2026-10-02T22:24:24.963006+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
+      "fetched_at": "2026-10-02T22:24:24.963006+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -601,6 +601,14 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-04-05T07:00:00+00:00",
+          "source": "TradingView",
+          "source_url": "https://www.tradingview.com",
+          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
           "source": "Action Network",
           "source_url": "https://www.actionnetwork.com",
@@ -609,27 +617,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-07-09T07:00:00+00:00",
-          "source": "Benzinga",
-          "source_url": "https://www.benzinga.com",
-          "title": "Trump Sours on Iran Deal at NATO Summit, Says 'Let's Just Finish The Job' As Strait Of Hormuz Violence Es - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRURHbjZXYk1fbGNZMDJZTzdISVVlXzQwNklDU3NtbnRqanpEYVlwX1U3OHhma3NmQmpfTUZIOVRNUE5meXk3X1N0eENfX0hYdElWWGdmVGRHOUNPUl9IbGI1STFCbWlTMlpHdUxaVGFhU3IwZ3EyYzFzNG1mVFhhX0h4OWlGSWxoOUY4R1lraEVkNVB5T2dGaWlxbmp3S1lESm5lQ1EtS0poUEtyVWZMaXJxazNmSjFaWExrX2tjeVVXdHdzaUM2cTM1Y3BqMTVOeXF2OFU3RkF4aW95aFI0Rmg0ZjFZb2oyVS1sRUNsaTl6SmlHM0hjQmZOd3M0MG00Q1FwdGlzbkZ3SUlXbTNIdVN3?oc=5"
+          "published_at": "2026-03-27T07:00:00+00:00",
+          "source": "Fortune",
+          "source_url": "https://fortune.com",
+          "title": "The Iran war could drag into 2027, analyst warns. The economic fallout is just getting started - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZYR0xpQTVlTXJVM2ItWV9lSDBTSEpzUkNfMG9pR1B2bnl2N2V2U3Q3MDdLODlHcGV4Y0NhZzlRejg5dTVNci00VFlUSFNpbkFEZURfb25tYnNlYUd4ODk5YWprcjFRdmhmYXRxZDhxVTJFX0F6TmdRa016ckdtaGtXU1dvR0hlTjBLamVqV09xQkNNeC1TdXl0TEpyUQ?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-07-18T07:00:00+00:00",
-          "source": "CryptoSlate",
-          "source_url": "https://cryptoslate.com",
-          "title": "US x Iran Effective Ceasefire date Final Result & Prediction Market - CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVRsTWJ0WDNrWEdyR3dUYjZvdEVENERQUm83UzFxeEhQdnp3a3c5TDNkMXEtOWlQN0JMeDVRS0ZvX1FqV2dvSWl0ZWYyaEgycl9sSUdrYXhyZ3lVY3FYdEFYam9fZXhmemJWQldaUTNVNUtTSXF4M3pjb0NWZXdxODIwbmc?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-06-12T07:00:00+00:00",
-          "source": "StartupHub.ai",
-          "source_url": "https://www.startuphub.ai",
-          "title": "Musk Tweet Bets Top Polymarket - StartupHub.ai",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnBxUUtUMTN4OFVNQ1dhdzRVRTA5ZUZUQWpTUnhOa1JuUDVtMnAyVXJlejByVE5Vd3plVDkwQ0FMWG5vdDYzWGQ2S0FWYmtqNnFlaWJ3NVlMUVlpQV9sckswNTNBczB5OTNuaVplOFZmRGg1UGdGVXBPejRYelI1dnprTHBLQlMyZ1ZYM2RGSXY0Zw?oc=5"
+          "published_at": "2026-03-01T08:00:00+00:00",
+          "source": "CoinDesk",
+          "source_url": "https://www.coindesk.com",
+          "title": "Polymarket traders bet record $500 million on U.S.-Iran war - CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGRjUjBuZUhWLXJLQ0pQQWVacDNZNm9zWFBjOU90dHFKZlZmaWhzRnpvTmNKU00tQzIxOHhmR0N3YTNCNXA2LWdYb3NVcXk3S1lOSWdSMEI1V3Nwa2F0RGZRcU5KRV9QSi1xOEhwZ1hLclFCRlM1dDktVlBtSUhaYnZWRGM2Slo1dXp4TXZIM3BJN09YYTRLOUlMcDJOZ19aY01ycXJCdFJsclZ0MkwtUkZISTVUUERZUzFZSXNKRk42NlM0QUNn?oc=5"
         }
       ],
       "market_id": "665374",
