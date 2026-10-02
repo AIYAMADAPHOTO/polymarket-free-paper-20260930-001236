@@ -32,3 +32,4 @@ timestamp,market_id,reason
 2026-10-02T06:00:13.370306+00:00,665374,duplicate_market_position
 2026-10-02T06:31:39.080400+00:00,665374,duplicate_market_position
 2026-10-02T06:42:12.805011+00:00,665374,duplicate_market_position
+2026-10-02T06:52:39.080783+00:00,665374,market_cooldown
