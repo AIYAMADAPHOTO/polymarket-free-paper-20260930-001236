@@ -695,7 +695,7 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:38:13.417311+00:00",
+      "fetched_at": "2026-10-02T13:09:25.895242+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -708,9 +708,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "variety.com",
+          "source": "Variety",
           "source_url": "https://variety.com",
-          "title": "‘Spider-Man: Brand New Day’ Overtakes ‘Star Wars: Force Awakens’ as Highest-Grossing Movie of All Time at Domestic Box Office - variety.com",
+          "title": "‘Spider-Man: Brand New Day’ Overtakes ‘Star Wars: Force Awakens’ as Highest-Grossing Movie of All Time at Domestic Box Office - Variety",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzlNbjRBMFB3ZmxPaERjaFJNajBzNm5XMXYyMnlEU3h4VFpER0hndEtEYzRIcE1ibHpBREJWRDBUamZmS2lKLXFveDZhM1hKSFhCWWhMYlZlTEFJdWhDWWpPUldPeUtnTFdWYlJpV0lwTFA3UVNsRVBDM05QdjRKNl9uNkN3M2hlSjVxcC1raDJKT3RBdjZEQ1lUMXdIOEJtZi1ScEtDam9fT3J0T21GU0ljNA?oc=5"
         },
         {
@@ -740,9 +740,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "‘Spider-Man: Brand New Day’ Breaks Record For Highest Grossing Film At Domestic Box Office - Forbes",
+          "title": "‘Spider-Man: Brand New Day’ Breaks Record For Highest Grossing Film At Domestic Box Office - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDN6Y05ScHFUR0kwWWN0aWVIbDNodFV4aTdfa1l2TnJTV3FaRGtqb0xLX0RjVG92RGpFc3BGSWR3ME1qWGZUakpENk9xVVplTFBKajlMeXBHaGpzOFg3Z1JNSWs4T25pblNXQjFEUjFORmdPMEstMXc2RmI2UlkxNXNuT3VQRzIwZTQzaUR6Y1c0NC1GSmVmNm50V1pMZk9XdlM3cUhhYlo0MXNiVVNsVUdfd3BiZ09iaHhFYWRhQnNxSVRIeEpmZ3J3Sk5ma003?oc=5"
         }
       ],
