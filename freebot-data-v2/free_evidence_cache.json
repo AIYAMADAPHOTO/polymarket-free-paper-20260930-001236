@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:37:32.745263+00:00",
+      "fetched_at": "2026-10-02T20:08:43.417452+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -374,9 +374,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "forbes.com",
+          "source": "Forbes",
           "source_url": "https://www.forbes.com",
-          "title": "Federal Funds Rate History 1990 to 2026 - forbes.com",
+          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
         },
         {
@@ -866,7 +866,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T19:37:32.745263+00:00",
+      "fetched_at": "2026-10-02T20:08:43.417452+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
