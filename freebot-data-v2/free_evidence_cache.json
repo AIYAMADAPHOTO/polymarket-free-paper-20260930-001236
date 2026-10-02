@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
+      "fetched_at": "2026-10-02T14:33:10.791830+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
+      "fetched_at": "2026-10-02T14:33:10.791830+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -138,9 +138,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T14:15:00+00:00",
-          "source": "Yahoo Sports",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Espanyol director backs Barcelona’s Lamine Yamal for Ballon d’Or: ‘Would deserve it’ - Yahoo Sports",
+          "title": "Espanyol director backs Barcelona’s Lamine Yamal for Ballon d’Or: ‘Would deserve it’ - sports.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWhUSlJIb2lYZGxKTVA3VEZicmdaeEJxOGhqLXVZSEg2R3k0V1BLMl9nYlp3TWdpMUZfOWt4Z0RxR2hveGNtd20weXhUZHlzazNnb19hU1ZuaWZadU12UGtBVllaX25WV3pRSGJMLS1fYVVqSzBnT01lU1pORUd6NklBMTBieGVXYVEwcVQ3UFR6MGc?oc=5"
         },
         {
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
+      "fetched_at": "2026-10-02T14:33:10.791830+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -187,9 +187,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T05:30:00+00:00",
-          "source": "Yahoo Sports",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - Yahoo Sports",
+          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - sports.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklmaE1PRHBJZWJQRjJOSjJTRmZWUWVmS1VYSkJEUzI5XzBKWnF6cXNVS3JCMUhLejVIN280SWg4a3V3SXFwSUxhcmF2Y28tT0xZb1dOUlZLR2YzckdLcm1wekZaemR3dlZTMjJTQTVZOWJOcjJoQzZkb1hHbXNaaw?oc=5"
         },
         {
@@ -459,7 +459,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
+      "fetched_at": "2026-10-02T14:33:10.791830+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -503,11 +503,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-07T07:00:00+00:00",
-          "source": "Benzinga",
-          "source_url": "https://www.benzinga.com",
-          "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3N4aDVfM2hOMHppbzU5dGt3b2owQVI1WjJIVnkzWEpHdm1LNllIRVJYeVE5bGM2QXBBYXlsZHBjR1AtczcxS3g3OFU1Y1JSc0JfdlJCa0ZydjRrN01QT1ZxYTVScU5EX1FreERKd3ZVUldxNlFaTkNxbHhyWDZWSmNzTWRDV2JRcWVkUE9vOW5oeWRZcERRMTVZRDJRdDdkMV8wZVJWSkRzRl9TX09nU1dJb3FCS01aOHc?oc=5"
+          "published_at": "2026-08-28T07:00:00+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "OpenAI Says AGI Is Coming By Year-End. It Also Just Had The Worst Safety Crisis In Its History. - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2loTDRiU0lmWmF0cXhPeTN0bXU3ajF1QUZyS3QwZmp6NmFES0wtNWYzRHV0ZmM5Z2E1UVdQbG05Nm5rcHJ4S2xCNHpIRmVDWW5qTWpFXzF2V2ljVkhWSi0xQnFONERZWV9wVFk2UkhmWklhNUNqWjFSdGh3MG1mMzJndlNlTnBpb3JuZHN4RWlrVUJfOWtKLVprZURPbF92ZWJKTVlwdXdDLVlKbUJTMk5rOE5nRi1yelBsU3N1T3h4bGU4VFdDOFBKeG1JVjJmUkFvV1AzRDdxYmhraGtyVg?oc=5"
         }
       ],
       "market_id": "653788",
@@ -524,7 +524,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
+      "fetched_at": "2026-10-02T14:33:10.791830+00:00",
       "items": [
         {
           "kind": "news_rss",
