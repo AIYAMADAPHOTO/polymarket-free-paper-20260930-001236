@@ -581,7 +581,7 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T01:49:32.504245+00:00",
+      "fetched_at": "2026-10-02T02:21:01.549641+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -638,7 +638,7 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T01:49:32.504245+00:00",
+      "fetched_at": "2026-10-02T02:21:01.549641+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -659,9 +659,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-09T07:00:00+00:00",
-          "source": "USA Today",
+          "source": "usatoday.com",
           "source_url": "https://www.usatoday.com",
-          "title": "'Spider-Man' nabs one of the best second weekends at box office ever - USA Today",
+          "title": "'Spider-Man' nabs one of the best second weekends at box office ever - usatoday.com",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBSOTFrTk1YcXdpdkE1THp4MDBWZHg2ZGsxVkVqY2NxZXVHOS1rTFpfUm9RMmc5TnZWMHh1SmVHLVhiU3ZhdXZsNnVDWU11bENjQVVVck5Yc0V6ODh4TGtRSnZyNjJXN09Yak42ZEpsYUY3cDhoVjE0YjlLcXpPN2wySlU2aTVVXzhCd2QyREZNeldxOWdzT2RzbXlqSm8wbXR3b1ZGRVlXVUx5a0Nia2ExUzZFWFlCRy13aV95V0tLSnFn?oc=5"
         },
         {

@@ -3,24 +3,9 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "43.764355998",
-  "positions": {
-    "665374:NO": {
-      "market_id": "665374",
-      "market_title": "Will the U.S. invade Iran before 2027?",
-      "outcome": "NO",
-      "quantity": "3.481131",
-      "cost_basis": "2.99377266"
-    },
-    "677026:YES": {
-      "market_id": "677026",
-      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
-      "outcome": "YES",
-      "quantity": "6.860604",
-      "cost_basis": "2.985755492"
-    }
-  },
-  "realized_pnl": "-0.25611585",
+  "cash_balance": "49.459985592",
+  "positions": {},
+  "realized_pnl": "-0.540014408",
   "trades": [
     {
       "trade_id": 1,
@@ -555,6 +540,108 @@
       "gross_pnl": "-0.04591851",
       "net_pnl": "-0.15233851",
       "return_pct": "-5.09206444968076581761639154586828376402667896172371964980908"
+    },
+    {
+      "trade_id": 11,
+      "timestamp": "2026-10-02T02:21:13.783909+00:00",
+      "market_id": "677026",
+      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
+      "outcome": "YES",
+      "side": "SELL",
+      "quantity": "6.860604",
+      "requested_price": "0.411000000000000000",
+      "simulated_fill_price": "0.411000000000000000",
+      "spread": "0.012",
+      "fee": "0.08304",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.000",
+      "position_before": "6.860604",
+      "position_after": "0.000000",
+      "cash_before": "43.764355998",
+      "cash_after": "46.501024242",
+      "realized_pnl": "-0.249087248",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.42",
+      "model_confidence": "0.75",
+      "source_quality": "0.85",
+      "edge": "0.009",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.411",
+      "exit_ask": "0.423",
+      "exit_spread": "0.012",
+      "requested_quantity": "6.860604",
+      "fill_status": "filled",
+      "fill_notional": "2.819708244",
+      "fill_legs": [
+        [
+          "0.411",
+          "6.860604"
+        ]
+      ],
+      "slippage_cost": "0E-9",
+      "quote_timestamp": "2026-10-02T02:21:13.448029+00:00",
+      "book_timestamp": "1790907623315",
+      "gross_pnl": "-0.082327248",
+      "net_pnl": "-0.249087248",
+      "return_pct": "-8.34251996412303677008525787214728834198858772458384546111387"
+    },
+    {
+      "trade_id": 12,
+      "timestamp": "2026-10-02T02:21:13.789415+00:00",
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "side": "SELL",
+      "quantity": "3.481131",
+      "requested_price": "0.850000000000000000",
+      "simulated_fill_price": "0.850000000000000000",
+      "spread": "0.01",
+      "fee": "0",
+      "fee_status": "free",
+      "fee_source": "Gamma feesEnabled=false",
+      "fee_rate": "0",
+      "slippage": "0.00",
+      "position_before": "3.481131",
+      "position_after": "0.000000",
+      "cash_before": "46.501024242",
+      "cash_after": "49.459985592",
+      "realized_pnl": "-0.03481131",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.86",
+      "model_confidence": "0.8",
+      "source_quality": "0.8",
+      "edge": "0.01",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.85",
+      "exit_ask": "0.86",
+      "exit_spread": "0.01",
+      "requested_quantity": "3.481131",
+      "fill_status": "filled",
+      "fill_notional": "2.95896135",
+      "fill_legs": [
+        [
+          "0.85",
+          "3.481131"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T02:21:13.782475+00:00",
+      "book_timestamp": "1790907672000",
+      "gross_pnl": "-0.03481131",
+      "net_pnl": "-0.03481131",
+      "return_pct": "-1.16279069767441860465116279069767441860465116279069767441860"
     }
   ],
   "test_run": null,
@@ -599,46 +686,27 @@
       "ai_temperature": "0.10",
       "billing_disabled_confirmed": true
     },
-    "positions_meta": {
-      "665374:NO": {
-        "entry_time": "2026-10-01T23:33:02.848993+00:00",
-        "entry_price": "0.860000000000000000",
-        "entry_cost": "2.99377266",
-        "fair_probability": "0.95",
-        "model_confidence": "0.8",
-        "edge": "0.09",
-        "ai_model": "gemini-3.5-flash-lite"
-      },
-      "677026:YES": {
-        "entry_time": "2026-10-02T02:00:14.304191+00:00",
-        "entry_price": "0.423000000000000000",
-        "entry_cost": "2.985755492",
-        "fair_probability": "0.99",
-        "model_confidence": "0.95",
-        "edge": "0.5547969928012169190934209291",
-        "ai_model": "gemini-3.5-flash-lite"
-      }
-    },
+    "positions_meta": {},
     "last_trade_by_market": {
-      "665374": "2026-10-01T23:33:02.848993+00:00",
+      "665374": "2026-10-02T02:21:13.789415+00:00",
       "678445": "2026-10-02T02:10:48.060646+00:00",
-      "677026": "2026-10-02T02:00:14.304191+00:00"
+      "677026": "2026-10-02T02:21:13.783909+00:00"
     },
     "day": {
       "date": "2026-10-02",
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 92,
-      "markets_scanned": 94668,
-      "prefilter_selected": 3680,
-      "political_excluded": 55292,
-      "ai_evaluations": 3280,
+      "cycles": 93,
+      "markets_scanned": 95697,
+      "prefilter_selected": 3720,
+      "political_excluded": 55893,
+      "ai_evaluations": 3320,
       "ai_skips": 2295,
       "edge_candidates": 6,
       "entries": 6,
-      "exits": 4,
-      "rejections": 22
+      "exits": 6,
+      "rejections": 24
     },
     "errors": [
       {
@@ -650,5 +718,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "ba4e68a28c8eb29471408db059f60a5e429c96622a9c2812d7cb0a3dda7fa196"
+  "checksum": "b06f6932d3f50dac4d919f6b729471cbddad5530ea15f3dc3392d11d832fb3a6"
 }

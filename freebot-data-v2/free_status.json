@@ -1,47 +1,32 @@
 {
-  "cash": "43.764355998",
+  "cash": "49.459985592",
   "counters": {
-    "ai_evaluations": 3280,
+    "ai_evaluations": 3320,
     "ai_skips": 2295,
-    "cycles": 92,
+    "cycles": 93,
     "edge_candidates": 6,
     "entries": 6,
-    "exits": 4,
-    "markets_scanned": 94668,
-    "political_excluded": 55292,
-    "prefilter_selected": 3680,
-    "rejections": 23
+    "exits": 6,
+    "markets_scanned": 95697,
+    "political_excluded": 55893,
+    "prefilter_selected": 3720,
+    "rejections": 25
   },
-  "equity_mark_to_bid_before_exit_fee": "49.543025592",
+  "equity_mark_to_bid_before_exit_fee": "49.459985592",
   "last_model": "gemini-3.5-flash-lite",
-  "net_pnl_mark_to_bid": "-0.456974408",
-  "open_positions": {
-    "665374:NO": {
-      "cost_basis": "2.99377266",
-      "market_id": "665374",
-      "market_title": "Will the U.S. invade Iran before 2027?",
-      "outcome": "NO",
-      "quantity": "3.481131"
-    },
-    "677026:YES": {
-      "cost_basis": "2.985755492",
-      "market_id": "677026",
-      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
-      "outcome": "YES",
-      "quantity": "6.860604"
-    }
-  },
+  "net_pnl_mark_to_bid": "-0.540014408",
+  "open_positions": {},
   "paid_api_fallback_used": false,
   "real_order_code_used": false,
-  "realized_pnl": "-0.25611585",
-  "return_pct_mark_to_bid": "-0.91394881600",
+  "realized_pnl": "-0.540014408",
+  "return_pct_mark_to_bid": "-1.08002881600",
   "scheduled_end_time": "2026-10-03T10:17:27.841065+00:00",
   "start_time": "2026-10-01T10:17:27.841065+00:00",
   "starting_equity": "50.00",
   "status": "RUNNING",
-  "timestamp": "2026-10-02T02:10:48.080144+00:00",
-  "trade_count": 10,
+  "timestamp": "2026-10-02T02:21:13.804721+00:00",
+  "trade_count": 12,
   "unpriced_positions": [],
-  "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.200858558",
+  "unrealized_pnl_mark_to_bid_before_exit_fee": "0",
   "valuation_status": "fresh_bid_before_exit_fee"
 }
