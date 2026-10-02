@@ -399,6 +399,63 @@
       "market_id": "616902",
       "query": "Will no Fed rate cuts happen in 2026?"
     },
+    "622738": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-02T19:27:02.955273+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "source": "CryptoTicker",
+          "source_url": "https://cryptoticker.io",
+          "title": "Hyperliquid Unlock September 6: How Much HYPE Is Real? - CryptoTicker",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nbnp1NzNrMURhM1FYN2FJejZ1Q2FHdVBMMjNHUHVlUU4tazhlb0puc2dwUGM5YUE4SkJDazZiTWVvdmdtSHZlVVByMkE2UWJYdDRfX3AwdTlfREJwQkRCR3F4aXBsVkZDMXlpcA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-28T00:12:16+00:00",
+          "source": "Yellow.com",
+          "source_url": "https://yellow.com",
+          "title": "Hyperliquid Owns 13% Of All Perp Volume, So Why Is Nobody Asking How - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sZURRQjJ1ZFJjZVRPVThtMTVQVjV0OHZkbHFCdElWZmJRcDdkX3BQSldfQVpnX0NuSnlVUjE2b25KRHRGTU5lT0FKMHRJUU10T2lhMzFYa3FvN1ctVjdCWGhsUi04TUlmZEJ6a2FkSy02M2pocVpzem93?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2025-12-26T08:00:00+00:00",
+          "source": "dlnews.com",
+          "source_url": "https://www.dlnews.com",
+          "title": "Five crypto airdrops to watch for in 2026 - dlnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXRyRjNPdTU5R1hpNG04dllSR2N1dnQxbElSNFFEVExSb0Y1ZjZweF9vVko0SnBiNEVhMHN1UlV1bDVrdFZxQXgtUHZ4dUJSUlh2RFJxMmN6TDh4Zm1YRHgwZ3NqWnpzcnFNSF9nSUNGUUZuX25yakIwTnpVS2c5OW5fWFZ2elg4VXNCNWI2empMUQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-01-28T08:00:00+00:00",
+          "source": "CryptoPotato",
+          "source_url": "https://cryptopotato.com",
+          "title": "What is Hyperliquid (HYPE) and How Does it Work: The Complete Hyperliquid Review in 2026 - CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3OXl1d0VjZ0xaOU9kYzNDZFJjeUU3ZEEzOVhxQzBJS2R1OXdMc0gyZktkTENTME9pNHAyNWpObC1sVkpaU3BadExmOWpKdnBXeDRaOVg4bTB1bjNxZDJn?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-01-14T08:00:00+00:00",
+          "source": "TradingView",
+          "source_url": "https://www.tradingview.com",
+          "title": "Perp DEXs will ‘eat’ expensive TradFi in 2026: Delphi Digital - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXZzbEI0SGV2bmhMVlBoMDZuZkIwZ2RQNlVSRUJMbmF6LTdWMjhUcmdvUE9ZYjJTVWI4UV93c2l6ay1QTzVtdnkxN0xCMEtnQzNGUHdaa0ZRV2xrNnVMbmtSMzhnbVNCdTVGTDZyTWhVaDZza0JqX2JDSzdWWV9ZangwOTJzS0lmNEs2ZFdQNTgxNlRxZ3VhaEVIanZ3aHhPQTQydWxkRFkwMnZxZlhSMjEyMlVIcFQxWlFMcTBfZw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2025-12-31T08:00:00+00:00",
+          "source": "dlnews.com",
+          "source_url": "https://www.dlnews.com",
+          "title": "Lighter airdrop pushes the Hyperliquid rival’s valuation to $2.5bn — ‘The value will accrue’ - dlnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU05fMVkyU0NQOFFJQmZkOGJJTWtHdjljVkEtQWVvNE5qTWFXa3BuRjBPbHBhLThPd09GTXZ0NmQ1aGxZeUMyNUpjMjVDOWVFNXZSeUc5bGRwZWhDVVRPSjFEd1R0UVlMY3pOSHA3YTV4WU5fMjU1emdFT0tGZXhhaGNpNURuUTdoWmRKSGhDd0h4YTBOTzhJSFpYeWU?oc=5"
+        }
+      ],
+      "market_id": "622738",
+      "query": "Will Hyperliquid perform an airdrop by December 31, 2026?"
+    },
     "637004": {
       "category_hint": "general",
       "errors": [],
@@ -638,22 +695,22 @@
     "676739": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T18:55:21.270637+00:00",
+      "fetched_at": "2026-10-02T19:27:02.955273+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-07T07:00:00+00:00",
-          "source": "The Motley Fool",
+          "source": "fool.com",
           "source_url": "https://www.fool.com",
-          "title": "The Largest Companies by Market Cap in October 2026 - The Motley Fool",
+          "title": "The Largest Companies by Market Cap in October 2026 - fool.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NUo0RjhSeGFhdTZUbG5xWmgybGJNam9uM3Zkb2I3QzRkdmJnbG1XMkVleEZEeTE2SnRreWptSDVTT0FiMmkwZnl4VUZGQkJleXVPLTdvQjZjOE1qN0FQSWxuaDgyOU1tdDNpb0VPMA?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-06-16T07:00:00+00:00",
-          "source": "benzinga.com",
+          "source": "Benzinga",
           "source_url": "https://www.benzinga.com",
-          "title": "Could SpaceX Overtake Nvidia As The World's Biggest Company In 2026? - benzinga.com",
+          "title": "Could SpaceX Overtake Nvidia As The World's Biggest Company In 2026? - Benzinga",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEtabWxhTndEcmgzM29EMENTS2V1NmZjb0JweEZac1JRNV9kODVfQkNTRUlQcUVXWnpOS29jWWhkRVFNeUxaYjIyWUkxSnplTEZfb2xVWUlnX2hCNTlyZGx0Vl9vM3V2U09iY0huS0plZFVCOXdzd01haUlhTWl5QlMyRmN1U3U3a0NVLUNic01JbE1mazBoUjIyRkdlQUxRWGJJaWt0aDFkckw4LWtnQ3JlZUU3LWNIaTdTcHlUTDk5SDQ?oc=5"
         },
         {
@@ -675,9 +732,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-31T07:00:00+00:00",
-          "source": "The Motley Fool",
+          "source": "fool.com",
           "source_url": "https://www.fool.com",
-          "title": "Will Nvidia Shock the World and Be the First Company to Reach $1 Trillion in Revenue? Here's What the Math Says. - The Motley Fool",
+          "title": "Will Nvidia Shock the World and Be the First Company to Reach $1 Trillion in Revenue? Here's What the Math Says. - fool.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEZSZ2NuZDU4dWxsSjBnUkV4aHRkbDFfdC1TVmlvT3UxbXVyT1VLcTlTSTNPRGlNVFpBbTMzd2NvRDlNQUIzcENfOTVDbnhneDQweHVnM0RKWEUtU0NBNk41NERkRXBVQmRKdTIxUFZ5elo0dkVSNmhhaUYydmtHRVFyeW4xWkptQVFXZnlVa3NvUTFZZEdScg?oc=5"
         },
         {
