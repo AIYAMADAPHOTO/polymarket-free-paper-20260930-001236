@@ -581,14 +581,14 @@
     "677026": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:21:01.549641+00:00",
+      "fetched_at": "2026-10-02T02:52:22.008993+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-30T20:00:21+00:00",
-          "source": "Yahoo Finance",
+          "source": "finance.yahoo.com",
           "source_url": "https://finance.yahoo.com",
-          "title": "Mortgage rate predictions for the next five years: Will rates keep climbing? - Yahoo Finance",
+          "title": "Mortgage rate predictions for the next five years: Will rates keep climbing? - finance.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWtFTG5QcWNLVjN2NVNGbG9lcFdGdGMzQ3dZOGZTc05iNXBFVUVKY0NGTVk2cUZLQUdJRUphODhMSzBMTjdrZTFrTVZJRHh5SEEzS1Fzbm1iTXRjeDRqNTVwOXBub243U29UMDh1MkFLN3VQcndtY19tYVhsSmhzZ3l6X3FNeWhKRzBFMUdRV1A1N1MzeTh4b1VJQ25mcDBId0w0cGdtcVl3U0c1SWZzYmdhRmloOUZtQ0RGbjhRSW1oMWQxazJtMHh1d25QQ1BxQURKTWV6TXZfcFpuWkVBTm43NGc?oc=5"
         },
         {
