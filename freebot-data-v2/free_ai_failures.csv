@@ -82,3 +82,4 @@ timestamp,error,paid_fallback
   }
 }
 ",False
+2026-10-02T17:09:26.669748+00:00,Gemini network/JSON failure model=gemini-3.5-flash-lite: The read operation timed out,False
