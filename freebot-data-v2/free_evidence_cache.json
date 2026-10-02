@@ -635,6 +635,63 @@
       "market_id": "665513",
       "query": "Friedrich Merz out as Chancellor of Germany before December 31, 2026?"
     },
+    "676739": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-02T14:12:18.170665+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "The Motley Fool",
+          "source_url": "https://www.fool.com",
+          "title": "Will Nvidia Shock the World and Be the First Company to Reach $1 Trillion in Revenue? Here's What the Math Says. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEZSZ2NuZDU4dWxsSjBnUkV4aHRkbDFfdC1TVmlvT3UxbXVyT1VLcTlTSTNPRGlNVFpBbTMzd2NvRDlNQUIzcENfOTVDbnhneDQweHVnM0RKWEUtU0NBNk41NERkRXBVQmRKdTIxUFZ5elo0dkVSNmhhaUYydmtHRVFyeW4xWkptQVFXZnlVa3NvUTFZZEdScg?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-06-16T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Could SpaceX Overtake Nvidia As The World's Biggest Company In 2026? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEtabWxhTndEcmgzM29EMENTS2V1NmZjb0JweEZac1JRNV9kODVfQkNTRUlQcUVXWnpOS29jWWhkRVFNeUxaYjIyWUkxSnplTEZfb2xVWUlnX2hCNTlyZGx0Vl9vM3V2U09iY0huS0plZFVCOXdzd01haUlhTWl5QlMyRmN1U3U3a0NVLUNic01JbE1mazBoUjIyRkdlQUxRWGJJaWt0aDFkckw4LWtnQ3JlZUU3LWNIaTdTcHlUTDk5SDQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-05-07T07:00:00+00:00",
+          "source": "24/7 Wall St.",
+          "source_url": "https://247wallst.com",
+          "title": "Alphabet Is About to Overtake Nvidia as the World’s Biggest Company - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3pmUGxRYW5NVTMwdUFSRFQ5QUljN1JDeUd1NFltVWNhOHdxaDYzX3MtVnNBcFRBTWEyWlZNMHk1eUVzd0hJSEM4YURpd2lUWHJQRUh4Q2JSZ1F5TFBhY0xXM0toWlVaNEZQOG5BeHBHTjNMTndqVi1ERmkwX2hQdzlDdjRZbEVnb09qTzlacmEtSnQ5SGc4d05oSDN2Q0FiSmhWS1hxQnBfUVlMOFNN?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "source": "cryptoslate.com",
+          "source_url": "https://cryptoslate.com",
+          "title": "Largest Company end of August Final Result & Prediction Market - cryptoslate.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12aV9KMFlzTHhQODdodDQwYW13V3g1bzgzX1VVRE15MUZkNlZIUDYya0NYLWlQdzBuUU9yNzhNMzhmdkxoT3p3SW9QOTFlSk11dE50UUV0dXg0a0tYeW4ycWhYRkVvd0xGWGQzbk1SYW1EU0xENkpDM25icmZZQQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-05-07T07:00:00+00:00",
+          "source": "AOL.com",
+          "source_url": "https://www.aol.com",
+          "title": "Alphabet Is About to Overtake Nvidia as the World’s Biggest Company - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGdpb2Z6Ry1RcTYwbkhmUGJkcTlaaVFTSGh6OF9qd0xTNVpxZ2ZjRnhPU1JpYV9xQUxCRmJ0NVdETEJrYWJ1aXlSQlRZUHh3TVBjSUxTSkFvRHJKeWFZZFZmb2JRcF82ZHozUGxvbVNDZ0xLYzBSaFF1MzlRSFZ3WWtFMlg3bmowV1E?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2025-12-31T08:00:00+00:00",
+          "source": "The Motley Fool",
+          "source_url": "https://www.fool.com",
+          "title": "Prediction: This Company Could Overtake Nvidia as the Largest in the World in 2026 - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbW14RUNaMld1M0R3cE9fM294R0pURHdiWkpleFVoVlN5VkVwVmVYakNzVEZGYmc0b3hjczJsdnFzZDFLMERhckhnVGlIUlRzVWNOYURsX2Noa3NyT0JZQzZzb1Z5OVFuOFFHSmNiV2stSUpnT0pPeXltZ0FoWUZhYzZFbG43OHdJOXQ3RGg3VUd4Vnp4R0dPVQ?oc=5"
+        }
+      ],
+      "market_id": "676739",
+      "query": "Will NVIDIA be the largest company in the world by market cap on December 31?"
+    },
     "677026": {
       "category_hint": "general",
       "errors": [],
@@ -695,14 +752,14 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:40:41.164331+00:00",
+      "fetched_at": "2026-10-02T14:12:18.170665+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "deadline.com",
+          "source": "Deadline",
           "source_url": "https://deadline.com",
-          "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - deadline.com",
+          "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - Deadline",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDZEdkZjZkpMdHFxN1p3MnhfajBKRklaTWprcG5XeTYyZkUzdGpLMnJKVjJuWWRDS3pmc3M0eFg2OGE3SnF3dmhuenVUTjBaVEp3OVI0bmhqbHpzNlZORVRUbjhkQUJ2c0tENE9Qcm5FNW9PUkU4Q0lMdkM4U0pSUTdNd0NpaFhUTkRlM1EwTWhHNzhnQjBV?oc=5"
         },
         {
@@ -732,9 +789,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T21:16:00+00:00",
-          "source": "deadline.com",
+          "source": "Deadline",
           "source_url": "https://deadline.com",
-          "title": "‘Spider-Man: Brand New Day’ Re-Release In Works With Extra Footage – The Dish - deadline.com",
+          "title": "‘Spider-Man: Brand New Day’ Re-Release In Works With Extra Footage – The Dish - Deadline",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOGtJeVk1bEtacnpweEJqTkdWUDRxSWFFNFNVRGRDWGJPc1FqMFJ6bElvQXN3QmdfUk9CYXAxbHltSm80S2hkOUoxaHM0eTNhajc2VExRZ1ZBdThTN1NSR3dCYWpGbENHczZKekNmTGJ2alFUMFVhcXh2Ylk5NDRsNFR3?oc=5"
         },
         {
