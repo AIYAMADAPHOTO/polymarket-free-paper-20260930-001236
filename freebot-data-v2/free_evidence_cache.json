@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
+      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
+      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
+      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -202,14 +202,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "Diario AS",
-          "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
           "source": "FC Bayern",
           "source_url": "https://fcbayern.com",
@@ -218,11 +210,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T20:37:12+00:00",
-          "source": "Bookies.com",
-          "source_url": "https://bookies.com",
-          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmZfRkxEcW80WnY4OVVSeUpuNXFPTldGd2l2Qmxuem0weEEtQlhaZUZlbVdpTU9vRlJfNWQwWnVDUlhmRnN2YjM4NV9xRVpZTG14cHhUQ3FRMFl0ZHlBeThmVXlSRkVGZ0Fuek5TVjBhNUwyVDZyMm5EQjRyUzZjVVBVMUpieTNqRkJuRktPZ2hkT2ZXUWhIanJQcHdoLXdJ?oc=5"
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "Diario AS",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "source": "CBS Sports",
+          "source_url": "https://www.cbssports.com",
+          "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJaSVZvSFp0MDNNNDA4UWpNa0YyeE4yQWl2RlZCX1dYNHFjUWN6VE1UZEh1MFVkS1VLUmtUc1hkTEtFbXdPX0FfZ1A5ODhBcFV1S3RxRkEwVWpwVDBlbzBQV2xWVE1uOHZwVk9iVERhaFZGSDYxMUhYRmlsU3haOWtUckRpdEhIOHBxUlZSdWJOS3lNYm5QNW5YZHdhaVE2RnoxM2R3?oc=5"
         }
       ],
       "market_id": "608547",
@@ -459,7 +459,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
+      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -479,19 +479,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-19T07:00:00+00:00",
-          "source": "tech-insider.org",
-          "source_url": "https://tech-insider.org",
-          "title": "AGI in 5 Years? Manifold Bettors Put It at 62% After GPT-6 Astra - tech-insider.org",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Va0ExVFpWSjBueFFRcXN0VDBIM2dYclVuaUJEOHdGMWtrRnAycU5QNVJUanJxelQ3VzVKdks5NXlYVmxmQzF1UlFuVmFkb0xmWFROV0FudllCSkxBcWtOWWxUdURRTkxpQy0yUkprZV9YOG5QcUs4a1pCM0I?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-08-26T07:00:00+00:00",
           "source": "OddsShopper",
           "source_url": "https://www.oddsshopper.com",
           "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - OddsShopper",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rNmYxU1lIVkJ1X2k5TFlRdnY5RG9sZEd6R2FsYkRTYVVIRk1udnEyRUhfOUFScXRySzZiYmkxTHBjNU1EN1hicHE4cGxuMTVmQ1BQQTI3aWJ2SW5sV215OHo4TGhhOHd4VE1ST3A2b2p5Uy1mZEowaGhmMA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-19T07:00:00+00:00",
+          "source": "tech-insider.org",
+          "source_url": "https://tech-insider.org",
+          "title": "AGI in 5 Years? Manifold Bettors Put It at 62% After GPT-6 Astra - tech-insider.org",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Va0ExVFpWSjBueFFRcXN0VDBIM2dYclVuaUJEOHdGMWtrRnAycU5QNVJUanJxelQ3VzVKdks5NXlYVmxmQzF1UlFuVmFkb0xmWFROV0FudllCSkxBcWtOWWxUdURRTkxpQy0yUkprZV9YOG5QcUs4a1pCM0I?oc=5"
         },
         {
           "kind": "news_rss",
@@ -503,11 +503,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-08-28T07:00:00+00:00",
-          "source": "Forbes",
-          "source_url": "https://www.forbes.com",
-          "title": "OpenAI Says AGI Is Coming By Year-End. It Also Just Had The Worst Safety Crisis In Its History. - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2loTDRiU0lmWmF0cXhPeTN0bXU3ajF1QUZyS3QwZmp6NmFES0wtNWYzRHV0ZmM5Z2E1UVdQbG05Nm5rcHJ4S2xCNHpIRmVDWW5qTWpFXzF2V2ljVkhWSi0xQnFONERZWV9wVFk2UkhmWklhNUNqWjFSdGh3MG1mMzJndlNlTnBpb3JuZHN4RWlrVUJfOWtKLVprZURPbF92ZWJKTVlwdXdDLVlKbUJTMk5rOE5nRi1yelBsU3N1T3h4bGU4VFdDOFBKeG1JVjJmUkFvV1AzRDdxYmhraGtyVg?oc=5"
+          "published_at": "2026-09-07T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3N4aDVfM2hOMHppbzU5dGt3b2owQVI1WjJIVnkzWEpHdm1LNllIRVJYeVE5bGM2QXBBYXlsZHBjR1AtczcxS3g3OFU1Y1JSc0JfdlJCa0ZydjRrN01QT1ZxYTVScU5EX1FreERKd3ZVUldxNlFaTkNxbHhyWDZWSmNzTWRDV2JRcWVkUE9vOW5oeWRZcERRMTVZRDJRdDdkMV8wZVJWSkRzRl9TX09nU1dJb3FCS01aOHc?oc=5"
         }
       ],
       "market_id": "653788",
@@ -524,7 +524,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
+      "fetched_at": "2026-10-02T14:01:27.593118+00:00",
       "items": [
         {
           "kind": "news_rss",
