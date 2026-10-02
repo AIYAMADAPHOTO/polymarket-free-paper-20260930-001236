@@ -402,7 +402,7 @@
     "622738": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:00:54.651653+00:00",
+      "fetched_at": "2026-10-02T21:32:29.821563+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -695,7 +695,7 @@
     "676739": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:00:54.651653+00:00",
+      "fetched_at": "2026-10-02T21:32:29.821563+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -731,19 +731,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-05-07T07:00:00+00:00",
-          "source": "AOL.com",
-          "source_url": "https://www.aol.com",
-          "title": "Alphabet Is About to Overtake Nvidia as the World’s Biggest Company - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGdpb2Z6Ry1RcTYwbkhmUGJkcTlaaVFTSGh6OF9qd0xTNVpxZ2ZjRnhPU1JpYV9xQUxCRmJ0NVdETEJrYWJ1aXlSQlRZUHh3TVBjSUxTSkFvRHJKeWFZZFZmb2JRcF82ZHozUGxvbVNDZ0xLYzBSaFF1MzlRSFZ3WWtFMlg3bmowV1E?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2025-12-31T08:00:00+00:00",
           "source": "The Motley Fool",
           "source_url": "https://www.fool.com",
           "title": "Prediction: This Company Could Overtake Nvidia as the Largest in the World in 2026 - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbW14RUNaMld1M0R3cE9fM294R0pURHdiWkpleFVoVlN5VkVwVmVYakNzVEZGYmc0b3hjczJsdnFzZDFLMERhckhnVGlIUlRzVWNOYURsX2Noa3NyT0JZQzZzb1Z5OVFuOFFHSmNiV2stSUpnT0pPeXltZ0FoWUZhYzZFbG43OHdJOXQ3RGg3VUd4Vnp4R0dPVQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-17T07:00:00+00:00",
+          "source": "24/7 Wall St.",
+          "source_url": "https://247wallst.com",
+          "title": "Buffett’s Biggest Bet Just Dethroned Nvidia As the Largest Company In the World - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeElrSkJqb2tmUDR0dVFxMkJERlFrZUR1UXlqVmstUXNubG1tU18yaGJYSXA0TlVhYldsUFZnRUtnZTF0LWN0QTExcmJGTVJPeUVoY0Fua2pFOU1yaERyWkVISm1IYUROV0lfSndTRms5N28wZUE1R0YzMDZEU1k4V1VhUHRxWENEOTRhRWhLb3lTeWR1SE5nMzl4ZWwyNmlSN0JvNTkzNzlUQkpFT2hXMUdEU1l3cG85MTRUWklIdw?oc=5"
         }
       ],
       "market_id": "676739",
