@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
+      "fetched_at": "2026-10-02T16:06:57.036997+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -24,9 +24,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-23T05:53:34+00:00",
-          "source": "oddsshopper.com",
+          "source": "OddsShopper",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - oddsshopper.com",
+          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - OddsShopper",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
+      "fetched_at": "2026-10-02T16:06:57.036997+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
+      "fetched_at": "2026-10-02T16:06:57.036997+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -194,6 +194,14 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T06:01:00+00:00",
+          "source": "FC Bayern",
+          "source_url": "https://fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-10-01T12:33:15+00:00",
           "source": "bundesliga.com",
           "source_url": "https://www.bundesliga.com",
@@ -207,14 +215,6 @@
           "source_url": "https://en.as.com",
           "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern",
-          "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -459,7 +459,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
+      "fetched_at": "2026-10-02T16:06:57.036997+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -480,9 +480,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-26T07:00:00+00:00",
-          "source": "oddsshopper.com",
+          "source": "OddsShopper",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - oddsshopper.com",
+          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - OddsShopper",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rNmYxU1lIVkJ1X2k5TFlRdnY5RG9sZEd6R2FsYkRTYVVIRk1udnEyRUhfOUFScXRySzZiYmkxTHBjNU1EN1hicHE4cGxuMTVmQ1BQQTI3aWJ2SW5sV215OHo4TGhhOHd4VE1ST3A2b2p5Uy1mZEowaGhmMA?oc=5"
         },
         {
@@ -524,7 +524,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
+      "fetched_at": "2026-10-02T16:06:57.036997+00:00",
       "items": [
         {
           "kind": "news_rss",
