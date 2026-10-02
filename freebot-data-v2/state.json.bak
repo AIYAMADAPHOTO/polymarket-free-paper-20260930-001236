@@ -3,7 +3,7 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "46.90245000",
+  "cash_balance": "43.91076536",
   "positions": {
     "665374:NO": {
       "market_id": "665374",
@@ -11,6 +11,13 @@
       "outcome": "NO",
       "quantity": "3.481131",
       "cost_basis": "2.99377266"
+    },
+    "678445:YES": {
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "quantity": "4.591851",
+      "cost_basis": "2.99168464"
     }
   },
   "realized_pnl": "-0.10377734",
@@ -387,6 +394,61 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 8,
+      "timestamp": "2026-10-02T01:49:42.770612+00:00",
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "side": "BUY",
+      "quantity": "4.591851",
+      "requested_price": "0.66",
+      "simulated_fill_price": "0.640000000000000000",
+      "spread": "0.01",
+      "fee": "0.05290",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.00",
+      "position_before": "0",
+      "position_after": "4.591851",
+      "cash_before": "46.90245000",
+      "cash_after": "43.91076536",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "2.9916846810",
+      "fair_probability": "0.95",
+      "model_confidence": "0.9",
+      "source_quality": "0.9",
+      "edge": "0.2984795913456251084802185437",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.63",
+      "entry_ask": "0.64",
+      "entry_spread": "0.01",
+      "liquidity": "29436.0622",
+      "volume": "243638.054747",
+      "requested_quantity": "4.591851",
+      "fill_status": "filled",
+      "fill_notional": "2.93878464",
+      "fill_legs": [
+        [
+          "0.64",
+          "4.591851"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T01:49:42.397070+00:00",
+      "book_timestamp": "1790905781748",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
     }
   ],
   "test_run": null,
@@ -440,26 +502,36 @@
         "model_confidence": "0.8",
         "edge": "0.09",
         "ai_model": "gemini-3.5-flash-lite"
+      },
+      "678445:YES": {
+        "entry_time": "2026-10-02T01:49:42.770612+00:00",
+        "entry_price": "0.640000000000000000",
+        "entry_cost": "2.99168464",
+        "fair_probability": "0.95",
+        "model_confidence": "0.9",
+        "edge": "0.2984795913456251084802185437",
+        "ai_model": "gemini-3.5-flash-lite"
       }
     },
     "last_trade_by_market": {
-      "665374": "2026-10-01T23:33:02.848993+00:00"
+      "665374": "2026-10-01T23:33:02.848993+00:00",
+      "678445": "2026-10-02T01:49:42.770612+00:00"
     },
     "day": {
       "date": "2026-10-02",
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 90,
-      "markets_scanned": 92610,
-      "prefilter_selected": 3600,
-      "political_excluded": 54090,
-      "ai_evaluations": 3200,
-      "ai_skips": 2285,
-      "edge_candidates": 4,
-      "entries": 4,
+      "cycles": 91,
+      "markets_scanned": 93639,
+      "prefilter_selected": 3640,
+      "political_excluded": 54691,
+      "ai_evaluations": 3240,
+      "ai_skips": 2295,
+      "edge_candidates": 5,
+      "entries": 5,
       "exits": 3,
-      "rejections": 19
+      "rejections": 20
     },
     "errors": [
       {
@@ -471,5 +543,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "ab4fb416d9c1ba48ddc61b5021f90a1f1f702968fb1630dd39762b4c72477782"
+  "checksum": "1d1519b29c8d539237c27bc2db5e142cb57f06ff0a58e2c6fc3a003d6ade89fc"
 }

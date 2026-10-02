@@ -3,7 +3,7 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "43.91076536",
+  "cash_balance": "40.925009868",
   "positions": {
     "665374:NO": {
       "market_id": "665374",
@@ -18,6 +18,13 @@
       "outcome": "YES",
       "quantity": "4.591851",
       "cost_basis": "2.99168464"
+    },
+    "677026:YES": {
+      "market_id": "677026",
+      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
+      "outcome": "YES",
+      "quantity": "6.860604",
+      "cost_basis": "2.985755492"
     }
   },
   "realized_pnl": "-0.10377734",
@@ -449,6 +456,61 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 9,
+      "timestamp": "2026-10-02T02:00:14.304191+00:00",
+      "market_id": "677026",
+      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
+      "outcome": "YES",
+      "side": "BUY",
+      "quantity": "6.860604",
+      "requested_price": "0.443",
+      "simulated_fill_price": "0.423000000000000000",
+      "spread": "0.012",
+      "fee": "0.08372",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.000",
+      "position_before": "0",
+      "position_after": "6.860604",
+      "cash_before": "43.91076536",
+      "cash_after": "40.925009868",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "2.9857555704",
+      "fair_probability": "0.99",
+      "model_confidence": "0.95",
+      "source_quality": "0.9",
+      "edge": "0.5547969928012169190934209291",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.411",
+      "entry_ask": "0.423",
+      "entry_spread": "0.012",
+      "liquidity": "4527.84691",
+      "volume": "140641.04733099995",
+      "requested_quantity": "6.860604",
+      "fill_status": "filled",
+      "fill_notional": "2.902035492",
+      "fill_legs": [
+        [
+          "0.423",
+          "6.860604"
+        ]
+      ],
+      "slippage_cost": "0E-9",
+      "quote_timestamp": "2026-10-02T02:00:12.650587+00:00",
+      "book_timestamp": "1790906389059",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
     }
   ],
   "test_run": null,
@@ -511,27 +573,37 @@
         "model_confidence": "0.9",
         "edge": "0.2984795913456251084802185437",
         "ai_model": "gemini-3.5-flash-lite"
+      },
+      "677026:YES": {
+        "entry_time": "2026-10-02T02:00:14.304191+00:00",
+        "entry_price": "0.423000000000000000",
+        "entry_cost": "2.985755492",
+        "fair_probability": "0.99",
+        "model_confidence": "0.95",
+        "edge": "0.5547969928012169190934209291",
+        "ai_model": "gemini-3.5-flash-lite"
       }
     },
     "last_trade_by_market": {
       "665374": "2026-10-01T23:33:02.848993+00:00",
-      "678445": "2026-10-02T01:49:42.770612+00:00"
+      "678445": "2026-10-02T01:49:42.770612+00:00",
+      "677026": "2026-10-02T02:00:14.304191+00:00"
     },
     "day": {
       "date": "2026-10-02",
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 90,
-      "markets_scanned": 92610,
-      "prefilter_selected": 3600,
-      "political_excluded": 54090,
-      "ai_evaluations": 3200,
-      "ai_skips": 2285,
-      "edge_candidates": 5,
-      "entries": 5,
+      "cycles": 91,
+      "markets_scanned": 93639,
+      "prefilter_selected": 3640,
+      "political_excluded": 54691,
+      "ai_evaluations": 3240,
+      "ai_skips": 2295,
+      "edge_candidates": 6,
+      "entries": 6,
       "exits": 3,
-      "rejections": 19
+      "rejections": 20
     },
     "errors": [
       {
@@ -543,5 +615,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "d2779d712f8e567031576e32649c51000b00c43117e42a6b9885e13a6bec7f32"
+  "checksum": "066d94301364d9cdc72ce63a99066705d809caff8bba3181cd947fca04c37513"
 }
