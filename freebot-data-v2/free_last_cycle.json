@@ -1,7 +1,7 @@
 {
   "ai_model": "gemini-3.5-flash-lite",
   "cash": "45.779968865",
-  "entries": 1,
+  "entries": 0,
   "equity": "48.667715825",
   "evidence_fresh_fetches": 2,
   "evidence_markets": 7,
@@ -17,5 +17,5 @@
     "requested_limit": 1000
   },
   "selected_for_ai": 40,
-  "timestamp": "2026-10-02T21:32:38.156672+00:00"
+  "timestamp": "2026-10-02T21:43:00.634773+00:00"
 }
