@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T22:45:13.262114+00:00",
+      "fetched_at": "2026-10-02T23:16:40.627069+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -374,9 +374,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
+          "title": "Federal Funds Rate History 1990 to 2026 - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
         },
         {
@@ -390,9 +390,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-15T07:00:00+00:00",
-          "source": "Norada Real Estate Investments",
+          "source": "noradarealestate.com",
           "source_url": "https://www.noradarealestate.com",
-          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - Norada Real Estate Investments",
+          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - noradarealestate.com",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlhMTEFheG1UWnI0c0J0RHJJZEZUR0lWMGtNQUdqbzg1X2c1Zng4b2x3Nkx3TC0wQWI4T1c5N3lwNUl5QzJ5T1lWemhLLTJ4V1JSTzdRX1BBVGMzVEtSLVFZWjdnS25aZ3p4WGRGTEhlRUFTY0VKZ3ktX1JFVHBWMlgxekpmSEJjR20zUw?oc=5"
         }
       ],
@@ -866,7 +866,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T22:45:13.262114+00:00",
+      "fetched_at": "2026-10-02T23:16:40.627069+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
