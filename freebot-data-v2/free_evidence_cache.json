@@ -117,14 +117,14 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T22:55:42.025844+00:00",
+      "fetched_at": "2026-10-02T23:27:12.696185+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-10-02T18:21:02+00:00",
-          "source": "sports.yahoo.com",
+          "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - sports.yahoo.com",
+          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGMwbC1KYTlfanFTajc3WGhOMHhSb1g0SkM0VlZsa0F1YWkwUUhQak0zY0pCNWw5ZHpWX19rckxkZk5IenB1bmtiOFhYMkRHVnBPTWpHZHdIaFlPck9NTTFlM2g5TVkyMzBOREZQWXVoZUs3ZUdhNHdKWUEtWURUTUtReUVKdw?oc=5"
         },
         {
@@ -134,6 +134,14 @@
           "source_url": "https://www.the-independent.com",
           "title": "Who will win the Ballon d’Or? Prediction markets have a new favourite - the-independent.com",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1RrNmJ6YXF1SFJjc3RiNWs0aGxLQkNvY19aU3l3RndPOEZlcGxoaWVVRkVKVDB2ajZfc1hyMHd5TmlJbjM0S2VGUVBmRDBZd2dxeFk4N1BITEYyWjdWcDFxNTE3LW0wcHVPSzdpWkxPTE4xU0dPZkFhLUpXTFhmVGlxa0xtQkFjRzdYVXpNU0ZxZw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T22:36:41+00:00",
+          "source": "beIN SPORTS",
+          "source_url": "https://www.beinsports.com",
+          "title": "Lamine Yamal Explains Why Kylian Mbappé Could Win the Ballon d’Or - beIN SPORTS",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX3cxWDRYcUdiUG5PbGRWU2lJS2ZmSnB4enZuUWxEcFQ5dXFoRzQ1SUZjY1lnejZjT3BEalRxX3l4bFhfMXZnS3R4NktnUFZUWkNkVkhlQXUyOWtNaDNQSnlaSFg5ZTJQTXJvcXBRZFZKZTBWc1A2UEc0cjhpTm16QnQxUkJsNUhpak9YQ05XTjhrRUUzSENoVlVCR3VlbFNzS0RabXZXWFRYcVpoQUJxdWlqd1lDeXN6WjhXcWlITFNBZ3VJNGNGZUhaY0ZLY2hHbF94Yw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -154,18 +162,10 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-02T20:22:00+00:00",
-          "source": "The Times of India",
-          "source_url": "https://timesofindia.indiatimes.com",
-          "title": "Zlatan Ibrahimović makes surprise 2026 Ballon d’Or pick after voting closes and backs Barcelona star agai - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcTIzb2FCYnV6dmlxNkxXMUpxdEdoTkR4UU9wMGlfcms1bjR5YmlsOHVNUm5kSE9KZUJ5RWRQeGVqRExOY3Z1eDJwZTVSRWNQTk1oWlNMTmNjX3pCMy1NaEVaRGdXdGdMNGk3Z3FGZ2J4cVh5S294amR3RWViSFhheDZ4VzdFeW9JUXlGZEJTRjdReGN0YUxJSGxkcWFQa01ZZFh1RjBqRmFKbUtVSl91c2dsVmQ1ZDVsS2xsd0VvcUxsdFk0WUdLUmV3UU9ZYVhjd2hyTHZjT2lEU3pRaEdXZmFseUg4YkVfSWUtTGpuZWhNV3liYVJ6aklOYmQzYVlzTHJkUlAtZTAyZTNJN1l0eVZkX0FpWUlTVEItTzhmZ9IBpAJBVV95cUxPY21hbWN3N2pLVzhPWmo4bGxlcjBWWjFld1g0NkJHV3BOdU5tZUdQT1N4bXFXQTFpQ3QwQWk5MURDTjJZU3VZY1BoM1AtZUU2N1BwRm9nZEVfUnZCTjN4S2tVNUFwQWFyQkN4eGdvZWRPRHBHenhMZzRXQ0tvZTdiaVM0dnExZHdET0I1bVd3VklkSmh6aHFSN0R5aGx1SHpnNllQOGFFb2JzX0JCZVFpQmM1blN2WGN4S09aVmVyR0lSdnM3QVpfSHctOEI0Wmd4YXM3RGZlbll0dXMtc01zVlhic2NnTjFTYWVwVWNVckxxSU9kVWZNU2RHazFEY3h0dXE5RVk1UmlHcFZDTk5CUEwzOVlkeWg2dmZiWk1tbVNTODhR?oc=5"
         }
       ],
       "market_id": "608545",
@@ -174,14 +174,14 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T22:55:42.025844+00:00",
+      "fetched_at": "2026-10-02T23:27:12.696185+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-10-02T17:30:00+00:00",
-          "source": "sports.yahoo.com",
+          "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "Thomas Tuchel heaps praise onto ‘complete package’ Harry Kane - sports.yahoo.com",
+          "title": "Thomas Tuchel heaps praise onto ‘complete package’ Harry Kane - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0Z2Wlh3R0dxT2FnRC1XazFoOTBpTk1heUV6V3d5OVhoV3FEZ3g4aHlZem1kYWlfZTFabGllbzExNFpZLWxSU3o5SGRwYjFjLV9fMkk4eFVBb2xVeTBiQ3BwWUhhSmdPeFJmZmNFX1VhMTdzRHVTVWZEWnkzVDZ0dlZoeXY3c2s?oc=5"
         },
         {
@@ -219,9 +219,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
+          "source": "Diario AS",
           "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         }
       ],
@@ -288,7 +288,7 @@
     "609655": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T22:55:42.025844+00:00",
+      "fetched_at": "2026-10-02T23:27:12.696185+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -309,18 +309,10 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-05T07:00:00+00:00",
-          "source": "money.usnews.com",
+          "source": "U.S. News Money",
           "source_url": "https://money.usnews.com",
-          "title": "Recession 2026: What to Watch and How to Prepare | Investing - money.usnews.com",
+          "title": "Recession 2026: What to Watch and How to Prepare | Investing - U.S. News Money",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkxJM0ZibDFiWjFTa1F4Z0dlWG53OUdENDJBWmhCZjliTmJheExjeUpNT0VqQnMya1dpQU00TE5NRDE4NVRPT2Jicm82QjhBX09IcUlaaE5wd2oxaFpJczU3Vm1ZaEVfeFdvRDhsVVlYTkN4bmJ2NE02cXJEazVHNnl5eVdoOVl3b2lMa1NLaEs?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-07-01T07:00:00+00:00",
-          "source": "Yahoo Finance",
-          "source_url": "https://finance.yahoo.com",
-          "title": "Goldman Sachs makes big change to its recession call - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkc3X214QmdycUloVnQ4WlFOMWtuUzZjX09VTWFqU3RHT1BGRUdGcFRUSmJMLUo5RVQ5djltQW55aTJiektrdnd1STE1SXl4dkJXVVVyTzFhRzYxQnRHaUNLaGlEbFdURTRrSkVwemNjSjdXRnd0RFhuWkRpejh6VU5ocWw1OEVqWW1BbTBiUml5Zw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -329,6 +321,14 @@
           "source_url": "https://www.forbes.com",
           "title": "Here’s Why The Economic Outlook Is Suddenly Rosier - Forbes",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjFiUGEtVkhuOUxkR3ZsSzFOMllleGIzdVJOUXJTSUh2cWg0TE1iNC1ULVZvRDRqNGdCU2pMbnhrVXdwV0hSZ2RUN0VjOUd4cGNBTG45WVVnT2RqTDNzVW9RcHFGemUzeFFwbmpROGo0anJHZDR2aExTZ2xmRWVDTjZTVFRsdXVNVVJienk3QWZwVzltUzN3OUlxNWR2YVYxUFBGN3hPSmUwd2lvd0JtamxpOTgtXzJpcjJncl80aWlzWEZVaElZeDR2NU81UQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-01T07:00:00+00:00",
+          "source": "Yahoo Finance",
+          "source_url": "https://finance.yahoo.com",
+          "title": "Goldman Sachs makes big change to its recession call - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkc3X214QmdycUloVnQ4WlFOMWtuUzZjX09VTWFqU3RHT1BGRUdGcFRUSmJMLUo5RVQ5djltQW55aTJiektrdnd1STE1SXl4dkJXVVVyTzFhRzYxQnRHaUNLaGlEbFdURTRrSkVwemNjSjdXRnd0RFhuWkRpejh6VU5ocWw1OEVqWW1BbTBiUml5Zw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T22:55:42.025844+00:00",
+      "fetched_at": "2026-10-02T23:27:12.696185+00:00",
       "items": [
         {
           "kind": "news_rss",
