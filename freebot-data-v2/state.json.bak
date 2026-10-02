@@ -3,17 +3,9 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "45.920262125",
-  "positions": {
-    "678445:YES": {
-      "market_id": "678445",
-      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
-      "outcome": "YES",
-      "quantity": "4.498828",
-      "cost_basis": "2.93107992"
-    }
-  },
-  "realized_pnl": "-1.148657955",
+  "cash_balance": "48.702093765",
+  "positions": {},
+  "realized_pnl": "-1.297906235",
   "trades": [
     {
       "trade_id": 1,
@@ -1129,6 +1121,57 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 22,
+      "timestamp": "2026-10-02T18:13:48.583633+00:00",
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "side": "SELL",
+      "quantity": "4.498828",
+      "requested_price": "0.630000000000000000",
+      "simulated_fill_price": "0.630000000000000000",
+      "spread": "0.01",
+      "fee": "0.05243",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.00",
+      "position_before": "4.498828",
+      "position_after": "0.000000",
+      "cash_before": "45.920262125",
+      "cash_after": "48.702093765",
+      "realized_pnl": "-0.14924828",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.65",
+      "model_confidence": "0.8",
+      "source_quality": "0.85",
+      "edge": "0.02",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.63",
+      "exit_ask": "0.64",
+      "exit_spread": "0.01",
+      "requested_quantity": "4.498828",
+      "fill_status": "filled",
+      "fill_notional": "2.83426164",
+      "fill_legs": [
+        [
+          "0.63",
+          "4.498828"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T18:13:48.476096+00:00",
+      "book_timestamp": "1790964826137",
+      "gross_pnl": "-0.04498828",
+      "net_pnl": "-0.14924828",
+      "return_pct": "-5.09192120561489159258407392726432379230382773049736562625014"
     }
   ],
   "test_run": null,
@@ -1173,20 +1216,10 @@
       "ai_temperature": "0.10",
       "billing_disabled_confirmed": true
     },
-    "positions_meta": {
-      "678445:YES": {
-        "entry_time": "2026-10-02T17:52:18.850997+00:00",
-        "entry_price": "0.640000000000000000",
-        "entry_cost": "2.93107992",
-        "fair_probability": "0.99",
-        "model_confidence": "0.9",
-        "edge": "0.3384792216995181856252339498",
-        "ai_model": "gemini-3.5-flash-lite"
-      }
-    },
+    "positions_meta": {},
     "last_trade_by_market": {
       "665374": "2026-10-02T12:17:28.190260+00:00",
-      "678445": "2026-10-02T17:52:18.850997+00:00",
+      "678445": "2026-10-02T18:13:48.583633+00:00",
       "677026": "2026-10-02T02:21:13.783909+00:00",
       "616902": "2026-10-02T11:14:21.030116+00:00"
     },
@@ -1195,16 +1228,16 @@
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 183,
-      "markets_scanned": 188307,
-      "prefilter_selected": 7320,
-      "political_excluded": 109983,
-      "ai_evaluations": 6720,
-      "ai_skips": 4596,
+      "cycles": 184,
+      "markets_scanned": 189336,
+      "prefilter_selected": 7360,
+      "political_excluded": 110584,
+      "ai_evaluations": 6760,
+      "ai_skips": 4629,
       "edge_candidates": 11,
       "entries": 11,
-      "exits": 10,
-      "rejections": 46
+      "exits": 11,
+      "rejections": 47
     },
     "errors": [
       {
@@ -1216,5 +1249,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "24458d0a5a38588a3330e30991601eb1584d9a64ba91732820acb4d754e86f82"
+  "checksum": "5af2cd928ac58812b03597b84b3b69a5b93866b50b0cbe184970daaa50aa733d"
 }
