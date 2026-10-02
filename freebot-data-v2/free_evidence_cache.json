@@ -3,14 +3,14 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
+      "fetched_at": "2026-10-02T20:19:07.433721+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T07:00:00+00:00",
-          "source": "SmartAsset",
+          "source": "SmartAsset.com",
           "source_url": "https://smartasset.com",
-          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
+          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
         },
         {
@@ -24,9 +24,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-23T05:53:34+00:00",
-          "source": "oddsshopper.com",
+          "source": "OddsShopper",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - oddsshopper.com",
+          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - OddsShopper",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
+      "fetched_at": "2026-10-02T20:19:07.433721+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -137,19 +137,19 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-02T06:40:00+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Former Barcelona target names Cubarsi among world’s future greats and backs Yamal for Ballon d’Or - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEJxb2hiUVpWWlcwRzlxa0l0R2h3U3ZsZ0NaX1h1WVJsTFBHa05SYkllVko0eHVlU3Y0ZHV4MTM3cElCandoaGdVam5XS2Y5d0dMWVlPMERvN1BQMXd6RXkzdjRrZS1xREZTdDFmUFpYSUs1MHFlRWx1eDU2MXVJRVpmaXlEUnRTWms5N1RJSQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-10-02T15:07:46+00:00",
           "source": "Bookies.com",
           "source_url": "https://bookies.com",
           "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2d1YkhhdEwzdXJhRlI4U2lTYV8ybXNUTXVld1d0MkpBbUhoMFU4Vkw4U1VEQ09sLWl5b0JUd1FWSHlPT2NkOW00NFh5RFR0elF2cHM3b2VDN2ZCbml4UmNnRFNsR0dGV3dVRWJTTGZqeUtwSGtvdDdxV2xEaWNCSWYyWnNGVWRzdlBtZ2czVG11NVJ5aXlweXpYa1pEXy1R?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-28T14:15:00+00:00",
-          "source": "Yahoo Sports",
-          "source_url": "https://sports.yahoo.com",
-          "title": "Espanyol director backs Barcelona’s Lamine Yamal for Ballon d’Or: ‘Would deserve it’ - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWhUSlJIb2lYZGxKTVA3VEZicmdaeEJxOGhqLXVZSEg2R3k0V1BLMl9nYlp3TWdpMUZfOWt4Z0RxR2hveGNtd20weXhUZHlzazNnb19hU1ZuaWZadU12UGtBVllaX25WV3pRSGJMLS1fYVVqSzBnT01lU1pORUd6NklBMTBieGVXYVEwcVQ3UFR6MGc?oc=5"
         },
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
+      "fetched_at": "2026-10-02T20:19:07.433721+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -191,14 +191,6 @@
           "source_url": "https://www.forbes.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern",
-          "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -223,6 +215,14 @@
           "source_url": "https://www.cbssports.com",
           "title": "Ballon d'Or Power Rankings: Harry Kane does enough to make case but Vitinha and Michael Olise aren't far off - CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJaSVZvSFp0MDNNNDA4UWpNa0YyeE4yQWl2RlZCX1dYNHFjUWN6VE1UZEh1MFVkS1VLUmtUc1hkTEtFbXdPX0FfZ1A5ODhBcFV1S3RxRkEwVWpwVDBlbzBQV2xWVE1uOHZwVk9iVERhaFZGSDYxMUhYRmlsU3haOWtUckRpdEhIOHBxUlZSdWJOS3lNYm5QNW5YZHdhaVE2RnoxM2R3?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T14:36:58+00:00",
+          "source": "TribalFootball",
+          "source_url": "https://www.tribalfootball.com",
+          "title": "Jordan Pickford names who he'd 'love to see win the Ballon d'Or' - TribalFootball",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTlCOU1TMXQwbXByWjNGQ3pKbGo1NjZEX3pmT1BHdDdQZ3M5bHVGUElVb1pvY2hMYnd1TWRxOGxKSDlxNVhBOUdLSUtXSjY4VUs5N2tMeVZVOTd1bjRabWFHTTF0MVhBLWc0RGRiZzRUS0JaLXRUaG9WMDFMZjI1c3ljblVQT2FISVBVN1RkbDlUZHh1eU5DZDQzRW43amtNajl5NEdOcVBwVFZuV0ZqYmtFbDczR2dmWFNIWDBBalgxODVwMUpvQWpTWG1kZkhGclpTVw?oc=5"
         }
       ],
       "market_id": "608547",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
+      "fetched_at": "2026-10-02T20:19:07.433721+00:00",
       "items": [
         {
           "kind": "news_rss",
