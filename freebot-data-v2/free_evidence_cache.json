@@ -117,15 +117,15 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
+      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-10-02T18:21:02+00:00",
-          "source": "Yahoo",
-          "source_url": "https://ca.sports.yahoo.com",
-          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnFJeGdESzRHTjh3TEJQT3AzZFF4RHljVlQyc3FuY19zTXdnQlAxeU5HS3VyQXM4WnV0anNaam02dndJdlp3YUFHdkN3QW1vTGVCbmpuTlk3MkdzSkdBWjVRaG1FLWplS0kzb2pmZ0tDaTRRQWVMSlE5YkFnLUF5TnZUQ2U?oc=5"
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGMwbC1KYTlfanFTajc3WGhOMHhSb1g0SkM0VlZsa0F1YWkwUUhQak0zY0pCNWw5ZHpWX19rckxkZk5IenB1bmtiOFhYMkRHVnBPTWpHZHdIaFlPck9NTTFlM2g5TVkyMzBOREZQWXVoZUs3ZUdhNHdKWUEtWURUTUtReUVKdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
+      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -288,7 +288,7 @@
     "609655": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
+      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -301,17 +301,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-03T07:00:00+00:00",
-          "source": "news.harvard.edu",
+          "source": "Harvard Gazette",
           "source_url": "https://news.harvard.edu",
-          "title": "Are we headed toward recession? Unpredictable. - news.harvard.edu",
+          "title": "Are we headed toward recession? Unpredictable. - Harvard Gazette",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFRpUUdrSGhxWHNRLTZCOEZUdTNFbXdEdWlaMXQ0WTZra2JBN1AzYnplSzVQeHJna1FrVjNiMFZWWkh4MU5Gc1JaV1d1RVk4d3ZOZk1ScTFvTUd3SzZOeFJXWUJEdUNqUDRCZ05Id1pzdm1KYmZSMEJyM3lwNWFCcFVNbFlaYzZtUnBWWTExcTRNR0FobjhJ?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-08-05T07:00:00+00:00",
-          "source": "money.usnews.com",
+          "source": "U.S. News Money",
           "source_url": "https://money.usnews.com",
-          "title": "Recession 2026: What to Watch and How to Prepare | Investing - money.usnews.com",
+          "title": "Recession 2026: What to Watch and How to Prepare | Investing - U.S. News Money",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkxJM0ZibDFiWjFTa1F4Z0dlWG53OUdENDJBWmhCZjliTmJheExjeUpNT0VqQnMya1dpQU00TE5NRDE4NVRPT2Jicm82QjhBX09IcUlaaE5wd2oxaFpJczU3Vm1ZaEVfeFdvRDhsVVlYTkN4bmJ2NE02cXJEazVHNnl5eVdoOVl3b2lMa1NLaEs?oc=5"
         },
         {
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:22:04.116650+00:00",
+      "fetched_at": "2026-10-02T21:53:13.622626+00:00",
       "items": [
         {
           "kind": "news_rss",
