@@ -50,3 +50,11 @@ timestamp,error,paid_fallback
 ",False
 2026-10-02T00:45:41.695293+00:00,Gemini network/JSON failure model=gemini-3.5-flash-lite: The read operation timed out,False
 2026-10-02T01:07:16.362317+00:00,Gemini network/JSON failure model=gemini-3.5-flash-lite: The read operation timed out,False
+2026-10-02T05:18:41.515928+00:00,"Gemini HTTP 503 model=gemini-3.5-flash-lite: {
+  ""error"": {
+    ""code"": 503,
+    ""message"": ""This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."",
+    ""status"": ""UNAVAILABLE""
+  }
+}
+",False
