@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T03:33:54.446366+00:00",
+      "fetched_at": "2026-10-02T04:05:15.745667+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -32,9 +32,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-07T07:00:00+00:00",
-          "source": "24/7 Wall St.",
+          "source": "247wallst.com",
           "source_url": "https://247wallst.com",
-          "title": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs - 24/7 Wall St.",
+          "title": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs - 247wallst.com",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXU3OEVPNVFsTUVUdzZJSjVoNDFRVlpmVVV5aE0xcUZpVGlkUVR6Q05jSl94S05ObDZVOGdsVFV0VXZvVEZZWmxDelZZamkzOHVPeFhrbjlMNTBGS1NjcjQ2a181aVFOQ2NOYXVjNG83TVRhczBRaWpZVGxXSzdIYmtrMFZuWlpyMnlXR003cEh5LTBpXzV5bWR5d3Jna1FITUVwQm5seVAyV2IxX3AyM0NNYzJFdHFWQUg5TFJrWE55dw?oc=5"
         },
         {
@@ -48,9 +48,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-06-08T02:44:46+00:00",
-          "source": "klover.ai",
+          "source": "Klover.ai",
           "source_url": "https://www.klover.ai",
-          "title": "Complete 2026 AI IPO Landscape: Every Company, Every Bet, Every Risk [In-Depth Analysis] [2026] - klover.ai",
+          "title": "Complete 2026 AI IPO Landscape: Every Company, Every Bet, Every Risk [In-Depth Analysis] [2026] - Klover.ai",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2V4SjNoZTNnQ01WTXVHbExuaFJnNDFmcXZyTzN3X0VyVEQ5YXBjLVEyeVJaVjdxU2FVeUhHUkRXbGJUNDVYcE9aMFRUNXFNYUdSR3hkemR1ZGsyM090U1FuenItV0h5TFQwbDkzNENtTFJ2NFM0UUpKLUxXUjA3Z0xFb21odTZTWktHcnNmbzJBeXhKTFZPX0pxZHJXdVdlNGhUUXZ0OGE4WUNRaFVn?oc=5"
         }
       ],
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T03:33:54.446366+00:00",
+      "fetched_at": "2026-10-02T04:05:15.745667+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -129,19 +129,19 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-09-29T18:00:00+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Lamine Yamal explains what Barcelona will need to win the Champions League this season - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkNja3haTnBTN0VOanpjOTlZZGpfM3lfQkVOb2w3S05jd0pRVHRXVXVmNGZpN1hBVUd1OU56bEwycmNVQnJWTFA2QUZPMUVBS0RCUXhaa0JOMVVuRHl6SWFHdUkwNjdEcmRUX0tibXVZRnBqU2EybTdreVVxR2hpQmgtXzI1emNRNTByWQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-30T13:17:40+00:00",
           "source": "voz.us",
           "source_url": "https://voz.us",
           "title": "Ballon d'Or: The battle of Lamine Yamal, Mbappé, and Kane - voz.us",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTZLZWFidTZMOVd3Q252ZXBHYUM1U0QzdG5jS1Q5VFdydTBsVjZPY3JLMFFDTjhIWTVCUjlCa0dmTldQSkZQT2pyVGVySTIzalVKa0I4Q01QX1Juc0ZDS2lKUnp0cm5UamNtSnA4Sm5IM0RDZFVYN2hLYTYyR1pOM3hWQnBURl9DV3hENnpZcVl6VTVlU2dRdWpCZ0tvWWs?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T06:22:39+00:00",
-          "source": "Barca Universal",
-          "source_url": "https://barcauniversal.com",
-          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
         },
         {
           "kind": "news_rss",
@@ -153,19 +153,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-23T20:00:01+00:00",
-          "source": "Sports Illustrated",
-          "source_url": "https://www.si.com",
-          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
+          "published_at": "2026-10-01T06:22:39+00:00",
+          "source": "Barca Universal",
+          "source_url": "https://barcauniversal.com",
+          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-23T09:23:00+00:00",
-          "source": "ESPN",
-          "source_url": "https://www.espn.com",
-          "title": "Lamine Yamal rejects goal stats for Ballon d'Or for 'players that make you dream' - ESPN",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDMtcmVBcGZGYld6aWYzdkFlV2xwLVVGcnBablRHeHR3U2R0cHpCQWg4Rlhaa25DNklNelJYX2hrbGI0Mk94V1BjQmVXUlIzQ0I3aGhqLUhELU9oTVR3ZzRBSmRnM09mSUFMMlRLSl9wV3FBSXp5NUxYcFFpSTdUWlhIMlJCVWRCanVCMUxFUkQwbk1TTU44OFZVaDEwNEJiVlhqTV9sYWQzdjgwalE?oc=5"
+          "published_at": "2026-10-02T00:11:51+00:00",
+          "source": "Unisba Media",
+          "source_url": "https://media.unisba.ac.id",
+          "title": "Ballon D’Or 2026: Messi Vs Kane Vs Lamine Yamal — Who Will Win? Angel Reese (YuTmokerpm) - Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSW11UGgyT3MweFNhM0tPRDQ2emhhT0d6Q0JNb3QxV2VsVmpSb2RVRmJEZ1NMVUx0X1I0Y0tGdE15dWdOTHRYOWVNd190dlZYaG8wNGVjdzdWbUZEWWNMNVZXOWxqbVYzbkp5dGc5ckx0NGtDMEY5S2RRaEFmWVRCbUNB?oc=5"
         }
       ],
       "market_id": "608545",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T03:33:54.446366+00:00",
+      "fetched_at": "2026-10-02T04:05:15.745667+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -195,9 +195,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern Munich",
+          "source": "fcbayern.com",
           "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "title": "Harry Kane's October outlook: My month - fcbayern.com",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
@@ -288,7 +288,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T03:33:54.446366+00:00",
+      "fetched_at": "2026-10-02T04:05:15.745667+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T03:33:54.446366+00:00",
+      "fetched_at": "2026-10-02T04:05:15.745667+00:00",
       "items": [
         {
           "kind": "news_rss",
