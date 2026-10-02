@@ -695,14 +695,14 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T13:09:25.895242+00:00",
+      "fetched_at": "2026-10-02T13:40:41.164331+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "Deadline",
+          "source": "deadline.com",
           "source_url": "https://deadline.com",
-          "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - Deadline",
+          "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - deadline.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDZEdkZjZkpMdHFxN1p3MnhfajBKRklaTWprcG5XeTYyZkUzdGpLMnJKVjJuWWRDS3pmc3M0eFg2OGE3SnF3dmhuenVUTjBaVEp3OVI0bmhqbHpzNlZORVRUbjhkQUJ2c0tENE9Qcm5FNW9PUkU4Q0lMdkM4U0pSUTdNd0NpaFhUTkRlM1EwTWhHNzhnQjBV?oc=5"
         },
         {
@@ -732,17 +732,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T21:16:00+00:00",
-          "source": "Deadline",
+          "source": "deadline.com",
           "source_url": "https://deadline.com",
-          "title": "‘Spider-Man: Brand New Day’ Re-Release In Works With Extra Footage – The Dish - Deadline",
+          "title": "‘Spider-Man: Brand New Day’ Re-Release In Works With Extra Footage – The Dish - deadline.com",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOGtJeVk1bEtacnpweEJqTkdWUDRxSWFFNFNVRGRDWGJPc1FqMFJ6bElvQXN3QmdfUk9CYXAxbHltSm80S2hkOUoxaHM0eTNhajc2VExRZ1ZBdThTN1NSR3dCYWpGbENHczZKekNmTGJ2alFUMFVhcXh2Ylk5NDRsNFR3?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "forbes.com",
+          "source": "Forbes",
           "source_url": "https://www.forbes.com",
-          "title": "‘Spider-Man: Brand New Day’ Breaks Record For Highest Grossing Film At Domestic Box Office - forbes.com",
+          "title": "‘Spider-Man: Brand New Day’ Breaks Record For Highest Grossing Film At Domestic Box Office - Forbes",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDN6Y05ScHFUR0kwWWN0aWVIbDNodFV4aTdfa1l2TnJTV3FaRGtqb0xLX0RjVG92RGpFc3BGSWR3ME1qWGZUakpENk9xVVplTFBKajlMeXBHaGpzOFg3Z1JNSWs4T25pblNXQjFEUjFORmdPMEstMXc2RmI2UlkxNXNuT3VQRzIwZTQzaUR6Y1c0NC1GSmVmNm50V1pMZk9XdlM3cUhhYlo0MXNiVVNsVUdfd3BiZ09iaHhFYWRhQnNxSVRIeEpmZ3J3Sk5ma003?oc=5"
         }
       ],
