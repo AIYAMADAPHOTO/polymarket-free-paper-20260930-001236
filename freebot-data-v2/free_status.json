@@ -1,16 +1,16 @@
 {
   "cash": "46.492387032",
   "counters": {
-    "ai_evaluations": 3880,
-    "ai_skips": 2697,
-    "cycles": 107,
+    "ai_evaluations": 3920,
+    "ai_skips": 2730,
+    "cycles": 108,
     "edge_candidates": 7,
     "entries": 7,
     "exits": 6,
-    "markets_scanned": 110103,
-    "political_excluded": 64307,
-    "prefilter_selected": 4280,
-    "rejections": 28
+    "markets_scanned": 111132,
+    "political_excluded": 64908,
+    "prefilter_selected": 4320,
+    "rejections": 29
   },
   "equity_mark_to_bid_before_exit_fee": "49.425478632",
   "last_model": "gemini-3.5-flash-lite",
@@ -32,7 +32,7 @@
   "start_time": "2026-10-01T10:17:27.841065+00:00",
   "starting_equity": "50.00",
   "status": "RUNNING",
-  "timestamp": "2026-10-02T04:47:30.583205+00:00",
+  "timestamp": "2026-10-02T04:58:07.193024+00:00",
   "trade_count": 13,
   "unpriced_positions": [],
   "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.03450696",
