@@ -3,14 +3,14 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:16:11.811925+00:00",
+      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T07:00:00+00:00",
-          "source": "SmartAsset.com",
+          "source": "smartasset.com",
           "source_url": "https://smartasset.com",
-          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
+          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - smartasset.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:16:11.811925+00:00",
+      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -130,9 +130,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
@@ -174,14 +174,14 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:16:11.811925+00:00",
+      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
@@ -202,19 +202,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "FC Bayern Munich",
-          "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
+          "published_at": "2026-09-29T05:53:56+00:00",
+          "source": "Diario AS",
+          "source_url": "https://en.as.com",
+          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "en.as.com",
-          "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - en.as.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+          "published_at": "2026-10-01T06:01:00+00:00",
+          "source": "fcbayern.com",
+          "source_url": "https://fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - fcbayern.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -402,7 +402,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:16:11.811925+00:00",
+      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:16:11.811925+00:00",
+      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
       "items": [
         {
           "kind": "news_rss",
