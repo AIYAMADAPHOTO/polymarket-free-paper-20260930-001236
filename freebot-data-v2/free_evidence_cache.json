@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:04:26.523641+00:00",
+      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:04:26.523641+00:00",
+      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -137,10 +137,18 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-02T15:07:46+00:00",
+          "source": "Bookies.com",
+          "source_url": "https://bookies.com",
+          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2d1YkhhdEwzdXJhRlI4U2lTYV8ybXNUTXVld1d0MkpBbUhoMFU4Vkw4U1VEQ09sLWl5b0JUd1FWSHlPT2NkOW00NFh5RFR0elF2cHM3b2VDN2ZCbml4UmNnRFNsR0dGV3dVRWJTTGZqeUtwSGtvdDdxV2xEaWNCSWYyWnNGVWRzdlBtZ2czVG11NVJ5aXlweXpYa1pEXy1R?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-28T14:15:00+00:00",
-          "source": "Yahoo Sports",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Espanyol director backs Barcelona’s Lamine Yamal for Ballon d’Or: ‘Would deserve it’ - Yahoo Sports",
+          "title": "Espanyol director backs Barcelona’s Lamine Yamal for Ballon d’Or: ‘Would deserve it’ - sports.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWhUSlJIb2lYZGxKTVA3VEZicmdaeEJxOGhqLXVZSEg2R3k0V1BLMl9nYlp3TWdpMUZfOWt4Z0RxR2hveGNtd20weXhUZHlzazNnb19hU1ZuaWZadU12UGtBVllaX25WV3pRSGJMLS1fYVVqSzBnT01lU1pORUd6NklBMTBieGVXYVEwcVQ3UFR6MGc?oc=5"
         },
         {
@@ -158,14 +166,6 @@
           "source_url": "https://en.as.com",
           "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T06:22:39+00:00",
-          "source": "Barca Universal",
-          "source_url": "https://barcauniversal.com",
-          "title": "Former Real Madrid defender names surprise Spanish pick over Lamine Yamal for Ballon d’Or: 'All got their merits' - Barca Universal",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlBnY3B0VERWaGJOQk5RX0dkZmFaMVUtQXBmeWVxY0RHU3lzRVMtU3RtMTBEd3pkejllM3I5SkpOVTFRdm1zMlMyZ3NLVEdIcFNsb1B0VTRvT1Q2cmtTdUpzbk5NS1F5TjhlaHp4b29lVGZpT1lRYm1ETVFHR2syX1BVajZEOFVVZTJobWlpalR3SUJCVHdFWGxsSVNzVG95a05fc1I5QmtBNEFVZlZyMFdLTncxMmRUNEY5Z1I0akhRMS1BRGkwTUNucHdoRzdpdjNj?oc=5"
         }
       ],
       "market_id": "608545",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:04:26.523641+00:00",
+      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -187,9 +187,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T05:30:00+00:00",
-          "source": "Yahoo Sports",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - Yahoo Sports",
+          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - sports.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklmaE1PRHBJZWJQRjJOSjJTRmZWUWVmS1VYSkJEUzI5XzBKWnF6cXNVS3JCMUhLejVIN280SWg4a3V3SXFwSUxhcmF2Y28tT0xZb1dOUlZLR2YzckdLcm1wekZaemR3dlZTMjJTQTVZOWJOcjJoQzZkb1hHbXNaaw?oc=5"
         },
         {
@@ -459,7 +459,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:04:26.523641+00:00",
+      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -524,7 +524,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T15:04:26.523641+00:00",
+      "fetched_at": "2026-10-02T15:35:42.016652+00:00",
       "items": [
         {
           "kind": "news_rss",
