@@ -402,7 +402,7 @@
     "622738": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:27:02.955273+00:00",
+      "fetched_at": "2026-10-02T19:58:25.335611+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -695,14 +695,14 @@
     "676739": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:27:02.955273+00:00",
+      "fetched_at": "2026-10-02T19:58:25.335611+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-07T07:00:00+00:00",
-          "source": "fool.com",
+          "source": "The Motley Fool",
           "source_url": "https://www.fool.com",
-          "title": "The Largest Companies by Market Cap in October 2026 - fool.com",
+          "title": "The Largest Companies by Market Cap in October 2026 - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NUo0RjhSeGFhdTZUbG5xWmgybGJNam9uM3Zkb2I3QzRkdmJnbG1XMkVleEZEeTE2SnRreWptSDVTT0FiMmkwZnl4VUZGQkJleXVPLTdvQjZjOE1qN0FQSWxuaDgyOU1tdDNpb0VPMA?oc=5"
         },
         {
@@ -732,9 +732,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-31T07:00:00+00:00",
-          "source": "fool.com",
+          "source": "The Motley Fool",
           "source_url": "https://www.fool.com",
-          "title": "Will Nvidia Shock the World and Be the First Company to Reach $1 Trillion in Revenue? Here's What the Math Says. - fool.com",
+          "title": "Will Nvidia Shock the World and Be the First Company to Reach $1 Trillion in Revenue? Here's What the Math Says. - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEZSZ2NuZDU4dWxsSjBnUkV4aHRkbDFfdC1TVmlvT3UxbXVyT1VLcTlTSTNPRGlNVFpBbTMzd2NvRDlNQUIzcENfOTVDbnhneDQweHVnM0RKWEUtU0NBNk41NERkRXBVQmRKdTIxUFZ5elo0dkVSNmhhaUYydmtHRVFyeW4xWkptQVFXZnlVa3NvUTFZZEdScg?oc=5"
         },
         {
