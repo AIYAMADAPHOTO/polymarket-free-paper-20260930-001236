@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:58:59.446324+00:00",
+      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:58:59.446324+00:00",
+      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:58:59.446324+00:00",
+      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -459,7 +459,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:58:59.446324+00:00",
+      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -479,19 +479,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-08-26T07:00:00+00:00",
-          "source": "OddsShopper",
-          "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - OddsShopper",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rNmYxU1lIVkJ1X2k5TFlRdnY5RG9sZEd6R2FsYkRTYVVIRk1udnEyRUhfOUFScXRySzZiYmkxTHBjNU1EN1hicHE4cGxuMTVmQ1BQQTI3aWJ2SW5sV215OHo4TGhhOHd4VE1ST3A2b2p5Uy1mZEowaGhmMA?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-19T07:00:00+00:00",
           "source": "tech-insider.org",
           "source_url": "https://tech-insider.org",
           "title": "AGI in 5 Years? Manifold Bettors Put It at 62% After GPT-6 Astra - tech-insider.org",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Va0ExVFpWSjBueFFRcXN0VDBIM2dYclVuaUJEOHdGMWtrRnAycU5QNVJUanJxelQ3VzVKdks5NXlYVmxmQzF1UlFuVmFkb0xmWFROV0FudllCSkxBcWtOWWxUdURRTkxpQy0yUkprZV9YOG5QcUs4a1pCM0I?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "source": "OddsShopper",
+          "source_url": "https://www.oddsshopper.com",
+          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - OddsShopper",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rNmYxU1lIVkJ1X2k5TFlRdnY5RG9sZEd6R2FsYkRTYVVIRk1udnEyRUhfOUFScXRySzZiYmkxTHBjNU1EN1hicHE4cGxuMTVmQ1BQQTI3aWJ2SW5sV215OHo4TGhhOHd4VE1ST3A2b2p5Uy1mZEowaGhmMA?oc=5"
         },
         {
           "kind": "news_rss",
@@ -503,11 +503,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-07T07:00:00+00:00",
-          "source": "Benzinga",
-          "source_url": "https://www.benzinga.com",
-          "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3N4aDVfM2hOMHppbzU5dGt3b2owQVI1WjJIVnkzWEpHdm1LNllIRVJYeVE5bGM2QXBBYXlsZHBjR1AtczcxS3g3OFU1Y1JSc0JfdlJCa0ZydjRrN01QT1ZxYTVScU5EX1FreERKd3ZVUldxNlFaTkNxbHhyWDZWSmNzTWRDV2JRcWVkUE9vOW5oeWRZcERRMTVZRDJRdDdkMV8wZVJWSkRzRl9TX09nU1dJb3FCS01aOHc?oc=5"
+          "published_at": "2026-08-28T07:00:00+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "OpenAI Says AGI Is Coming By Year-End. It Also Just Had The Worst Safety Crisis In Its History. - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2loTDRiU0lmWmF0cXhPeTN0bXU3ajF1QUZyS3QwZmp6NmFES0wtNWYzRHV0ZmM5Z2E1UVdQbG05Nm5rcHJ4S2xCNHpIRmVDWW5qTWpFXzF2V2ljVkhWSi0xQnFONERZWV9wVFk2UkhmWklhNUNqWjFSdGh3MG1mMzJndlNlTnBpb3JuZHN4RWlrVUJfOWtKLVprZURPbF92ZWJKTVlwdXdDLVlKbUJTMk5rOE5nRi1yelBsU3N1T3h4bGU4VFdDOFBKeG1JVjJmUkFvV1AzRDdxYmhraGtyVg?oc=5"
         }
       ],
       "market_id": "653788",
@@ -524,7 +524,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:58:59.446324+00:00",
+      "fetched_at": "2026-10-02T13:30:16.527036+00:00",
       "items": [
         {
           "kind": "news_rss",
