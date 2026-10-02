@@ -3,8 +3,16 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "49.425478632",
-  "positions": {},
+  "cash_balance": "46.459949992",
+  "positions": {
+    "678445:YES": {
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "quantity": "4.551701",
+      "cost_basis": "2.96552864"
+    }
+  },
   "realized_pnl": "-0.574521368",
   "trades": [
     {
@@ -748,6 +756,61 @@
       "gross_pnl": "-0.03450696",
       "net_pnl": "-0.03450696",
       "return_pct": "-1.16279069767441860465116279069767441860465116279069767441860"
+    },
+    {
+      "trade_id": 15,
+      "timestamp": "2026-10-02T10:32:30.669469+00:00",
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "side": "BUY",
+      "quantity": "4.551701",
+      "requested_price": "0.66",
+      "simulated_fill_price": "0.640000000000000000",
+      "spread": "0.01",
+      "fee": "0.05244",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.00",
+      "position_before": "0",
+      "position_after": "4.551701",
+      "cash_before": "49.425478632",
+      "cash_after": "46.459949992",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "2.96552871792",
+      "fair_probability": "0.95",
+      "model_confidence": "0.9",
+      "source_quality": "0.9",
+      "edge": "0.2984790323441719919652015807",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.63",
+      "entry_ask": "0.64",
+      "entry_spread": "0.01",
+      "liquidity": "27966.2895",
+      "volume": "243638.054747",
+      "requested_quantity": "4.551701",
+      "fill_status": "filled",
+      "fill_notional": "2.91308864",
+      "fill_legs": [
+        [
+          "0.64",
+          "4.551701"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T10:32:30.485838+00:00",
+      "book_timestamp": "1790937150168",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
     }
   ],
   "test_run": null,
@@ -792,10 +855,20 @@
       "ai_temperature": "0.10",
       "billing_disabled_confirmed": true
     },
-    "positions_meta": {},
+    "positions_meta": {
+      "678445:YES": {
+        "entry_time": "2026-10-02T10:32:30.669469+00:00",
+        "entry_price": "0.640000000000000000",
+        "entry_cost": "2.96552864",
+        "fair_probability": "0.95",
+        "model_confidence": "0.9",
+        "edge": "0.2984790323441719919652015807",
+        "ai_model": "gemini-3.5-flash-lite"
+      }
+    },
     "last_trade_by_market": {
       "665374": "2026-10-02T06:52:53.068705+00:00",
-      "678445": "2026-10-02T02:10:48.060646+00:00",
+      "678445": "2026-10-02T10:32:30.669469+00:00",
       "677026": "2026-10-02T02:21:13.783909+00:00"
     },
     "day": {
@@ -803,14 +876,14 @@
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 139,
-      "markets_scanned": 143031,
-      "prefilter_selected": 5560,
-      "political_excluded": 83539,
-      "ai_evaluations": 5080,
-      "ai_skips": 3395,
-      "edge_candidates": 7,
-      "entries": 7,
+      "cycles": 140,
+      "markets_scanned": 144060,
+      "prefilter_selected": 5600,
+      "political_excluded": 84140,
+      "ai_evaluations": 5120,
+      "ai_skips": 3430,
+      "edge_candidates": 8,
+      "entries": 8,
       "exits": 7,
       "rejections": 34
     },
@@ -824,5 +897,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "7e61409c93be570a5279f45f0fb49dedc4bb8c9f28c5e04df28adf2ffea73bc3"
+  "checksum": "5d3d0e29e06201cbce1ab9d8efe8f1b3fa1e8ead7519588920ec5b013ea49bde"
 }

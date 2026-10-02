@@ -459,7 +459,7 @@
     "665224": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T10:01:02.711489+00:00",
+      "fetched_at": "2026-10-02T10:32:21.805096+00:00",
       "items": [],
       "market_id": "665224",
       "query": "Ukraine signs peace deal with Russia before 2027? NOAA NWS forecast weather"
@@ -638,7 +638,7 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T10:01:02.711489+00:00",
+      "fetched_at": "2026-10-02T10:32:21.805096+00:00",
       "items": [
         {
           "kind": "news_rss",
