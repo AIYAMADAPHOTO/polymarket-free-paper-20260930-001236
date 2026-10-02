@@ -459,7 +459,7 @@
     "665224": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T07:55:23.042996+00:00",
+      "fetched_at": "2026-10-02T08:26:37.809163+00:00",
       "items": [],
       "market_id": "665224",
       "query": "Ukraine signs peace deal with Russia before 2027? NOAA NWS forecast weather"
@@ -638,14 +638,14 @@
     "678445": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:21:01.549641+00:00",
+      "fetched_at": "2026-10-02T08:26:37.809163+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "Deadline",
+          "source": "deadline.com",
           "source_url": "https://deadline.com",
-          "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - Deadline",
+          "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - deadline.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDZEdkZjZkpMdHFxN1p3MnhfajBKRklaTWprcG5XeTYyZkUzdGpLMnJKVjJuWWRDS3pmc3M0eFg2OGE3SnF3dmhuenVUTjBaVEp3OVI0bmhqbHpzNlZORVRUbjhkQUJ2c0tENE9Qcm5FNW9PUkU4Q0lMdkM4U0pSUTdNd0NpaFhUTkRlM1EwTWhHNzhnQjBV?oc=5"
         },
         {
@@ -659,25 +659,25 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-09T07:00:00+00:00",
-          "source": "usatoday.com",
+          "source": "USA Today",
           "source_url": "https://www.usatoday.com",
-          "title": "'Spider-Man' nabs one of the best second weekends at box office ever - usatoday.com",
+          "title": "'Spider-Man' nabs one of the best second weekends at box office ever - USA Today",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBSOTFrTk1YcXdpdkE1THp4MDBWZHg2ZGsxVkVqY2NxZXVHOS1rTFpfUm9RMmc5TnZWMHh1SmVHLVhiU3ZhdXZsNnVDWU11bENjQVVVck5Yc0V6ODh4TGtRSnZyNjJXN09Yak42ZEpsYUY3cDhoVjE0YjlLcXpPN2wySlU2aTVVXzhCd2QyREZNeldxOWdzT2RzbXlqSm8wbXR3b1ZGRVlXVUx5a0Nia2ExUzZFWFlCRy13aV95V0tLSnFn?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-08-10T07:00:00+00:00",
-          "source": "IndieWire",
+          "source": "indiewire.com",
           "source_url": "https://www.indiewire.com",
-          "title": "Could ‘Spider-Man: Brand New Day’ Be the First Film to Surpass $1 Billion Domestic? - IndieWire",
+          "title": "Could ‘Spider-Man: Brand New Day’ Be the First Film to Surpass $1 Billion Domestic? - indiewire.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2RPdEVna2xrenJxaXFOd05iOVlfVVdTU2RGQ2VLNk9SU0MtWDhnOEZKbDF4eG9PR0FEWk5GblJxYlVUcXZyd3liVGVQcS0zeGU2N0I4eDlBSzdoSDFCdGJBd3ZjNEZWVzQ0OFM4TlBtaHhxcTZlSHlWRnZmdElteld5X2M0UnRvZXF1WUNYUEdlX1otU2RrN0ZULTI2ZGt5SDNLeE5KcC1zQ0NDMXhKTg?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T21:16:00+00:00",
-          "source": "Deadline",
+          "source": "deadline.com",
           "source_url": "https://deadline.com",
-          "title": "‘Spider-Man: Brand New Day’ Re-Release In Works With Extra Footage – The Dish - Deadline",
+          "title": "‘Spider-Man: Brand New Day’ Re-Release In Works With Extra Footage – The Dish - deadline.com",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOGtJeVk1bEtacnpweEJqTkdWUDRxSWFFNFNVRGRDWGJPc1FqMFJ6bElvQXN3QmdfUk9CYXAxbHltSm80S2hkOUoxaHM0eTNhajc2VExRZ1ZBdThTN1NSR3dCYWpGbENHczZKekNmTGJ2alFUMFVhcXh2Ylk5NDRsNFR3?oc=5"
         },
         {
