@@ -1098,7 +1098,7 @@
       "edge_candidates": 10,
       "entries": 10,
       "exits": 9,
-      "rejections": 40
+      "rejections": 41
     },
     "errors": [
       {
@@ -1110,5 +1110,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "77735eefb440b96d5013bb6b587cb5da6c96ea97e2eab72a1b1d55c861b2b564"
+  "checksum": "2ae02f2b4a3777675cc1cd47af8ea1e2beda05debbef0cbeca164545c7dd68c2"
 }
