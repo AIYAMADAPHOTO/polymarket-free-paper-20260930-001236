@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T21:42:51.040393+00:00",
+      "fetched_at": "2026-10-02T22:14:01.359230+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -366,9 +366,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
-          "source": "federalnewsnetwork.com",
+          "source": "Federal News Network",
           "source_url": "https://federalnewsnetwork.com",
-          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - federalnewsnetwork.com",
+          "title": "Rate Hike Coming in September? Prediction Markets for Next Fed Decision - Federal News Network",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWVHbjVZU2NrN25rNlBzRVBIR1BiQmpUMnMxYXJPdU10X2JTSEFKa2Y5LTJtb2FhMlJpakdwNlRRZ2JXUDFvRjVZaGY0d3Z5VHQ1Tkh1QUJKbl84WFFjZEt6cldiZFdDeUh3Nkg4VktQZmFULVZuaGFYUHJoeXdVYnpPM3k2RGJtVFhMdWNkN0FLdlh6T0JDQlJ6YjAwaHNuVm8wQWtQY3A1YTRWcWdZdm9LaHozT3lEOFZ3WkZDZw?oc=5"
         },
         {
@@ -382,9 +382,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-11T07:00:00+00:00",
-          "source": "newsweek.com",
+          "source": "Newsweek",
           "source_url": "https://www.newsweek.com",
-          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - newsweek.com",
+          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - Newsweek",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2gxejhKMWQ2Z0xyRmJyNUxieFRZUmtQZXcyazh5REJjRExVN1VINFZmZVhiZkxXRVp4TmoxWWlWQWRrVktrcDM1TmtRRkltcDZPM1pNOXFFcGlnaEpKenpyM0IyNXVMT3dVMU90ZnU3bnZ1WTduMDJxcy11OExIZWNiVGh0aU0?oc=5"
         },
         {
@@ -866,7 +866,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T21:42:51.040393+00:00",
+      "fetched_at": "2026-10-02T22:14:01.359230+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
