@@ -402,7 +402,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T00:04:07.170194+00:00",
+      "fetched_at": "2026-10-02T00:35:21.174399+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -423,9 +423,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-26T07:00:00+00:00",
-          "source": "OddsShopper",
+          "source": "oddsshopper.com",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - OddsShopper",
+          "title": "OpenAI AGI Odds: Altman Moved His Date. The Market Didn't. - oddsshopper.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rNmYxU1lIVkJ1X2k5TFlRdnY5RG9sZEd6R2FsYkRTYVVIRk1udnEyRUhfOUFScXRySzZiYmkxTHBjNU1EN1hicHE4cGxuMTVmQ1BQQTI3aWJ2SW5sV215OHo4TGhhOHd4VE1ST3A2b2p5Uy1mZEowaGhmMA?oc=5"
         },
         {
