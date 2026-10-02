@@ -3,14 +3,14 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:16:36.076891+00:00",
+      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T07:00:00+00:00",
-          "source": "SmartAsset.com",
+          "source": "SmartAsset",
           "source_url": "https://smartasset.com",
-          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
+          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
         },
         {
@@ -24,9 +24,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-23T05:53:34+00:00",
-          "source": "OddsShopper",
+          "source": "oddsshopper.com",
           "source_url": "https://www.oddsshopper.com",
-          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - OddsShopper",
+          "title": "OpenAI IPO: The CFO Named The Year. The Market Named Spring - oddsshopper.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5"
         },
         {
@@ -47,11 +47,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-06-11T07:00:00+00:00",
-          "source": "The Cryptonomist",
-          "source_url": "https://en.cryptonomist.ch",
-          "title": "OpenAI’s Confidential IPO Filing Targets a December 2026 Debut - The Cryptonomist",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82QTdYVGZZZ0VJMzlyVVUySl9SNkpTUVAwMXB0dnlIeUNjUmM5Vm9DSFpRSURmN3lFNWt0aVBoOVJQTGgtQWxNc3YxVGxsVEFFMGxmRVpwUDhCVGNDUTYwMXVnX3VRWXRUVFg2T0J0dFl0LThiYkcyY2dRMA?oc=5"
+          "published_at": "2026-06-08T02:44:46+00:00",
+          "source": "Klover.ai",
+          "source_url": "https://www.klover.ai",
+          "title": "Complete 2026 AI IPO Landscape: Every Company, Every Bet, Every Risk [In-Depth Analysis] [2026] - Klover.ai",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2V4SjNoZTNnQ01WTXVHbExuaFJnNDFmcXZyTzN3X0VyVEQ5YXBjLVEyeVJaVjdxU2FVeUhHUkRXbGJUNDVYcE9aMFRUNXFNYUdSR3hkemR1ZGsyM090U1FuenItV0h5TFQwbDkzNENtTFJ2NFM0UUpKLUxXUjA3Z0xFb21odTZTWktHcnNmbzJBeXhKTFZPX0pxZHJXdVdlNGhUUXZ0OGE4WUNRaFVn?oc=5"
         }
       ],
       "market_id": "608368",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:16:36.076891+00:00",
+      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,8 +174,16 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:16:36.076891+00:00",
+      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
       "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T17:30:00+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Thomas Tuchel heaps praise onto ‘complete package’ Harry Kane - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0Z2Wlh3R0dxT2FnRC1XazFoOTBpTk1heUV6V3d5OVhoV3FEZ3g4aHlZem1kYWlfZTFabGllbzExNFpZLWxSU3o5SGRwYjFjLV9fMkk4eFVBb2xVeTBiQ3BwWUhhSmdPeFJmZmNFX1VhMTdzRHVTVWZEWnkzVDZ0dlZoeXY3c2s?oc=5"
+        },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
@@ -183,14 +191,6 @@
           "source_url": "https://www.forbes.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-28T05:30:00+00:00",
-          "source": "Yahoo Sports",
-          "source_url": "https://sports.yahoo.com",
-          "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklmaE1PRHBJZWJQRjJOSjJTRmZWUWVmS1VYSkJEUzI5XzBKWnF6cXNVS3JCMUhLejVIN280SWg4a3V3SXFwSUxhcmF2Y28tT0xZb1dOUlZLR2YzckdLcm1wekZaemR3dlZTMjJTQTVZOWJOcjJoQzZkb1hHbXNaaw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T19:16:36.076891+00:00",
+      "fetched_at": "2026-10-02T19:48:00.847865+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -625,11 +625,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-05T07:00:00+00:00",
-          "source": "TradingView",
-          "source_url": "https://www.tradingview.com",
-          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
+          "published_at": "2026-06-12T07:00:00+00:00",
+          "source": "StartupHub.ai",
+          "source_url": "https://www.startuphub.ai",
+          "title": "Musk Tweet Bets Top Polymarket - StartupHub.ai",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnBxUUtUMTN4OFVNQ1dhdzRVRTA5ZUZUQWpTUnhOa1JuUDVtMnAyVXJlejByVE5Vd3plVDkwQ0FMWG5vdDYzWGQ2S0FWYmtqNnFlaWJ3NVlMUVlpQV9sckswNTNBczB5OTNuaVplOFZmRGg1UGdGVXBPejRYelI1dnprTHBLQlMyZ1ZYM2RGSXY0Zw?oc=5"
         }
       ],
       "market_id": "665374",
