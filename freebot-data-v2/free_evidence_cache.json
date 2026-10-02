@@ -3,14 +3,14 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
+      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-29T07:00:00+00:00",
-          "source": "smartasset.com",
+          "source": "SmartAsset.com",
           "source_url": "https://smartasset.com",
-          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - smartasset.com",
+          "title": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
         },
         {
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
+      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -130,9 +130,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "forbes.com",
+          "source": "Forbes",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
@@ -145,14 +145,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T14:51:00+00:00",
-          "source": "Planet Football",
-          "source_url": "https://www.planetfootball.com",
-          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-10-01T06:22:39+00:00",
           "source": "Barca Universal",
           "source_url": "https://barcauniversal.com",
@@ -161,10 +153,18 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-01T14:51:00+00:00",
+          "source": "Planet Football",
+          "source_url": "https://www.planetfootball.com",
+          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-23T20:00:01+00:00",
-          "source": "Sports Illustrated",
+          "source": "si.com",
           "source_url": "https://www.si.com",
-          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - si.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
         }
       ],
@@ -174,23 +174,15 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
+      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "forbes.com",
+          "source": "Forbes",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T12:33:15+00:00",
-          "source": "bundesliga.com",
-          "source_url": "https://www.bundesliga.com",
-          "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
         },
         {
           "kind": "news_rss",
@@ -199,6 +191,14 @@
           "source_url": "https://sports.yahoo.com",
           "title": "Does failing to win the World Cup or Champions League hurt Harry Kane’s Ballon d’Or chances? - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklmaE1PRHBJZWJQRjJOSjJTRmZWUWVmS1VYSkJEUzI5XzBKWnF6cXNVS3JCMUhLejVIN280SWg4a3V3SXFwSUxhcmF2Y28tT0xZb1dOUlZLR2YzckdLcm1wekZaemR3dlZTMjJTQTVZOWJOcjJoQzZkb1hHbXNaaw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T12:33:15+00:00",
+          "source": "bundesliga.com",
+          "source_url": "https://www.bundesliga.com",
+          "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
         },
         {
           "kind": "news_rss",
@@ -211,9 +211,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T06:01:00+00:00",
-          "source": "fcbayern.com",
+          "source": "FC Bayern",
           "source_url": "https://fcbayern.com",
-          "title": "Harry Kane's October outlook: My month - fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         },
         {
@@ -402,14 +402,14 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
+      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
       "items": [
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T06:55:34+00:00",
-          "source": "Yahoo Tech",
+          "source": "tech.yahoo.com",
           "source_url": "https://tech.yahoo.com",
-          "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not - Yahoo Tech",
+          "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not - tech.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHc4WDkyaGNOMmNzdnh3Z01KNDhubUIxNF91MjlTcjNqaVl3bGYwYVJLR1NVOG1sLXdocXpqUWdnc05RWFl5RjJzVW5lSkQzMC01U005LUZMajFOdG0yekZ3Tm8zeVlEN1dqemNmX2t0cDYzdmlNRm1Jd0N2WG1CbGRn?oc=5"
         },
         {
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T08:47:25.213945+00:00",
+      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
       "items": [
         {
           "kind": "news_rss",
