@@ -288,7 +288,7 @@
     "609655": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T12:17:19.310450+00:00",
+      "fetched_at": "2026-10-02T12:48:36.588446+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -301,26 +301,10 @@
         {
           "kind": "news_rss",
           "published_at": "2026-08-03T07:00:00+00:00",
-          "source": "Harvard Gazette",
+          "source": "news.harvard.edu",
           "source_url": "https://news.harvard.edu",
-          "title": "Are we headed toward recession? Unpredictable. - Harvard Gazette",
+          "title": "Are we headed toward recession? Unpredictable. - news.harvard.edu",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFRpUUdrSGhxWHNRLTZCOEZUdTNFbXdEdWlaMXQ0WTZra2JBN1AzYnplSzVQeHJna1FrVjNiMFZWWkh4MU5Gc1JaV1d1RVk4d3ZOZk1ScTFvTUd3SzZOeFJXWUJEdUNqUDRCZ05Id1pzdm1KYmZSMEJyM3lwNWFCcFVNbFlaYzZtUnBWWTExcTRNR0FobjhJ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-05-01T07:00:00+00:00",
-          "source": "forbes.com",
-          "source_url": "https://www.forbes.com",
-          "title": "Here’s Why The Economic Outlook Is Suddenly Rosier - forbes.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjFiUGEtVkhuOUxkR3ZsSzFOMllleGIzdVJOUXJTSUh2cWg0TE1iNC1ULVZvRDRqNGdCU2pMbnhrVXdwV0hSZ2RUN0VjOUd4cGNBTG45WVVnT2RqTDNzVW9RcHFGemUzeFFwbmpROGo0anJHZDR2aExTZ2xmRWVDTjZTVFRsdXVNVVJienk3QWZwVzltUzN3OUlxNWR2YVYxUFBGN3hPSmUwd2lvd0JtamxpOTgtXzJpcjJncl80aWlzWEZVaElZeDR2NU81UQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2025-12-09T14:30:34+00:00",
-          "source": "MacroMicro",
-          "source_url": "https://en.macromicro.me",
-          "title": "US - 2026 US Recession Odds - MacroMicro",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kRnVtTFQ0UVdRd01qcGk4dHpobEV6TG5qZzZ3MFNDRnllZUpVdmJtdENBZ2cxOFlaZVVwbG10MldlbG5kdFpXM09iWmNNT1g5SXVKRnl4dlNHTU9UVXp3bjdqX2l1blF4azdhLUxONHFyNmJp?oc=5"
         },
         {
           "kind": "news_rss",
@@ -332,11 +316,27 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-03-29T07:00:00+00:00",
+          "published_at": "2026-05-01T07:00:00+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Here’s Why The Economic Outlook Is Suddenly Rosier - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjFiUGEtVkhuOUxkR3ZsSzFOMllleGIzdVJOUXJTSUh2cWg0TE1iNC1ULVZvRDRqNGdCU2pMbnhrVXdwV0hSZ2RUN0VjOUd4cGNBTG45WVVnT2RqTDNzVW9RcHFGemUzeFFwbmpROGo0anJHZDR2aExTZ2xmRWVDTjZTVFRsdXVNVVJienk3QWZwVzltUzN3OUlxNWR2YVYxUFBGN3hPSmUwd2lvd0JtamxpOTgtXzJpcjJncl80aWlzWEZVaElZeDR2NU81UQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-01T07:00:00+00:00",
           "source": "Yahoo Finance",
           "source_url": "https://finance.yahoo.com",
-          "title": "Will the U.S. Enter a Recession in 2026? Here's What the Data Suggests. - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdENlVEJrT0N1Tml6aHZ2YWdQSVFUUjZVRll6dkI1ZldrSTJsTTYwb09SRjl2VEdjOWdPZ2R2djhXQzJ2ZzdBamdwa2VsZ0JDMXdKWDZMVEZNbDJ1S3ZMVTVKam1LSGRWdF9uTUEtNDVnYUxrQzl1REFMbnBrSW5jVUd0RC1lT18ybzNkeUJraw?oc=5"
+          "title": "Goldman Sachs makes big change to its recession call - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkc3X214QmdycUloVnQ4WlFOMWtuUzZjX09VTWFqU3RHT1BGRUdGcFRUSmJMLUo5RVQ5djltQW55aTJiektrdnd1STE1SXl4dkJXVVVyTzFhRzYxQnRHaUNLaGlEbFdURTRrSkVwemNjSjdXRnd0RFhuWkRpejh6VU5ocWw1OEVqWW1BbTBiUml5Zw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-05-14T07:00:00+00:00",
+          "source": "CNBC",
+          "source_url": "https://www.cnbc.com",
+          "title": "Nearly 40% chances of stagflation by end of 2026, traders say - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaE1hRERhSWpDRmI2ajFqSWt4U0VhYm5jNEc1UGstUDFEVGwwenFnOERQcVdhaERRMnhWODRwWS1BOFV3WDQ1RE9EdmZtZ3B5RDZOR1lKa2d0amdpeTlud2tKNHlyUVVSZVQ1MU9VS0Y0ay1rbkVsZWktNEZia0VxbzVFYXRSck56dFR2X2oyZEpMLWh3UW5PWlFuRTY2NjJXdkhXR3hka9IBrAFBVV95cUxNb09PeVB4Y0hoUFpfenVtNDE3VmtPYWpscWk0UGRiNTAwdGpUYm11bzYxX05ZOFlhbHBLV2ZLMlA5RjNJZ1RmUVJSdHF5NWRwVnVFUVBSV0NRdjF4R3BkYm0xR1FOOUl1djRLbmFWQkJfa0s3ZjVjTERjM3BZeHIzRGRpeWozV3hvZHJna0x1bjRPVUk5SzR2NGlEVU5oTXdiSEFkenYwUGdPRGJJ?oc=5"
         }
       ],
       "market_id": "609655",
@@ -752,7 +752,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T12:17:19.310450+00:00",
+      "fetched_at": "2026-10-02T12:48:36.588446+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
