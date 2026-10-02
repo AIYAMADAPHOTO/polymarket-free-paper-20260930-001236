@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
+      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,16 +117,8 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
+      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
       "items": [
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-02T06:40:00+00:00",
-          "source": "Yahoo Sports",
-          "source_url": "https://sports.yahoo.com",
-          "title": "Former Barcelona target names Cubarsi among world’s future greats and backs Yamal for Ballon d’Or - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEJxb2hiUVpWWlcwRzlxa0l0R2h3U3ZsZ0NaX1h1WVJsTFBHa05SYkllVko0eHVlU3Y0ZHV4MTM3cElCandoaGdVam5XS2Y5d0dMWVlPMERvN1BQMXd6RXkzdjRrZS1xREZTdDFmUFpYSUs1MHFlRWx1eDU2MXVJRVpmaXlEUnRTWms5N1RJSQ?oc=5"
-        },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
@@ -134,6 +126,14 @@
           "source_url": "https://www.forbes.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T18:00:00+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Lamine Yamal explains what Barcelona will need to win the Champions League this season - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkNja3haTnBTN0VOanpjOTlZZGpfM3lfQkVOb2w3S05jd0pRVHRXVXVmNGZpN1hBVUd1OU56bEwycmNVQnJWTFA2QUZPMUVBS0RCUXhaa0JOMVVuRHl6SWFHdUkwNjdEcmRUX0tibXVZRnBqU2EybTdreVVxR2hpQmgtXzI1emNRNTByWQ?oc=5"
         },
         {
           "kind": "news_rss",
@@ -162,9 +162,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-23T20:00:01+00:00",
-          "source": "si.com",
+          "source": "Sports Illustrated",
           "source_url": "https://www.si.com",
-          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - si.com",
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or - Sports Illustrated",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDY5eHFzWTlaWEVwTzFyS2g5cEQ0WnlHcGlRY1R6bmJSanV5N1IyQ2VWT0l3UUs1c1JyMm5SMjAtdzlseVNkNUk1QzZPUDE2c2x0bmRUeTNKLWR4R1JlSC1vWDk1Y09IWjZZQWs3WTV3YnhPeVBtd0JaWGRncXIwTXZhZWJpZV9SY1E?oc=5"
         }
       ],
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
+      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -402,7 +402,7 @@
     "653788": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
+      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T09:18:41.803655+00:00",
+      "fetched_at": "2026-10-02T09:50:31.253450+00:00",
       "items": [
         {
           "kind": "news_rss",
