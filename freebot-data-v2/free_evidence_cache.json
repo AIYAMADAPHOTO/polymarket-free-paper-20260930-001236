@@ -3,7 +3,7 @@
     "608368": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:31:26.534385+00:00",
+      "fetched_at": "2026-10-02T03:02:41.964095+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:31:26.534385+00:00",
+      "fetched_at": "2026-10-02T03:02:41.964095+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,16 +174,8 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:31:26.534385+00:00",
+      "fetched_at": "2026-10-02T03:02:41.964095+00:00",
       "items": [
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "Yahoo Sports",
-          "source_url": "https://sports.yahoo.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZU1jcW1XbjNwY2FvVUZwYUVjVExzVF90VjNPTnAzaG9SdTZva21zTjlzUktwZTBkdjNPQVV1a3Fta2lPbHRXR2E4M3R0RE13VDg1djVGcnBoQndHdUJsRVJZM2ZQVzFiX0pZRThYaE1aWGhVZFFz?oc=5"
-        },
         {
           "kind": "news_rss",
           "published_at": "2026-10-01T12:33:15+00:00",
@@ -191,6 +183,14 @@
           "source_url": "https://www.bundesliga.com",
           "title": "Bayern Munich's Harry Kane thanks club for support as he awaits 2026 Ballon d’Or awards ceremony - bundesliga.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1zVFBHelF5dlctN1BJYzBXWVRjUXRXQ1ZFY1FmYWpMNEVsTHFUazB2cVVmOVhBbzdtQ2hpbGVuSmpERHVkZlVNNVY2a3FXQ2ZLc1Z4ZW9xUC1WY0pPcTJreEdldExocGFDbHN4bEVoOUo2Q2FJaXlGYTdqTUNiNDgzbGZ2VGxyNHFEUmttRHNseHNrMkl6VVVld1d4a3FOZHgtMHBRYkJJUHVS?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-28T07:23:35+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
           "kind": "news_rss",
@@ -202,19 +202,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T20:30:58+00:00",
-          "source": "Bookies.com",
-          "source_url": "https://bookies.com",
-          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmZfRkxEcW80WnY4OVVSeUpuNXFPTldGd2l2Qmxuem0weEEtQlhaZUZlbVdpTU9vRlJfNWQwWnVDUlhmRnN2YjM4NV9xRVpZTG14cHhUQ3FRMFl0ZHlBeThmVXlSRkVGZ0Fuek5TVjBhNUwyVDZyMm5EQjRyUzZjVVBVMUpieTNqRkJuRktPZ2hkT2ZXUWhIanJQcHdoLXdJ?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-29T05:53:56+00:00",
           "source": "Diario AS",
           "source_url": "https://en.as.com",
           "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-01T20:30:58+00:00",
+          "source": "Bookies.com",
+          "source_url": "https://bookies.com",
+          "title": "Ballon d'Or Betting Odds: Yamal Pips Kane as Current Favourite - Bookies.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmZfRkxEcW80WnY4OVVSeUpuNXFPTldGd2l2Qmxuem0weEEtQlhaZUZlbVdpTU9vRlJfNWQwWnVDUlhmRnN2YjM4NV9xRVpZTG14cHhUQ3FRMFl0ZHlBeThmVXlSRkVGZ0Fuek5TVjBhNUwyVDZyMm5EQjRyUzZjVVBVMUpieTNqRkJuRktPZ2hkT2ZXUWhIanJQcHdoLXdJ?oc=5"
         },
         {
           "kind": "news_rss",
@@ -288,7 +288,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:31:26.534385+00:00",
+      "fetched_at": "2026-10-02T03:02:41.964095+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -459,7 +459,7 @@
     "665224": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-02T02:31:26.534385+00:00",
+      "fetched_at": "2026-10-02T03:02:41.964095+00:00",
       "items": [],
       "market_id": "665224",
       "query": "Ukraine signs peace deal with Russia before 2027? NOAA NWS forecast weather"
@@ -467,7 +467,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T02:31:26.534385+00:00",
+      "fetched_at": "2026-10-02T03:02:41.964095+00:00",
       "items": [
         {
           "kind": "news_rss",
