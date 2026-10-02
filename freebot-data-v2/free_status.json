@@ -1,20 +1,20 @@
 {
-  "cash": "40.925009868",
+  "cash": "43.764355998",
   "counters": {
-    "ai_evaluations": 3240,
+    "ai_evaluations": 3280,
     "ai_skips": 2295,
-    "cycles": 91,
+    "cycles": 92,
     "edge_candidates": 6,
     "entries": 6,
-    "exits": 3,
-    "markets_scanned": 93639,
-    "political_excluded": 54691,
-    "prefilter_selected": 3640,
-    "rejections": 20
+    "exits": 4,
+    "markets_scanned": 94668,
+    "political_excluded": 55292,
+    "prefilter_selected": 3680,
+    "rejections": 23
   },
-  "equity_mark_to_bid_before_exit_fee": "49.596545592",
+  "equity_mark_to_bid_before_exit_fee": "49.543025592",
   "last_model": "gemini-3.5-flash-lite",
-  "net_pnl_mark_to_bid": "-0.403454408",
+  "net_pnl_mark_to_bid": "-0.456974408",
   "open_positions": {
     "665374:NO": {
       "cost_basis": "2.99377266",
@@ -29,26 +29,19 @@
       "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
       "outcome": "YES",
       "quantity": "6.860604"
-    },
-    "678445:YES": {
-      "cost_basis": "2.99168464",
-      "market_id": "678445",
-      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
-      "outcome": "YES",
-      "quantity": "4.591851"
     }
   },
   "paid_api_fallback_used": false,
   "real_order_code_used": false,
-  "realized_pnl": "-0.10377734",
-  "return_pct_mark_to_bid": "-0.80690881600",
+  "realized_pnl": "-0.25611585",
+  "return_pct_mark_to_bid": "-0.91394881600",
   "scheduled_end_time": "2026-10-03T10:17:27.841065+00:00",
   "start_time": "2026-10-01T10:17:27.841065+00:00",
   "starting_equity": "50.00",
   "status": "RUNNING",
-  "timestamp": "2026-10-02T02:00:14.312257+00:00",
-  "trade_count": 9,
+  "timestamp": "2026-10-02T02:10:48.080144+00:00",
+  "trade_count": 10,
   "unpriced_positions": [],
-  "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.299677068",
+  "unrealized_pnl_mark_to_bid_before_exit_fee": "-0.200858558",
   "valuation_status": "fresh_bid_before_exit_fee"
 }

@@ -3,7 +3,7 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "43.91076536",
+  "cash_balance": "43.764355998",
   "positions": {
     "665374:NO": {
       "market_id": "665374",
@@ -12,15 +12,15 @@
       "quantity": "3.481131",
       "cost_basis": "2.99377266"
     },
-    "678445:YES": {
-      "market_id": "678445",
-      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+    "677026:YES": {
+      "market_id": "677026",
+      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
       "outcome": "YES",
-      "quantity": "4.591851",
-      "cost_basis": "2.99168464"
+      "quantity": "6.860604",
+      "cost_basis": "2.985755492"
     }
   },
-  "realized_pnl": "-0.10377734",
+  "realized_pnl": "-0.25611585",
   "trades": [
     {
       "trade_id": 1,
@@ -449,6 +449,112 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 9,
+      "timestamp": "2026-10-02T02:00:14.304191+00:00",
+      "market_id": "677026",
+      "market_title": "Will the 10-year Treasury yield hit 5.5% before 2027?",
+      "outcome": "YES",
+      "side": "BUY",
+      "quantity": "6.860604",
+      "requested_price": "0.443",
+      "simulated_fill_price": "0.423000000000000000",
+      "spread": "0.012",
+      "fee": "0.08372",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.000",
+      "position_before": "0",
+      "position_after": "6.860604",
+      "cash_before": "43.91076536",
+      "cash_after": "40.925009868",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "2.9857555704",
+      "fair_probability": "0.99",
+      "model_confidence": "0.95",
+      "source_quality": "0.9",
+      "edge": "0.5547969928012169190934209291",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.411",
+      "entry_ask": "0.423",
+      "entry_spread": "0.012",
+      "liquidity": "4527.84691",
+      "volume": "140641.04733099995",
+      "requested_quantity": "6.860604",
+      "fill_status": "filled",
+      "fill_notional": "2.902035492",
+      "fill_legs": [
+        [
+          "0.423",
+          "6.860604"
+        ]
+      ],
+      "slippage_cost": "0E-9",
+      "quote_timestamp": "2026-10-02T02:00:12.650587+00:00",
+      "book_timestamp": "1790906389059",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
+    },
+    {
+      "trade_id": 10,
+      "timestamp": "2026-10-02T02:10:48.060646+00:00",
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "side": "SELL",
+      "quantity": "4.591851",
+      "requested_price": "0.630000000000000000",
+      "simulated_fill_price": "0.630000000000000000",
+      "spread": "0.01",
+      "fee": "0.05352",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.00",
+      "position_before": "4.591851",
+      "position_after": "0.000000",
+      "cash_before": "40.925009868",
+      "cash_after": "43.764355998",
+      "realized_pnl": "-0.15233851",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.65",
+      "model_confidence": "0.8",
+      "source_quality": "0.9",
+      "edge": "0.02",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.63",
+      "exit_ask": "0.64",
+      "exit_spread": "0.01",
+      "requested_quantity": "4.591851",
+      "fill_status": "filled",
+      "fill_notional": "2.89286613",
+      "fill_legs": [
+        [
+          "0.63",
+          "4.591851"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T02:10:47.143503+00:00",
+      "book_timestamp": "1790907044524",
+      "gross_pnl": "-0.04591851",
+      "net_pnl": "-0.15233851",
+      "return_pct": "-5.09206444968076581761639154586828376402667896172371964980908"
     }
   ],
   "test_run": null,
@@ -503,35 +609,36 @@
         "edge": "0.09",
         "ai_model": "gemini-3.5-flash-lite"
       },
-      "678445:YES": {
-        "entry_time": "2026-10-02T01:49:42.770612+00:00",
-        "entry_price": "0.640000000000000000",
-        "entry_cost": "2.99168464",
-        "fair_probability": "0.95",
-        "model_confidence": "0.9",
-        "edge": "0.2984795913456251084802185437",
+      "677026:YES": {
+        "entry_time": "2026-10-02T02:00:14.304191+00:00",
+        "entry_price": "0.423000000000000000",
+        "entry_cost": "2.985755492",
+        "fair_probability": "0.99",
+        "model_confidence": "0.95",
+        "edge": "0.5547969928012169190934209291",
         "ai_model": "gemini-3.5-flash-lite"
       }
     },
     "last_trade_by_market": {
       "665374": "2026-10-01T23:33:02.848993+00:00",
-      "678445": "2026-10-02T01:49:42.770612+00:00"
+      "678445": "2026-10-02T02:10:48.060646+00:00",
+      "677026": "2026-10-02T02:00:14.304191+00:00"
     },
     "day": {
       "date": "2026-10-02",
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 91,
-      "markets_scanned": 93639,
-      "prefilter_selected": 3640,
-      "political_excluded": 54691,
-      "ai_evaluations": 3240,
+      "cycles": 92,
+      "markets_scanned": 94668,
+      "prefilter_selected": 3680,
+      "political_excluded": 55292,
+      "ai_evaluations": 3280,
       "ai_skips": 2295,
-      "edge_candidates": 5,
-      "entries": 5,
-      "exits": 3,
-      "rejections": 20
+      "edge_candidates": 6,
+      "entries": 6,
+      "exits": 4,
+      "rejections": 22
     },
     "errors": [
       {
@@ -543,5 +650,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "1d1519b29c8d539237c27bc2db5e142cb57f06ff0a58e2c6fc3a003d6ade89fc"
+  "checksum": "ba4e68a28c8eb29471408db059f60a5e429c96622a9c2812d7cb0a3dda7fa196"
 }

@@ -3,7 +3,7 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "40.925009868",
+  "cash_balance": "43.764355998",
   "positions": {
     "665374:NO": {
       "market_id": "665374",
@@ -11,13 +11,6 @@
       "outcome": "NO",
       "quantity": "3.481131",
       "cost_basis": "2.99377266"
-    },
-    "678445:YES": {
-      "market_id": "678445",
-      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
-      "outcome": "YES",
-      "quantity": "4.591851",
-      "cost_basis": "2.99168464"
     },
     "677026:YES": {
       "market_id": "677026",
@@ -27,7 +20,7 @@
       "cost_basis": "2.985755492"
     }
   },
-  "realized_pnl": "-0.10377734",
+  "realized_pnl": "-0.25611585",
   "trades": [
     {
       "trade_id": 1,
@@ -511,6 +504,57 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 10,
+      "timestamp": "2026-10-02T02:10:48.060646+00:00",
+      "market_id": "678445",
+      "market_title": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+      "outcome": "YES",
+      "side": "SELL",
+      "quantity": "4.591851",
+      "requested_price": "0.630000000000000000",
+      "simulated_fill_price": "0.630000000000000000",
+      "spread": "0.01",
+      "fee": "0.05352",
+      "fee_status": "known",
+      "fee_source": "Gamma feeSchedule",
+      "fee_rate": "0.05",
+      "slippage": "0.00",
+      "position_before": "4.591851",
+      "position_after": "0.000000",
+      "cash_before": "40.925009868",
+      "cash_after": "43.764355998",
+      "realized_pnl": "-0.15233851",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.65",
+      "model_confidence": "0.8",
+      "source_quality": "0.9",
+      "edge": "0.02",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.63",
+      "exit_ask": "0.64",
+      "exit_spread": "0.01",
+      "requested_quantity": "4.591851",
+      "fill_status": "filled",
+      "fill_notional": "2.89286613",
+      "fill_legs": [
+        [
+          "0.63",
+          "4.591851"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-02T02:10:47.143503+00:00",
+      "book_timestamp": "1790907044524",
+      "gross_pnl": "-0.04591851",
+      "net_pnl": "-0.15233851",
+      "return_pct": "-5.09206444968076581761639154586828376402667896172371964980908"
     }
   ],
   "test_run": null,
@@ -565,15 +609,6 @@
         "edge": "0.09",
         "ai_model": "gemini-3.5-flash-lite"
       },
-      "678445:YES": {
-        "entry_time": "2026-10-02T01:49:42.770612+00:00",
-        "entry_price": "0.640000000000000000",
-        "entry_cost": "2.99168464",
-        "fair_probability": "0.95",
-        "model_confidence": "0.9",
-        "edge": "0.2984795913456251084802185437",
-        "ai_model": "gemini-3.5-flash-lite"
-      },
       "677026:YES": {
         "entry_time": "2026-10-02T02:00:14.304191+00:00",
         "entry_price": "0.423000000000000000",
@@ -586,7 +621,7 @@
     },
     "last_trade_by_market": {
       "665374": "2026-10-01T23:33:02.848993+00:00",
-      "678445": "2026-10-02T01:49:42.770612+00:00",
+      "678445": "2026-10-02T02:10:48.060646+00:00",
       "677026": "2026-10-02T02:00:14.304191+00:00"
     },
     "day": {
@@ -594,16 +629,16 @@
       "starting_equity": "49.86141135"
     },
     "counters": {
-      "cycles": 91,
-      "markets_scanned": 93639,
-      "prefilter_selected": 3640,
-      "political_excluded": 54691,
-      "ai_evaluations": 3240,
+      "cycles": 92,
+      "markets_scanned": 94668,
+      "prefilter_selected": 3680,
+      "political_excluded": 55292,
+      "ai_evaluations": 3280,
       "ai_skips": 2295,
       "edge_candidates": 6,
       "entries": 6,
-      "exits": 3,
-      "rejections": 20
+      "exits": 4,
+      "rejections": 23
     },
     "errors": [
       {
@@ -615,5 +650,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "066d94301364d9cdc72ce63a99066705d809caff8bba3181cd947fca04c37513"
+  "checksum": "0c4b9a556397d8eb8852dbf34629655532c37afe5af63e804c7f9011ec3514e9"
 }
