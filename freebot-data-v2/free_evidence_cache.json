@@ -60,15 +60,15 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T08:39:54.736814+00:00",
+      "fetched_at": "2026-10-03T09:11:02.332092+00:00",
       "items": [
         {
           "kind": "news_rss",
-          "published_at": "2026-10-03T08:00:00+00:00",
-          "source": "sports.yahoo.com",
+          "published_at": "2026-10-03T06:00:00+00:00",
+          "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "Real Madrid’s Andriy Lunin makes Ballon d’Or choice clear: ‘Mbappe is the best’ - sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThqTGIwSThaVnBtMWJZRlRtZUNVYl93bVNpbkphV1REUGc5MVhXZ1VIOXNRRzJwUWw0TUh5dHRtR3hHX05HX1Z0ZXVjRy1Xa0EtSzFka2xZQ0ZwU1J5Sm1zNHNKdi1iYzFYdjZ5VTR1T2FsTEpjNXdFRWN6MEZZdW45bThBUQ?oc=5"
+          "title": "Real Madrid star jokes about choosing between Mbappe and Lamine Yamal for Ballon d’Or: ‘No matter who wins…’ - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQklVU2lETldWUUlCU3NFbzNfbm93U1d2S3RSUVFrd1ZYRWs4OHFNY0xUY193d0YyQmZ0TWJlN3hEMktyQ0czalBZTXVUN2NYV3l1QlFfZ3gtMG5rbUxXMXo2cHhiaUdJVm1ON1FkakZ5UGw1WmJ1UFduMTNCWmJ2eXVnS2VEbkE?oc=5"
         },
         {
           "kind": "news_rss",
@@ -88,11 +88,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-03T06:00:00+00:00",
-          "source": "sports.yahoo.com",
+          "published_at": "2026-10-03T08:00:00+00:00",
+          "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "Real Madrid star jokes about choosing between Mbappe and Lamine Yamal for Ballon d’Or: ‘No matter who wins…’ - sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQklVU2lETldWUUlCU3NFbzNfbm93U1d2S3RSUVFrd1ZYRWs4OHFNY0xUY193d0YyQmZ0TWJlN3hEMktyQ0czalBZTXVUN2NYV3l1QlFfZ3gtMG5rbUxXMXo2cHhiaUdJVm1ON1FkakZ5UGw1WmJ1UFduMTNCWmJ2eXVnS2VEbkE?oc=5"
+          "title": "Real Madrid’s Andriy Lunin makes Ballon d’Or choice clear: ‘Mbappe is the best’ - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThqTGIwSThaVnBtMWJZRlRtZUNVYl93bVNpbkphV1REUGc5MVhXZ1VIOXNRRzJwUWw0TUh5dHRtR3hHX05HX1Z0ZXVjRy1Xa0EtSzFka2xZQ0ZwU1J5Sm1zNHNKdi1iYzFYdjZ5VTR1T2FsTEpjNXdFRWN6MEZZdW45bThBUQ?oc=5"
         },
         {
           "kind": "news_rss",
@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T08:39:54.736814+00:00",
+      "fetched_at": "2026-10-03T09:11:02.332092+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -358,9 +358,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-09T07:00:00+00:00",
-          "source": "Reuters",
+          "source": "reuters.com",
           "source_url": "https://www.reuters.com",
-          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
+          "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5"
         },
         {
@@ -390,9 +390,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-11T07:00:00+00:00",
-          "source": "Newsweek",
+          "source": "newsweek.com",
           "source_url": "https://www.newsweek.com",
-          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - Newsweek",
+          "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - newsweek.com",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2gxejhKMWQ2Z0xyRmJyNUxieFRZUmtQZXcyazh5REJjRExVN1VINFZmZVhiZkxXRVp4TmoxWWlWQWRrVktrcDM1TmtRRkltcDZPM1pNOXFFcGlnaEpKenpyM0IyNXVMT3dVMU90ZnU3bnZ1WTduMDJxcy11OExIZWNiVGh0aU0?oc=5"
         }
       ],
@@ -638,7 +638,7 @@
     "665513": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-01T13:26:29.942342+00:00",
+      "fetched_at": "2026-10-03T09:11:02.332092+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -666,19 +666,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-08-19T07:00:00+00:00",
-          "source": "DW.com",
-          "source_url": "https://www.dw.com",
-          "title": "Germany condemns Israeli minister's Gaza 'killings' remarks - DW.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmtzNkVwd0pENUJ1Z1FxeHAzVU9jbWswX3ZnV0dwNU5rc2psMDY5Vk5wNzYzYzU0RlhGSGZUZzgza0xsdzYwQkZHcnVuMURkVUs3MDJUWktnbnhFUERTZjZwZ3RRbHA5U2FYV1pMOW5WeW1jOFZoUUQzNkpwRGFaZlRKcWxsMzBnMUJZNU15OHJOc21ZTU0waHlWSmdhOVZmR1V4U3NOSdIBpwFBVV95cUxPTGhGbHJURDMwZUdtSC1vUzcwVnMwQUNUVlNuVlFpeHZzV0xiZjhwM0swbFd1WlJXZkE0Q1hndnpfdzV0Rmk1R3VzcWI3ekl6cGVvcDM2cVFTYlVNVE5iUUhFZmE5bDVQbXlQWW1Pc3ZJd2lYNlE4U0w5WlBCbHFJbVVuN0JtXzFsdWxBODBWanhmalhmeWZvaklLZEloaV9jaG9INFFwbw?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-08-31T07:00:00+00:00",
-          "source": "Reuters",
-          "source_url": "https://www.reuters.com",
-          "title": "New stability record for Italy's Meloni may prove fleeting - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWNlTEVQN3A1VTlGRGtZb1dITUtFazBfV1k1ZnZkSGhad3B0bnFMc3U4SlNxYzMwQXN5WXhhRml4YVduRmVIVnhSdk00dHF4UVRIcmhHWVk0UWN1UmFnb2d2c0dGNUVzcVF0czlCNmlsLTB0TWNmUWVuNkotQ3pjcHhhcFBFOFNFZHdsOXhCWFlGeThPRnpNOXZmcG5BWVZPbmk0SA?oc=5"
+          "source": "KELO-AM",
+          "source_url": "https://kelo.com",
+          "title": "German state leader urges joint effort to solve Volkswagen crisis - KELO-AM",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenlaQXpvaTRyeURtOXluRk5mTWdCYWZWcjEzSU9WTFJzd3R1UnFUNWEyZG5BVEZVamp2RzJra3VoUndnaHA1c19nc1FrRmkweGVDRnhxbXFsV01WTXJ2YW1ua2JXajU1cElCUnNUU0JienJ4TXV4dmdvU29CcmFDMTlvR1B2allMcUtzWGE1UHcyM3ZDU3VkQlF3?oc=5"
         },
         {
           "kind": "news_rss",
@@ -687,6 +679,14 @@
           "source_url": "https://www.theguardian.com",
           "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane - The Guardian",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXZxRVNNa1pHN3lfMXFCSU1TZjY5MUZaUDRUODlYTk1YbkNfVzhSMWMyLWdRVnJGRzI3Tm1IemxWdzdhejlqeFNWRm9rRnl4QkJ1QnhSVHpYVFhBci1Ga1Q4dzZGNTY2RDhURTV2MDR4Y1NLNTdCYVB4N1FXdldkcXdoNGdUMU1RV3dmNkI1akNlT0xV?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "source": "Bangladesh Sangbad Sangstha (BSS)",
+          "source_url": "https://www.bssnews.net",
+          "title": "Germany's Merz warns far-right govt would 'harm' eastern region - Bangladesh Sangbad Sangstha (BSS)",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SU2diRTN4d1pRQmlPTnBkUUtqRWV6Uzd6RldnSUZKUUlLM3VvYlBDc1VNa1pDWGJzelNuYndDV2ZFX3VYTFhUR2o5YThKVkFBSlBrRzlGZw?oc=5"
         }
       ],
       "market_id": "665513",
