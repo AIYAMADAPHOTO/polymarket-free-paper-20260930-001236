@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T05:00:58.481331+00:00",
+      "fetched_at": "2026-10-03T05:32:09.402592+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -695,7 +695,7 @@
     "665727": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T05:00:58.481331+00:00",
+      "fetched_at": "2026-10-03T05:32:09.402592+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -732,9 +732,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-05-24T07:00:00+00:00",
-          "source": "newscord.org",
+          "source": "NewsCord",
           "source_url": "https://newscord.org",
-          "title": "Trump Tells Republicans 'Don’t Listen to the Losers' Over Iran 60-Day Ceasefire Deal: how 10 outlets split - newscord.org",
+          "title": "Trump Tells Republicans 'Don’t Listen to the Losers' Over Iran 60-Day Ceasefire Deal: how 10 outlets split - NewsCord",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXp0cmpBX2tVX2RuYUZjN25yNkR2U1NERmdNUWhYaHNtRGhZRnVHTTR2b2tManZTUENEbjhLM0VWeDFfeTVmMXFibXFsd19QNU1LSkFoUjhxaXNlcld6Y3FkZm1NOTRTaVp0NkV0QjY2cmU5V0xVR0oxYzZndHA4Mkdqa1BLMmtzQnFCREVxVjhxcVNHam5kdThQaEFrM1c1b21rYlJ4djl5eC0zcmYtS0p2S3U5Q29tMmIyWVNsQkhiSU5YZm1jcTJmRnJTWE1iZzJRSU5DWEpVZ1JxT1Z4aW9rWnNtWUlBUUE?oc=5"
         },
         {
@@ -809,7 +809,7 @@
     "676741": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T05:00:58.481331+00:00",
+      "fetched_at": "2026-10-03T05:32:09.402592+00:00",
       "items": [
         {
           "kind": "news_rss",
