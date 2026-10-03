@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T03:26:51.757056+00:00",
+      "fetched_at": "2026-10-03T03:58:13.190374+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -749,6 +749,63 @@
       "market_id": "676739",
       "query": "Will NVIDIA be the largest company in the world by market cap on December 31?"
     },
+    "676741": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-03T03:58:13.190374+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-07T07:00:00+00:00",
+          "source": "The Motley Fool",
+          "source_url": "https://www.fool.com",
+          "title": "The Largest Companies by Market Cap in October 2026 - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NUo0RjhSeGFhdTZUbG5xWmgybGJNam9uM3Zkb2I3QzRkdmJnbG1XMkVleEZEeTE2SnRreWptSDVTT0FiMmkwZnl4VUZGQkJleXVPLTdvQjZjOE1qN0FQSWxuaDgyOU1tdDNpb0VPMA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-14T07:00:00+00:00",
+          "source": "247wallst.com",
+          "source_url": "https://247wallst.com",
+          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUFTaHFlYkdMdkFRa2p0S2NHcllfLXVrZnluaHFQVHVrVkJDbV9JUmNudmxEY1lPS01MbHpCaHNiaUNmX25kYWpUYjQzcnYyaFZVLTRFQ0swX29Bd3Z1SDFkUnlmTFUxTGlvUGNkbDhuWml2NmNaV20weHhuR0NFNkN3dlNiVW1JcENSZlNzNktwT1N3VDBnZUdzbFlpaUw5dldqVVJ6QlQxQVkySWRyd2gyYzQ3OVNuUThBZ25pM2JUQ0NOX2JtZzZ1NWU5SVUyVjNxY09TMA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-08-28T19:02:07+00:00",
+          "source": "StoneX",
+          "source_url": "https://www.stonex.com",
+          "title": "Apple Acquisition History: The Biggest Companies Apple Owns - StoneX",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBENW5RZHNOeHNkLThOMTYtN3pJTnY3MjI0UndyWmVUQVVjSkhCNlVFTFF2RmEtUDVNUDFGQjFvMnFmWHRnOFRzbzVRN0V3S1VvVTZ5dkxZdlFOc3dLZ3NJY21Qck1SeDlYSFJzRnV0VUhpNnBzN0tYYUctVG4xUQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "source": "CryptoSlate",
+          "source_url": "https://cryptoslate.com",
+          "title": "Largest Company end of August Final Result & Prediction Market - CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12aV9KMFlzTHhQODdodDQwYW13V3g1bzgzX1VVRE15MUZkNlZIUDYya0NYLWlQdzBuUU9yNzhNMzhmdkxoT3p3SW9QOTFlSk11dE50UUV0dXg0a0tYeW4ycWhYRkVvd0xGWGQzbk1SYW1EU0xENkpDM25icmZZQQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-06-16T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Could SpaceX Overtake Nvidia As The World's Biggest Company In 2026? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEtabWxhTndEcmgzM29EMENTS2V1NmZjb0JweEZac1JRNV9kODVfQkNTRUlQcUVXWnpOS29jWWhkRVFNeUxaYjIyWUkxSnplTEZfb2xVWUlnX2hCNTlyZGx0Vl9vM3V2U09iY0huS0plZFVCOXdzd01haUlhTWl5QlMyRmN1U3U3a0NVLUNic01JbE1mazBoUjIyRkdlQUxRWGJJaWt0aDFkckw4LWtnQ3JlZUU3LWNIaTdTcHlUTDk5SDQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-01-27T21:39:41+00:00",
+          "source": "Voronoi by Visual Capitalist",
+          "source_url": "https://www.voronoiapp.com",
+          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - Voronoi by Visual Capitalist",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWc5cnJINXJDVFVKYmJPd3BTVFBSZFpSWm1Dbm5nNlJlN3laZ19fc1J3SzZJZzBnV3RRRzNwRWJLdlcwQnd5cThBdmh2ejlQZUdad2dkU1FSWU9PZW1YUzlsdDRUaUJTS1Y0X1BQTzBDZWw1UHNha1VfZU4wZXZ1MEo3RTlkQUVQYnRFVEN1ZC1tYjRDWWtGYXJNOFEzeUpuaXVZdzl5c3M2SXhsajRNXzhpalNQMnRYY2VFdnhMTHk?oc=5"
+        }
+      ],
+      "market_id": "676741",
+      "query": "Will Apple be the largest company in the world by market cap on December 31?"
+    },
     "677026": {
       "category_hint": "general",
       "errors": [],
@@ -923,7 +980,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-03T03:26:51.757056+00:00",
+      "fetched_at": "2026-10-03T03:58:13.190374+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
