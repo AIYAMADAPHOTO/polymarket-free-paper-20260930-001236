@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T01:00:59.505677+00:00",
+      "fetched_at": "2026-10-03T01:32:17.680556+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T01:00:59.505677+00:00",
+      "fetched_at": "2026-10-03T01:32:17.680556+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T01:00:59.505677+00:00",
+      "fetched_at": "2026-10-03T01:32:17.680556+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -805,6 +805,63 @@
       ],
       "market_id": "677026",
       "query": "Will the 10-year Treasury yield hit 5.5% before 2027?"
+    },
+    "677396": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-03T01:32:17.680556+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-29T10:48:00+00:00",
+          "source": "Covers.com",
+          "source_url": "https://www.covers.com",
+          "title": "US-Iran Prediction Markets: Odds & Picks 2026 - Covers.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TZ1BPWVJuVUJ1a3dId2UwRTA4dFZQdVJsTTFEMDJmYnhxclFiX1pqQjJ2SWpoTWNrMjg2T0xWYTcxaElBa3pQLTVNYktvYUxsOEtXWF9xMEY4R295UkZzRlppMzc1QWE1QjBUV1F1MVQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-29T07:00:00+00:00",
+          "source": "WTTW News",
+          "source_url": "https://news.wttw.com",
+          "title": "Hegseth Faces Withering Questions About Iran in First Congressional Appearance Since War Began - WTTW News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEFBQ0w1Nml5RHh5NFNvSDRrVWNPUU16d0VFcDk5eG8xX000emgzaHZsU01JOE1IMElVcUV3RHRxeTRUX2pORXEtMktmbE5FNWdaaXNwR1pmSnZCZk51ODgyVHZiXzhuMDlPWVg0THhIai1ScVQxaDI2cURXTEdXQUVuLUh0ZzUtMWN6Vm5LX25TTmhMNk9oOW50SnN0Y284Vzd3?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-05-10T07:00:00+00:00",
+          "source": "The Jerusalem Post",
+          "source_url": "https://www.jpost.com",
+          "title": "What is everyone misunderstanding about US intelligence report on Iran nuclear threat? - analysis - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZGg2VGFtQnNicWo5dEpZZHROSUp5c2JaUTJJYU5PaG9jRHZvdHZ5MkZfRUczaFVoNzhld0pyWF9kSktrRmZOZGUxdERmVGpZdHJqNTB6bXB6OGVDRG81Q2lNSExCT0swaVE?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-03-03T08:00:00+00:00",
+          "source": "Yahoo Finance",
+          "source_url": "https://finance.yahoo.com",
+          "title": "Polymarket Pulls Nuclear Detonation Market Following Public Backlash - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2UteXUxeE9yaHRUUEVwR1ZzY2RjUkpVelltcDFUc1hpUm1iSnRNVkdXcXdEY2lQTkdTMDI0WmJOa0Y4d3hfemRJVEk5WlpvZ3U5WE9TUWVEUVV3WlhRaFpUa0kwTVpraFNrZ3o4WFNfVGZHT29RT1ZoNW9vZG52bnU4MldJT3ducG4tcFF3OG4zUQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-03-04T08:00:00+00:00",
+          "source": "Business Insider",
+          "source_url": "https://www.businessinsider.com",
+          "title": "Polymarket Takes Down Nuclear Detonation Bet After Online Backlash - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkIwR01wQnJrZ2hySnRxZXgyWWhtVnA1ZlktZEpodF9xbUMtYk5DSmZwQUhmTVpoMEZCUXo0aERiRWFlZTYwQzZKQ0pwelE5TGFhX296ZUFiODl4ZXZRVzZzVndMdGJPeXlfS2x6QURfQVc4UE9abXdMN05WTE03SDlFRl9KZ0ZYTnZiOUNob0kwcXE1dFVINUxtenQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-03-04T08:00:00+00:00",
+          "source": "The Block",
+          "source_url": "https://www.theblock.co",
+          "title": "Polymarket removes nuclear detonation market after backlash - The Block",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk9vaVZCMHU0N21maGpNWk11NDY5eFJXWWN1b0RsVFhIN0lZTGpQVUVIRE9qRVR0cTdPWGhyVE9SVHNqMnRfVk9BaFQ2S1V6ZEVzNk9iNmpqWEhONHRBT3BFM1dvYm8yRUNfc2Fmajg0Y25OOXFXRmFMRUY5Ykw2UnJHQ001bWVRa0dKcjB3aUZla2tUUFZvUl81RUtKNkgyZVRsMA?oc=5"
+        }
+      ],
+      "market_id": "677396",
+      "query": "Iran Nuke before 2027?"
     },
     "678445": {
       "category_hint": "general",
