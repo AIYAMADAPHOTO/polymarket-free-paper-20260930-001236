@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T23:58:18.767310+00:00",
+      "fetched_at": "2026-10-03T00:29:45.458173+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T23:58:18.767310+00:00",
+      "fetched_at": "2026-10-03T00:29:45.458173+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -186,19 +186,19 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-02T22:30:00+00:00",
+          "source": "Bavarian Football Works",
+          "source_url": "https://www.bavarianfootballworks.com",
+          "title": "Harry Kane grateful for Bayern Munich’s support for him in fight to win Ballon d’Or - Bavarian Football Works",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeDdmZmJGMkl6VnNnbmo5NmtCNzZaNzQ4T3JhREppZnFueUNGcmdYZ2I4a20ybkJCaUlCR196T2VsRFNaZXNVejhheWlEb3ZxdENScnAtR01wR2t1ZHVuTlZwWjBMTjlPdzJMbTJkdFl0QkpOeFpGcmZVUXNsLUNWeUlja1VrdkRHV2ZydHh3T2JEcFNzUFZUWGNCV0NCWHFoQjBjTmMwdGtSd1RucTN4QnZ1X2NSU0FPNmR4Mkx6ODhTZ0FNZ3pZUkhabVFpeFFVLXZmbkRzNS15QkpxVndlZkhWU2NSX19hTTVsWWNaRlNPY2RPS2Rn?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
           "source": "Forbes",
           "source_url": "https://www.forbes.com",
           "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-02T14:30:00+00:00",
-          "source": "Bavarian Football Works",
-          "source_url": "https://www.bavarianfootballworks.com",
-          "title": "Harry Kane grateful for Bayern Munich’s support for him in fight to win Ballon d’Or - Bavarian Football Works",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeDdmZmJGMkl6VnNnbmo5NmtCNzZaNzQ4T3JhREppZnFueUNGcmdYZ2I4a20ybkJCaUlCR196T2VsRFNaZXNVejhheWlEb3ZxdENScnAtR01wR2t1ZHVuTlZwWjBMTjlPdzJMbTJkdFl0QkpOeFpGcmZVUXNsLUNWeUlja1VrdkRHV2ZydHh3T2JEcFNzUFZUWGNCV0NCWHFoQjBjTmMwdGtSd1RucTN4QnZ1X2NSU0FPNmR4Mkx6ODhTZ0FNZ3pZUkhabVFpeFFVLXZmbkRzNS15QkpxVndlZkhWU2NSX19hTTVsWWNaRlNPY2RPS2Rn?oc=5"
         },
         {
           "kind": "news_rss",
@@ -288,7 +288,7 @@
     "609655": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T23:58:18.767310+00:00",
+      "fetched_at": "2026-10-03T00:29:45.458173+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -532,7 +532,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T23:58:18.767310+00:00",
+      "fetched_at": "2026-10-03T00:29:45.458173+00:00",
       "items": [
         {
           "kind": "news_rss",
