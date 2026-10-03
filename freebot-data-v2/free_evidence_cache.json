@@ -117,15 +117,15 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:16:38.313205+00:00",
+      "fetched_at": "2026-10-03T07:47:46.947284+00:00",
       "items": [
         {
           "kind": "news_rss",
-          "published_at": "2026-10-02T18:21:02+00:00",
+          "published_at": "2026-10-03T06:00:00+00:00",
           "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGMwbC1KYTlfanFTajc3WGhOMHhSb1g0SkM0VlZsa0F1YWkwUUhQak0zY0pCNWw5ZHpWX19rckxkZk5IenB1bmtiOFhYMkRHVnBPTWpHZHdIaFlPck9NTTFlM2g5TVkyMzBOREZQWXVoZUs3ZUdhNHdKWUEtWURUTUtReUVKdw?oc=5"
+          "title": "Real Madrid star jokes about choosing between Mbappe and Lamine Yamal for Ballon d’Or: ‘No matter who wins…’ - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQklVU2lETldWUUlCU3NFbzNfbm93U1d2S3RSUVFrd1ZYRWs4OHFNY0xUY193d0YyQmZ0TWJlN3hEMktyQ0czalBZTXVUN2NYV3l1QlFfZ3gtMG5rbUxXMXo2cHhiaUdJVm1ON1FkakZ5UGw1WmJ1UFduMTNCWmJ2eXVnS2VEbkE?oc=5"
         },
         {
           "kind": "news_rss",
@@ -146,18 +146,18 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-03T06:00:00+00:00",
+          "published_at": "2026-10-02T18:21:02+00:00",
           "source": "Yahoo Sports",
           "source_url": "https://sports.yahoo.com",
-          "title": "Real Madrid star jokes about choosing between Mbappe and Lamine Yamal for Ballon d’Or: ‘No matter who wins…’ - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQklVU2lETldWUUlCU3NFbzNfbm93U1d2S3RSUVFrd1ZYRWs4OHFNY0xUY193d0YyQmZ0TWJlN3hEMktyQ0czalBZTXVUN2NYV3l1QlFfZ3gtMG5rbUxXMXo2cHhiaUdJVm1ON1FkakZ5UGw1WmJ1UFduMTNCWmJ2eXVnS2VEbkE?oc=5"
+          "title": "'I’ll win eventually!' - Lamine Yamal reveals why voters could choose Kylian Mbappe, Rodri and others over him for Ballon d’Or - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGMwbC1KYTlfanFTajc3WGhOMHhSb1g0SkM0VlZsa0F1YWkwUUhQak0zY0pCNWw5ZHpWX19rckxkZk5IenB1bmtiOFhYMkRHVnBPTWpHZHdIaFlPck9NTTFlM2g5TVkyMzBOREZQWXVoZUs3ZUdhNHdKWUEtWURUTUtReUVKdw?oc=5"
         },
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:16:38.313205+00:00",
+      "fetched_at": "2026-10-03T07:47:46.947284+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -195,9 +195,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
-          "source": "Forbes",
+          "source": "forbes.com",
           "source_url": "https://www.forbes.com",
-          "title": "Who Will Win The 2026 Ballon D'Or? - Forbes",
+          "title": "Who Will Win The 2026 Ballon D'Or? - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3BnZ2czOXE0alpMcVc2RWliYnlhSE84OS1HZ0tMeUp6NkVlZERaUmR5WHRsYlBZci1rQlUxUDFQLWxfOXJUVGsycEU3UGt1OFctSzJlUC1DeE1BMWY0TW1NWkhZV3JSZDhZSVVYbXl1U1RyUUo4a0w4NDMyemx0TUdTSlVvSmNzeldvN1c4VQ?oc=5"
         },
         {
@@ -218,11 +218,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-02T21:05:00+00:00",
-          "source": "TNT Sports",
-          "source_url": "https://www.tntsports.co.uk",
-          "title": "Pickford backs Kane for Ballon d'Or with another target beckoning - TNT Sports",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnJQY0dhRFpVeFFlTVFGNnBGZHkwOF85NWNvOFRib3ladFV6cFVlRmlLa2s2bGJoQkRLb0dqS0M3N0JxaVo1SkdsMUtIVE0zRlZnRUcwRDB2elJIUTVXc2JDaHphRkU5bFNsbEFycThnZDVwa2dsRHJuai1jMXYyLWNLUGt1RkJYNmJfckNJd0ZhM2t1ZGluczFPVWFHY2cyOVk4bzBTLW52ay1CdEhKVk00ZUpoUy1KTUVuNXM1alYza1FtNGNmOXBuNXRCRE5KTnpPdG5Edzk1ZTRjSjdaNS1Kc1hSa2hHMVJ6dDVUS0UwWUlpV2J1dEN1MmU?oc=5"
+          "published_at": "2026-10-01T06:01:00+00:00",
+          "source": "FC Bayern Munich",
+          "source_url": "https://fcbayern.com",
+          "title": "Harry Kane's October outlook: My month - FC Bayern Munich",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG9uX3cwNXZVMlBkSEh3RU1JejJkMHdQNW1GUHdEUE1BNHVseHYwbUNuMTZ3MGlHUjNiR2dXbHB2QXZvZEktQVN2dXBuVlBQeUwyYUtlbmJXa2Z6NWdQbElKQ3NvMG5haWRqaVFsNzkyMXNuTEpBQW1oQnFQMzl5WG55WlUzdw?oc=5"
         }
       ],
       "market_id": "608547",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:16:38.313205+00:00",
+      "fetched_at": "2026-10-03T07:47:46.947284+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -593,18 +593,18 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-07-09T07:00:00+00:00",
+          "published_at": "2026-07-08T07:00:00+00:00",
           "source": "Benzinga",
           "source_url": "https://www.benzinga.com",
-          "title": "Iran's Parliament Speaker Says Strait of Hormuz Will Open Only Under Tehran's Terms, Slams US 'Bullying' - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ3ZmaFQ2LWdFRXU5d0lUZGJuS0lYcHpIbm9QUzY5SjdJUXcyT3Y3WE9SUlROV1pUdElVYUpITlJtRmpObENsVDZfUWIzX0hyWmdwQWF2dzIxbzlpMklmMnlEZzRHbzZFOFRQLVRTUjFNUWRVaFAzZjhZRDFMTldtaWFLZ0VCc2pVeHJDUTYzZEtyRnA2RENmQXpxN0ZzdnNxTWpscWNnWnF1VnJ1Ujl4NHpGc29hNjFFTm50ZlBGTk4xVU5kVHRmVDZVVlRDQWJpODBKRklkOHBzR2NGd3YyX3NlMGRZZm1U?oc=5"
+          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2p6enRWYzZ3RUtjRERxY2ZnSWhmRkZGbFNvNUkwVVpVRkd5Q25CQ0xaYmk1R0c3Q2FsdGZJR3ItZ3JTYzZTSUZ5dllJellxUUEzQ1N0VDhteGMyOFQtbXk4eWN6WVk2NXEtQnlJeUpQcktWMlh2cGNua2xsT25IZXB1dEpNLUxVVVozZVFoa0lROUlFbUxWQkZmLVVweTMtR21nTkZzZ0QxNjFrLVZhSkl2QnJKZnRTMUZGNVBiRy16c1NhQWE3WHIwVW03aE0?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
-          "source": "Action Network",
+          "source": "actionnetwork.com",
           "source_url": "https://www.actionnetwork.com",
-          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - Action Network",
+          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - actionnetwork.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzM1X2dvU1NTTkY4M19Nd3hSeDAxM1g2MnpjTTBfdi1PbDVCa0t1UnNzeHc5YU5vVTR6Z0p1QmpvazZVQUpSZ21KRmpuRG03WExkVUlfcmpYOHgxeERvZmhJN0wtNEtRZnBsdHBQM0o2cWxZaThWblo2V0M5bFdUSVQxN3M5QlhkVldDSmpEeGhzN0Y2NDN5dnd3?oc=5"
         },
         {
@@ -617,19 +617,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-05T07:00:00+00:00",
-          "source": "TradingView",
-          "source_url": "https://www.tradingview.com",
-          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
+          "published_at": "2026-06-12T07:00:00+00:00",
+          "source": "StartupHub.ai",
+          "source_url": "https://www.startuphub.ai",
+          "title": "Musk Tweet Bets Top Polymarket - StartupHub.ai",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnBxUUtUMTN4OFVNQ1dhdzRVRTA5ZUZUQWpTUnhOa1JuUDVtMnAyVXJlejByVE5Vd3plVDkwQ0FMWG5vdDYzWGQ2S0FWYmtqNnFlaWJ3NVlMUVlpQV9sckswNTNBczB5OTNuaVplOFZmRGg1UGdGVXBPejRYelI1dnprTHBLQlMyZ1ZYM2RGSXY0Zw?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-03-27T07:00:00+00:00",
-          "source": "Fortune",
-          "source_url": "https://fortune.com",
-          "title": "The Iran war could drag into 2027, analyst warns. The economic fallout is just getting started - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZYR0xpQTVlTXJVM2ItWV9lSDBTSEpzUkNfMG9pR1B2bnl2N2V2U3Q3MDdLODlHcGV4Y0NhZzlRejg5dTVNci00VFlUSFNpbkFEZURfb25tYnNlYUd4ODk5YWprcjFRdmhmYXRxZDhxVTJFX0F6TmdRa016ckdtaGtXU1dvR0hlTjBLamVqV09xQkNNeC1TdXl0TEpyUQ?oc=5"
+          "published_at": "2026-07-09T07:00:00+00:00",
+          "source": "Benzinga",
+          "source_url": "https://www.benzinga.com",
+          "title": "Iran's Parliament Speaker Says Strait of Hormuz Will Open Only Under Tehran's Terms, Slams US 'Bullying' - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ3ZmaFQ2LWdFRXU5d0lUZGJuS0lYcHpIbm9QUzY5SjdJUXcyT3Y3WE9SUlROV1pUdElVYUpITlJtRmpObENsVDZfUWIzX0hyWmdwQWF2dzIxbzlpMklmMnlEZzRHbzZFOFRQLVRTUjFNUWRVaFAzZjhZRDFMTldtaWFLZ0VCc2pVeHJDUTYzZEtyRnA2RENmQXpxN0ZzdnNxTWpscWNnWnF1VnJ1Ujl4NHpGc29hNjFFTm50ZlBGTk4xVU5kVHRmVDZVVlRDQWJpODBKRklkOHBzR2NGd3YyX3NlMGRZZm1U?oc=5"
         }
       ],
       "market_id": "665374",
