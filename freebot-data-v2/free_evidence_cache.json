@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T02:34:49.813602+00:00",
+      "fetched_at": "2026-10-03T03:06:05.187327+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T02:34:49.813602+00:00",
+      "fetched_at": "2026-10-03T03:06:05.187327+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -218,7 +218,7 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-02T21:05:00+00:00",
+          "published_at": "2026-10-02T20:16:00+00:00",
           "source": "TNT Sports",
           "source_url": "https://www.tntsports.co.uk",
           "title": "Pickford backs Kane for Ballon d'Or with another target beckoning - TNT Sports",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T02:34:49.813602+00:00",
+      "fetched_at": "2026-10-03T03:06:05.187327+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -602,9 +602,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-04-17T07:00:00+00:00",
-          "source": "Action Network",
+          "source": "actionnetwork.com",
           "source_url": "https://www.actionnetwork.com",
-          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - Action Network",
+          "title": "Will U.S. Invade Iran Before 2027? Polymarket Predictions - actionnetwork.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzM1X2dvU1NTTkY4M19Nd3hSeDAxM1g2MnpjTTBfdi1PbDVCa0t1UnNzeHc5YU5vVTR6Z0p1QmpvazZVQUpSZ21KRmpuRG03WExkVUlfcmpYOHgxeERvZmhJN0wtNEtRZnBsdHBQM0o2cWxZaThWblo2V0M5bFdUSVQxN3M5QlhkVldDSmpEeGhzN0Y2NDN5dnd3?oc=5"
         },
         {
@@ -809,7 +809,7 @@
     "677396": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T02:34:49.813602+00:00",
+      "fetched_at": "2026-10-03T03:06:05.187327+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -821,14 +821,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-05-10T07:00:00+00:00",
-          "source": "The Jerusalem Post",
-          "source_url": "https://www.jpost.com",
-          "title": "What is everyone misunderstanding about US intelligence report on Iran nuclear threat? - analysis - The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZGg2VGFtQnNicWo5dEpZZHROSUp5c2JaUTJJYU5PaG9jRHZvdHZ5MkZfRUczaFVoNzhld0pyWF9kSktrRmZOZGUxdERmVGpZdHJqNTB6bXB6OGVDRG81Q2lNSExCT0swaVE?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-04-29T07:00:00+00:00",
           "source": "WTTW News",
           "source_url": "https://news.wttw.com",
@@ -837,27 +829,35 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "The Times of India",
-          "source_url": "https://timesofindia.indiatimes.com",
-          "title": "WPL 2027: BCCI announces auction date, check retention deadline and season schedule - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOODgyNGV2Y3JSTjZnQlNfdEZmaFpidmx5T1RDWVlOWGJwbnJJOExqME5xQ05PRExXVnhDM3JUNjAxM3NhdVllOFJTeWF3V1BUTHg0TUhZNWwxV0NsaVVnb09rRXRHU2VaT3dXdzdtdGZLYThZSDJYMS1pNjZYTEtOcWtHNkFJd3hYaV92NFNrRHFxZ1AzSDktanJYTHhJUHQ3eEZMNVJCUzR0czRuZllFeUJwSVNhSHo3d0hReGwzSGozLTFYQjFGWl9DOFBlQnVBaTI0enNRc2VLYXV6QklKVVlETkc1QUx5Yks3eEx1U1FKVURlTWfSAfsBQVVfeXFMT3RScDJkbWIwajFnbE15TVVQbVpLUmJaTXByZk5lYmhVbzYycllYOEpLQWFvajJqMkhrWnpkUHNnYkZscHkydnJtOVAwak5VREZFRFU1UkVKVFNuOXpSbFVzaFpzZ2E0Nk82R1h2R3VoeVFZN1k4eWZxeWQxTFlwT2RLejFzM1d1aS1HenQ1Q2FKcHNVd2FhTTFFWDJVYVQzZ2IwNUFwMGtHeGRDVWk0dGdBWkpRMFNyUGZOWmRuWHNQejV4OHpnMFUtZWVWOW5yNWxfXzJycXFWeGxvVjI3cFNnLXN4N1VuY0dTSkdMV3lZYUxIRUxEblNaeWM?oc=5"
+          "published_at": "2026-05-10T07:00:00+00:00",
+          "source": "The Jerusalem Post",
+          "source_url": "https://www.jpost.com",
+          "title": "What is everyone misunderstanding about US intelligence report on Iran nuclear threat? - analysis - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZGg2VGFtQnNicWo5dEpZZHROSUp5c2JaUTJJYU5PaG9jRHZvdHZ5MkZfRUczaFVoNzhld0pyWF9kSktrRmZOZGUxdERmVGpZdHJqNTB6bXB6OGVDRG81Q2lNSExCT0swaVE?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-29T07:00:00+00:00",
-          "source": "CBC",
-          "source_url": "https://www.cbc.ca",
-          "title": "Hegseth accused of 'lying to the American public' about war in Iran during tense congressional hearing - CBC",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRElVSzI0TWFCVUFZRTJKbXhma2kzTW1mdEJuc1JCX1RyOE1mOXBxb25lYXBXMEFVbXhqV0pEa01HNHhuWVh5dWhLSGg4Q0NCU3EwQWNzel9TTk11aGdnb2FVYVZSazQ4UmVWRHkzWTZ0QTNfRlV2Z2J6NmJEYUR3VGV3?oc=5"
+          "published_at": "2026-03-03T08:00:00+00:00",
+          "source": "Yahoo Finance",
+          "source_url": "https://finance.yahoo.com",
+          "title": "Polymarket Pulls Nuclear Detonation Market Following Public Backlash - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2UteXUxeE9yaHRUUEVwR1ZzY2RjUkpVelltcDFUc1hpUm1iSnRNVkdXcXdEY2lQTkdTMDI0WmJOa0Y4d3hfemRJVEk5WlpvZ3U5WE9TUWVEUVV3WlhRaFpUa0kwTVpraFNrZ3o4WFNfVGZHT29RT1ZoNW9vZG52bnU4MldJT3ducG4tcFF3OG4zUQ?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-17T07:00:00+00:00",
-          "source": "Newsweek",
-          "source_url": "https://www.newsweek.com",
-          "title": "Fact Check: Did Pope Leo Say Iran Can Have Nuclear Weapon? - Newsweek",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGlYZ1F3MFBaNFBBTnFsZ3F3b2hhQTN4WTdOTjRhZFhOd1FJS29ueXFUeGc2QUNlNVRXdW42OGgwZjAydFhLUkM5TDR3WGZKOWRYcFFySXp4UlFvMVFzUkdDdjNtWXdhYXZxRjlLYWZYdVp0MVBLekVvZGRLb05wcG9yal9MVi1sZ1FoY2RZRC1VdTlB?oc=5"
+          "published_at": "2026-03-04T08:00:00+00:00",
+          "source": "businessinsider.com",
+          "source_url": "https://www.businessinsider.com",
+          "title": "Polymarket Takes Down Nuclear Detonation Bet After Online Backlash - businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkIwR01wQnJrZ2hySnRxZXgyWWhtVnA1ZlktZEpodF9xbUMtYk5DSmZwQUhmTVpoMEZCUXo0aERiRWFlZTYwQzZKQ0pwelE5TGFhX296ZUFiODl4ZXZRVzZzVndMdGJPeXlfS2x6QURfQVc4UE9abXdMN05WTE03SDlFRl9KZ0ZYTnZiOUNob0kwcXE1dFVINUxtenQ?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-03-04T08:00:00+00:00",
+          "source": "The Block",
+          "source_url": "https://www.theblock.co",
+          "title": "Polymarket removes nuclear detonation market after backlash - The Block",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk9vaVZCMHU0N21maGpNWk11NDY5eFJXWWN1b0RsVFhIN0lZTGpQVUVIRE9qRVR0cTdPWGhyVE9SVHNqMnRfVk9BaFQ2S1V6ZEVzNk9iNmpqWEhONHRBT3BFM1dvYm8yRUNfc2Fmajg0Y25OOXFXRmFMRUY5Ykw2UnJHQ001bWVRa0dKcjB3aUZla2tUUFZvUl81RUtKNkgyZVRsMA?oc=5"
         }
       ],
       "market_id": "677396",
