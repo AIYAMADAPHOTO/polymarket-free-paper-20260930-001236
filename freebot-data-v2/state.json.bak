@@ -3,17 +3,9 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "45.553788545",
-  "positions": {
-    "665374:NO": {
-      "market_id": "665374",
-      "market_title": "Will the U.S. invade Iran before 2027?",
-      "outcome": "NO",
-      "quantity": "3.461534",
-      "cost_basis": "2.90768856"
-    }
-  },
-  "realized_pnl": "-1.538522895",
+  "cash_balance": "48.426861765",
+  "positions": {},
+  "realized_pnl": "-1.573138235",
   "trades": [
     {
       "trade_id": 1,
@@ -1659,6 +1651,57 @@
       "gross_pnl": "0",
       "net_pnl": "0",
       "return_pct": null
+    },
+    {
+      "trade_id": 32,
+      "timestamp": "2026-10-03T09:42:23.248423+00:00",
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "side": "SELL",
+      "quantity": "3.461534",
+      "requested_price": "0.830000000000000000",
+      "simulated_fill_price": "0.830000000000000000",
+      "spread": "0.01",
+      "fee": "0",
+      "fee_status": "free",
+      "fee_source": "Gamma feesEnabled=false",
+      "fee_rate": "0",
+      "slippage": "0.00",
+      "position_before": "3.461534",
+      "position_after": "0.000000",
+      "cash_before": "45.553788545",
+      "cash_after": "48.426861765",
+      "realized_pnl": "-0.03461534",
+      "reason": "PAPER exit: fair_value_edge_closed",
+      "strategy": "original_post_free_fair_value_kelly",
+      "exit_reason": "fair_value_edge_closed",
+      "risk_check_result": "reduce_only",
+      "fair_probability": "0.85",
+      "model_confidence": "0.8",
+      "source_quality": "0.8",
+      "edge": "0.02",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "exit_bid": "0.83",
+      "exit_ask": "0.84",
+      "exit_spread": "0.01",
+      "requested_quantity": "3.461534",
+      "fill_status": "filled",
+      "fill_notional": "2.87307322",
+      "fill_legs": [
+        [
+          "0.83",
+          "3.461534"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-03T09:42:23.245938+00:00",
+      "book_timestamp": "1791020541315",
+      "gross_pnl": "-0.03461534",
+      "net_pnl": "-0.03461534",
+      "return_pct": "-1.19047619047619047619047619047619047619047619047619047619048"
     }
   ],
   "test_run": null,
@@ -1703,19 +1746,9 @@
       "ai_temperature": "0.10",
       "billing_disabled_confirmed": true
     },
-    "positions_meta": {
-      "665374:NO": {
-        "entry_time": "2026-10-03T09:00:46.807206+00:00",
-        "entry_price": "0.840000000000000000",
-        "entry_cost": "2.90768856",
-        "fair_probability": "0.95",
-        "model_confidence": "0.8",
-        "edge": "0.11",
-        "ai_model": "gemini-3.5-flash-lite"
-      }
-    },
+    "positions_meta": {},
     "last_trade_by_market": {
-      "665374": "2026-10-03T09:00:46.807206+00:00",
+      "665374": "2026-10-03T09:42:23.248423+00:00",
       "678445": "2026-10-02T18:13:48.583633+00:00",
       "677026": "2026-10-02T02:21:13.783909+00:00",
       "616902": "2026-10-02T11:14:21.030116+00:00"
@@ -1725,16 +1758,16 @@
       "starting_equity": "48.633337885"
     },
     "counters": {
-      "cycles": 272,
-      "markets_scanned": 279888,
-      "prefilter_selected": 10880,
-      "political_excluded": 163472,
-      "ai_evaluations": 10200,
-      "ai_skips": 7172,
+      "cycles": 273,
+      "markets_scanned": 280917,
+      "prefilter_selected": 10920,
+      "political_excluded": 164073,
+      "ai_evaluations": 10240,
+      "ai_skips": 7204,
       "edge_candidates": 16,
       "entries": 16,
-      "exits": 15,
-      "rejections": 74
+      "exits": 16,
+      "rejections": 75
     },
     "errors": [
       {
@@ -1746,5 +1779,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "5d16de38f4d815d380d984f6510a7c5d062607b70c980856f3695fbf5b927a35"
+  "checksum": "c6241fc4ad5437aa696262c8482ac57305c2583ae115fa00bddec0b83c610ce7"
 }
