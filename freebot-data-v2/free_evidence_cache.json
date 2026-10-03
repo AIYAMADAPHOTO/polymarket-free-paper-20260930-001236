@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T04:29:39.262514+00:00",
+      "fetched_at": "2026-10-03T05:00:58.481331+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -692,6 +692,63 @@
       "market_id": "665513",
       "query": "Friedrich Merz out as Chancellor of Germany before December 31, 2026?"
     },
+    "665727": {
+      "category_hint": "general",
+      "errors": [],
+      "fetched_at": "2026-10-03T05:00:58.481331+00:00",
+      "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T15:08:16+00:00",
+          "source": "thecradle.co",
+          "source_url": "https://thecradle.co",
+          "title": "Iran’s NPT debate moves beyond parliament - thecradle.co",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IX09zX1hlUmVFS2V3N2dZWXVuS0VheFktRWpoNXRTWHROcGZsZ1J6cUtlcXFKZURJV2dKUE1neUxkWU8wblJwRHpxQlI1WUtJOXhiWnZYUkdsdFNFVF82LVdMMWdiUjVYYTc2NFJwNGJPVzBBOGl3ek5R?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "source": "Iran International",
+          "source_url": "https://www.iranintl.com",
+          "title": "Trump says he will hold meetings on Iran war Monday - Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jZmpuOUlEcTFvcmMxVXo4RUZ3RndxN0s5U3NPUXNVMzNRaXFrYmVqY09JS3lCYmlUZkhJLXpHc2JrdUhzWFZtYjd6MEx1bnRadnc?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T13:28:56+00:00",
+          "source": "debuglies.com",
+          "source_url": "https://debuglies.com",
+          "title": "Russia’s Jet-Gerans: From Energy Strikes to Transmission Warfare? - debuglies.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0hXRVlWRjZSaEpUSW50NUlTYXBkaHBTVFVtRXhkRGVDSGZBanlwa0poSUVCcUlfZVpoeVpqdm9ETUFYYzhJeGFrcFpXUVFVM25SSkpFMHYzQnJfaFF5M2RqdnY1MWRUbWpFcjNPVTVXdVgtdk5kSk1Od1VMd09hbFdSb1hBY3pab3pmLWk0cnFOS19Rb0d4WDNpa0o?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-03-26T07:00:00+00:00",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "title": "Iran hardliners ramp up calls for a nuclear bomb, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjZEejhxWTZxaHV0b0lHaWtnQjV0aDAtcGpiQ3FJVm9PNWF4Q2lsTFdxUjlWODNLRVhydHBEVDY2dDBoWUFfRnY1c0l3SHlLazB3LXlJeVUyR254cl9KbkZiaGotel9ONHd3UEpoMTNjSE8zMmZnVjNmckI2TURMN2ROcWJJLXFRRFhHXzZkSl9uQlVBdktZX1lDLUJaSjd2b09kWnZkWVI2LUpBOVpTS3U5MA?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-05-24T07:00:00+00:00",
+          "source": "newscord.org",
+          "source_url": "https://newscord.org",
+          "title": "Trump Tells Republicans 'Don’t Listen to the Losers' Over Iran 60-Day Ceasefire Deal: how 10 outlets split - newscord.org",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXp0cmpBX2tVX2RuYUZjN25yNkR2U1NERmdNUWhYaHNtRGhZRnVHTTR2b2tManZTUENEbjhLM0VWeDFfeTVmMXFibXFsd19QNU1LSkFoUjhxaXNlcld6Y3FkZm1NOTRTaVp0NkV0QjY2cmU5V0xVR0oxYzZndHA4Mkdqa1BLMmtzQnFCREVxVjhxcVNHam5kdThQaEFrM1c1b21rYlJ4djl5eC0zcmYtS0p2S3U5Q29tMmIyWVNsQkhiSU5YZm1jcTJmRnJTWE1iZzJRSU5DWEpVZ1JxT1Z4aW9rWnNtWUlBUUE?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "source": "Iran International",
+          "source_url": "https://www.iranintl.com",
+          "title": "Iranian hardliners talk up nuclear weapons before Pezeshkian's UN trip - Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Sk4tOWhEUk9aUDRwX0J5Ri1RVC1uVEhTMzlKd3ltUEphb0V1Zlh3a2Q5cnlhUzYzYTZ4bGRjcUdmVjhweDNubWY0WGVuX2dUb0E?oc=5"
+        }
+      ],
+      "market_id": "665727",
+      "query": "Will Iran withdraw from the NPT before 2027?"
+    },
     "676739": {
       "category_hint": "general",
       "errors": [],
@@ -752,7 +809,7 @@
     "676741": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T04:29:39.262514+00:00",
+      "fetched_at": "2026-10-03T05:00:58.481331+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -781,9 +838,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-28T07:00:00+00:00",
-          "source": "cryptoslate.com",
+          "source": "CryptoSlate",
           "source_url": "https://cryptoslate.com",
-          "title": "Largest Company end of August Final Result & Prediction Market - cryptoslate.com",
+          "title": "Largest Company end of August Final Result & Prediction Market - CryptoSlate",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12aV9KMFlzTHhQODdodDQwYW13V3g1bzgzX1VVRE15MUZkNlZIUDYya0NYLWlQdzBuUU9yNzhNMzhmdkxoT3p3SW9QOTFlSk11dE50UUV0dXg0a0tYeW4ycWhYRkVvd0xGWGQzbk1SYW1EU0xENkpDM25icmZZQQ?oc=5"
         },
         {
