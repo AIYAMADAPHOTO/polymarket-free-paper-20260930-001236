@@ -1546,12 +1546,12 @@
       "starting_equity": "48.633337885"
     },
     "counters": {
-      "cycles": 249,
-      "markets_scanned": 256221,
-      "prefilter_selected": 9960,
-      "political_excluded": 149649,
-      "ai_evaluations": 9240,
-      "ai_skips": 6524,
+      "cycles": 250,
+      "markets_scanned": 257250,
+      "prefilter_selected": 10000,
+      "political_excluded": 150250,
+      "ai_evaluations": 9280,
+      "ai_skips": 6556,
       "edge_candidates": 14,
       "entries": 14,
       "exits": 14,
@@ -1567,5 +1567,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "bc8362b49e68582d79944fb4d69db21407676506fbc2037c5dca8e9bcd4c3936"
+  "checksum": "daceb35a682af9827814a114e8949f187e901b0c865d49f9b73e6ed1abc14fc9"
 }
