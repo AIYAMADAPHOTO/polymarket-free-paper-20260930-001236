@@ -3,7 +3,7 @@
   "cash": "48.461477105",
   "entries": 0,
   "equity": "48.461477105",
-  "evidence_fresh_fetches": 3,
+  "evidence_fresh_fetches": 2,
   "evidence_markets": 8,
   "exits": 0,
   "open_positions": 0,
@@ -17,5 +17,5 @@
     "requested_limit": 1000
   },
   "selected_for_ai": 40,
-  "timestamp": "2026-10-03T08:19:18.383815+00:00"
+  "timestamp": "2026-10-03T08:29:42.180469+00:00"
 }

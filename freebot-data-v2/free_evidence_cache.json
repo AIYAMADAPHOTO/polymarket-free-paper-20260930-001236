@@ -402,7 +402,7 @@
     "622738": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:58:11.715764+00:00",
+      "fetched_at": "2026-10-03T08:29:33.774620+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -752,7 +752,7 @@
     "676739": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:58:11.715764+00:00",
+      "fetched_at": "2026-10-03T08:29:33.774620+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -780,14 +780,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-06-16T07:00:00+00:00",
-          "source": "CryptoSlate",
-          "source_url": "https://cryptoslate.com",
-          "title": "Largest Company end of June Final Result & Prediction Market - CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRElGcmRpcXlBaWxrblliMEhOdmlNaGtBVEpKdlZzV3prUDhWRjFIaGRteG1nSy1UbjhkY3dZYWtJX1JMS0d5bkU1ZEpKU3FyeHFfTmt1S1ExNE00ajdENXVGWmp5Nk85aEx6NE4zYzNzTjgyQ2g5ZWhINjhWMlVqaQ?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2025-12-31T08:00:00+00:00",
           "source": "The Motley Fool",
           "source_url": "https://www.fool.com",
@@ -801,6 +793,14 @@
           "source_url": "https://247wallst.com",
           "title": "Buffett’s Biggest Bet Just Dethroned Nvidia As the Largest Company In the World - 24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeElrSkJqb2tmUDR0dVFxMkJERlFrZUR1UXlqVmstUXNubG1tU18yaGJYSXA0TlVhYldsUFZnRUtnZTF0LWN0QTExcmJGTVJPeUVoY0Fua2pFOU1yaERyWkVISm1IYUROV0lfSndTRms5N28wZUE1R0YzMDZEU1k4V1VhUHRxWENEOTRhRWhLb3lTeWR1SE5nMzl4ZWwyNmlSN0JvNTkzNzlUQkpFT2hXMUdEU1l3cG85MTRUWklIdw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-01-27T21:39:41+00:00",
+          "source": "Voronoi by Visual Capitalist",
+          "source_url": "https://www.voronoiapp.com",
+          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - Voronoi by Visual Capitalist",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWc5cnJINXJDVFVKYmJPd3BTVFBSZFpSWm1Dbm5nNlJlN3laZ19fc1J3SzZJZzBnV3RRRzNwRWJLdlcwQnd5cThBdmh2ejlQZUdad2dkU1FSWU9PZW1YUzlsdDRUaUJTS1Y0X1BQTzBDZWw1UHNha1VfZU4wZXZ1MEo3RTlkQUVQYnRFVEN1ZC1tYjRDWWtGYXJNOFEzeUpuaXVZdzl5c3M2SXhsajRNXzhpalNQMnRYY2VFdnhMTHk?oc=5"
         }
       ],
       "market_id": "676739",
