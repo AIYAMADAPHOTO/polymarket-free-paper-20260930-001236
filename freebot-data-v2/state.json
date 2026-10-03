@@ -1330,20 +1330,20 @@
       "616902": "2026-10-02T11:14:21.030116+00:00"
     },
     "day": {
-      "date": "2026-10-02",
-      "starting_equity": "49.86141135"
+      "date": "2026-10-03",
+      "starting_equity": "48.633337885"
     },
     "counters": {
-      "cycles": 221,
-      "markets_scanned": 227409,
-      "prefilter_selected": 8840,
-      "political_excluded": 132821,
-      "ai_evaluations": 8200,
-      "ai_skips": 5754,
+      "cycles": 222,
+      "markets_scanned": 228438,
+      "prefilter_selected": 8880,
+      "political_excluded": 133422,
+      "ai_evaluations": 8240,
+      "ai_skips": 5787,
       "edge_candidates": 12,
       "entries": 12,
       "exits": 12,
-      "rejections": 56
+      "rejections": 57
     },
     "errors": [
       {
@@ -1355,5 +1355,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "30b7fd6c6fac439d247d47cd4a1f4e26ce1c087a78235b2f24fb81b0398a2075"
+  "checksum": "127fcc2a15e01664806ceb2070383cee9f7a9c0cb21e323982aaee0b4f9cd451"
 }
