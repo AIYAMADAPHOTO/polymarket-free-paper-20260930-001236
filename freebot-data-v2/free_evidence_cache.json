@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T01:21:50.345336+00:00",
+      "fetched_at": "2026-10-03T01:53:04.649243+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -923,7 +923,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-03T01:21:50.345336+00:00",
+      "fetched_at": "2026-10-03T01:53:04.649243+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
