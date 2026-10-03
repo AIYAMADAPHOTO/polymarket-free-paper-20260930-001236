@@ -3,8 +3,16 @@
   "mode": "PAPER_ONLY",
   "starting_balance": "50.00",
   "start_time": "2026-10-01T10:17:27.862196+00:00",
-  "cash_balance": "48.496117185",
-  "positions": {},
+  "cash_balance": "45.586350465",
+  "positions": {
+    "665374:NO": {
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "quantity": "3.464008",
+      "cost_basis": "2.90976672"
+    }
+  },
   "realized_pnl": "-1.503882815",
   "trades": [
     {
@@ -1490,6 +1498,61 @@
       "gross_pnl": "-0.06856188",
       "net_pnl": "-0.06856188",
       "return_pct": "-2.35294117647058823529411764705882352941176470588235294117647"
+    },
+    {
+      "trade_id": 29,
+      "timestamp": "2026-10-03T06:14:07.198514+00:00",
+      "market_id": "665374",
+      "market_title": "Will the U.S. invade Iran before 2027?",
+      "outcome": "NO",
+      "side": "BUY",
+      "quantity": "3.464008",
+      "requested_price": "0.86",
+      "simulated_fill_price": "0.840000000000000000",
+      "spread": "0.01",
+      "fee": "0",
+      "fee_status": "free",
+      "fee_source": "Gamma feesEnabled=false",
+      "fee_rate": "0",
+      "slippage": "0.00",
+      "position_before": "0",
+      "position_after": "3.464008",
+      "cash_before": "48.496117185",
+      "cash_after": "45.586350465",
+      "realized_pnl": "0",
+      "reason": "PAPER fair-value edge >= 8%; Kelly capped at 6%",
+      "strategy": "original_post_free_fair_value_kelly",
+      "entry_reason": "fair_value_edge>=8pct_and_kelly",
+      "risk_check_result": "allowed",
+      "risk_budget": "2.90976703110",
+      "fair_probability": "0.95",
+      "model_confidence": "0.8",
+      "source_quality": "0.8",
+      "edge": "0.11",
+      "kelly_fraction": "0.06",
+      "ai_model": "gemini-3.5-flash-lite",
+      "grounding_sources": "[]",
+      "free_strategy_version": "1",
+      "entry_bid": "0.83",
+      "entry_ask": "0.84",
+      "entry_spread": "0.01",
+      "liquidity": "1105902.8902",
+      "volume": "71248566.525609",
+      "requested_quantity": "3.464008",
+      "fill_status": "filled",
+      "fill_notional": "2.90976672",
+      "fill_legs": [
+        [
+          "0.84",
+          "3.464008"
+        ]
+      ],
+      "slippage_cost": "0E-8",
+      "quote_timestamp": "2026-10-03T06:14:07.066174+00:00",
+      "book_timestamp": "1791008046050",
+      "gross_pnl": "0",
+      "net_pnl": "0",
+      "return_pct": null
     }
   ],
   "test_run": null,
@@ -1534,9 +1597,19 @@
       "ai_temperature": "0.10",
       "billing_disabled_confirmed": true
     },
-    "positions_meta": {},
+    "positions_meta": {
+      "665374:NO": {
+        "entry_time": "2026-10-03T06:14:07.198514+00:00",
+        "entry_price": "0.840000000000000000",
+        "entry_cost": "2.90976672",
+        "fair_probability": "0.95",
+        "model_confidence": "0.8",
+        "edge": "0.11",
+        "ai_model": "gemini-3.5-flash-lite"
+      }
+    },
     "last_trade_by_market": {
-      "665374": "2026-10-03T04:50:43.501897+00:00",
+      "665374": "2026-10-03T06:14:07.198514+00:00",
       "678445": "2026-10-02T18:13:48.583633+00:00",
       "677026": "2026-10-02T02:21:13.783909+00:00",
       "616902": "2026-10-02T11:14:21.030116+00:00"
@@ -1546,14 +1619,14 @@
       "starting_equity": "48.633337885"
     },
     "counters": {
-      "cycles": 252,
-      "markets_scanned": 259308,
-      "prefilter_selected": 10080,
-      "political_excluded": 151452,
-      "ai_evaluations": 9400,
-      "ai_skips": 6653,
-      "edge_candidates": 14,
-      "entries": 14,
+      "cycles": 253,
+      "markets_scanned": 260337,
+      "prefilter_selected": 10120,
+      "political_excluded": 152053,
+      "ai_evaluations": 9440,
+      "ai_skips": 6685,
+      "edge_candidates": 15,
+      "entries": 15,
       "exits": 14,
       "rejections": 67
     },
@@ -1567,5 +1640,5 @@
     "last_model": "gemini-3.5-flash-lite",
     "last_grounding_sources": []
   },
-  "checksum": "fa1a140cc4a536882b088997ce976ff64152e9e0828b70b9958ad42145801136"
+  "checksum": "b063dd21327da8ca922c586b27fbfcb1de8227c6a39eaa50a4a2b8495834b4e7"
 }
