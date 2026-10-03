@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T04:08:40.012682+00:00",
+      "fetched_at": "2026-10-03T04:40:05.797781+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -161,11 +161,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-29T05:53:56+00:00",
-          "source": "Diario AS",
-          "source_url": "https://en.as.com",
-          "title": "Ballon d’Or 2026: the winner has been chosen - Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZoN3RadWwwMnlNSm45OWh6d04yRUlWUWlkMkJIcXRyejY3WmFjSVo1bHdwdmhGOHdmcmgwLWI0S1FSYjdoUkluYzc3aEMyYjYxaHp2RFFJeU9xU2doaE9uNVpCUWo5UGw1VUQweDBhVDJUQXBUMThyZU03TGs1SmpQY1jSAZgBQVVfeXFMUGZVNDBkREhlN2JsVFBmOGt0SmZfVjJjZjF1MXd4ZWVzLVNfMEpBR0htWVQ2OFBVTml5UDB5UWxHeV96TV9IYmpXR09uN3UyRUJEOVBLUUN4TnZBblJMWE05aHdZamNKWDNXMHVPMFBTV3pBWG9VZkVFaV80UGhiOWx0cGpTQnBYcnZDTlp5ZHA4MThnSlZYWDA?oc=5"
+          "published_at": "2026-10-03T00:06:56+00:00",
+          "source": "TribalFootball",
+          "source_url": "https://www.tribalfootball.com",
+          "title": "Yamal makes candid admission about Ballon d'Or hopes - TribalFootball",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmkwNEx4RjVMd3FaZmJyLTdiVFRxdmhtVkhsVXZlamk3TzZlR0JybGdsTVEzMnVIaVIyWXZOT2hwelJVSFBMbkdmd3dNT1FhanFBUHcya1BmdUpjd280R0NVbVlPcU8wdUc4RHhvMTlnaTRnNGJwcVg4Q1ZYbEdyTmxnTFdkWGlDOVFHQ3NDV1VtV2tFOXR4OTlRVmpaN05LbUY5d3FyUVdpS3BtNmJBLWgzYmxOTDZzLUthSnhlWjZTY0N6dmxzVmNNYkVwcnFESklKTUdLT1JNZw?oc=5"
         }
       ],
       "market_id": "608545",
@@ -174,7 +174,7 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T04:08:40.012682+00:00",
+      "fetched_at": "2026-10-03T04:40:05.797781+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T04:08:40.012682+00:00",
+      "fetched_at": "2026-10-03T04:40:05.797781+00:00",
       "items": [
         {
           "kind": "news_rss",
