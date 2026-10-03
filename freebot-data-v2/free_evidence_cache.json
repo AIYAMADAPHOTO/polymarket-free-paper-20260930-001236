@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T03:58:13.190374+00:00",
+      "fetched_at": "2026-10-03T04:29:39.262514+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -752,7 +752,7 @@
     "676741": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T03:58:13.190374+00:00",
+      "fetched_at": "2026-10-03T04:29:39.262514+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -765,9 +765,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-14T07:00:00+00:00",
-          "source": "247wallst.com",
+          "source": "24/7 Wall St.",
           "source_url": "https://247wallst.com",
-          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 247wallst.com",
+          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUFTaHFlYkdMdkFRa2p0S2NHcllfLXVrZnluaHFQVHVrVkJDbV9JUmNudmxEY1lPS01MbHpCaHNiaUNmX25kYWpUYjQzcnYyaFZVLTRFQ0swX29Bd3Z1SDFkUnlmTFUxTGlvUGNkbDhuWml2NmNaV20weHhuR0NFNkN3dlNiVW1JcENSZlNzNktwT1N3VDBnZUdzbFlpaUw5dldqVVJ6QlQxQVkySWRyd2gyYzQ3OVNuUThBZ25pM2JUQ0NOX2JtZzZ1NWU5SVUyVjNxY09TMA?oc=5"
         },
         {
@@ -781,9 +781,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-28T07:00:00+00:00",
-          "source": "CryptoSlate",
+          "source": "cryptoslate.com",
           "source_url": "https://cryptoslate.com",
-          "title": "Largest Company end of August Final Result & Prediction Market - CryptoSlate",
+          "title": "Largest Company end of August Final Result & Prediction Market - cryptoslate.com",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12aV9KMFlzTHhQODdodDQwYW13V3g1bzgzX1VVRE15MUZkNlZIUDYya0NYLWlQdzBuUU9yNzhNMzhmdkxoT3p3SW9QOTFlSk11dE50UUV0dXg0a0tYeW4ycWhYRkVvd0xGWGQzbk1SYW1EU0xENkpDM25icmZZQQ?oc=5"
         },
         {
@@ -980,7 +980,7 @@
     "681144": {
       "category_hint": "weather",
       "errors": [],
-      "fetched_at": "2026-10-03T03:58:13.190374+00:00",
+      "fetched_at": "2026-10-03T04:29:39.262514+00:00",
       "items": [],
       "market_id": "681144",
       "query": "Will Ukraine agree to cede territory to Russia before 2027? NOAA NWS forecast weather"
