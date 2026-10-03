@@ -402,7 +402,7 @@
     "622738": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T23:37:40.729167+00:00",
+      "fetched_at": "2026-10-03T00:08:46.098176+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -695,7 +695,7 @@
     "676739": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T23:37:40.729167+00:00",
+      "fetched_at": "2026-10-03T00:08:46.098176+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -739,11 +739,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-04-01T07:00:00+00:00",
-          "source": "Global Finance Magazine",
-          "source_url": "https://gfmag.com",
-          "title": "World’s Largest Companies In 2026 - Global Finance Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xTEhtakMwV2dPaFZmZG1sdmZUSkk3STQtczdhcm10WHJZeE1jTENyUEoyd3ZBaWg1TGNCVEYyaERSeFdoWnE0TnpEVVdySWo3NjJJTkJoeUxZX2htcDZLaV9n?oc=5"
+          "published_at": "2026-01-27T21:39:41+00:00",
+          "source": "Voronoi by Visual Capitalist",
+          "source_url": "https://www.voronoiapp.com",
+          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - Voronoi by Visual Capitalist",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWc5cnJINXJDVFVKYmJPd3BTVFBSZFpSWm1Dbm5nNlJlN3laZ19fc1J3SzZJZzBnV3RRRzNwRWJLdlcwQnd5cThBdmh2ejlQZUdad2dkU1FSWU9PZW1YUzlsdDRUaUJTS1Y0X1BQTzBDZWw1UHNha1VfZU4wZXZ1MEo3RTlkQUVQYnRFVEN1ZC1tYjRDWWtGYXJNOFEzeUpuaXVZdzl5c3M2SXhsajRNXzhpalNQMnRYY2VFdnhMTHk?oc=5"
         }
       ],
       "market_id": "676739",
