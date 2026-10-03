@@ -117,7 +117,7 @@
     "608545": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T06:13:57.424649+00:00",
+      "fetched_at": "2026-10-03T06:45:28.359360+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -153,19 +153,19 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-10-03T06:00:00+00:00",
+          "source": "Yahoo Sports",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Real Madrid star jokes about choosing between Mbappe and Lamine Yamal for Ballon d’Or: ‘No matter who wins…’ - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQklVU2lETldWUUlCU3NFbzNfbm93U1d2S3RSUVFrd1ZYRWs4OHFNY0xUY193d0YyQmZ0TWJlN3hEMktyQ0czalBZTXVUN2NYV3l1QlFfZ3gtMG5rbUxXMXo2cHhiaUdJVm1ON1FkakZ5UGw1WmJ1UFduMTNCWmJ2eXVnS2VEbkE?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-30T13:17:40+00:00",
           "source": "voz.us",
           "source_url": "https://voz.us",
           "title": "Ballon d'Or: The battle of Lamine Yamal, Mbappé, and Kane - voz.us",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTZLZWFidTZMOVd3Q252ZXBHYUM1U0QzdG5jS1Q5VFdydTBsVjZPY3JLMFFDTjhIWTVCUjlCa0dmTldQSkZQT2pyVGVySTIzalVKa0I4Q01QX1Juc0ZDS2lKUnp0cm5UamNtSnA4Sm5IM0RDZFVYN2hLYTYyR1pOM3hWQnBURl9DV3hENnpZcVl6VTVlU2dRdWpCZ0tvWWs?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-03T00:06:56+00:00",
-          "source": "TribalFootball",
-          "source_url": "https://www.tribalfootball.com",
-          "title": "Yamal makes candid admission about Ballon d'Or hopes - TribalFootball",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmkwNEx4RjVMd3FaZmJyLTdiVFRxdmhtVkhsVXZlamk3TzZlR0JybGdsTVEzMnVIaVIyWXZOT2hwelJVSFBMbkdmd3dNT1FhanFBUHcya1BmdUpjd280R0NVbVlPcU8wdUc4RHhvMTlnaTRnNGJwcVg4Q1ZYbEdyTmxnTFdkWGlDOVFHQ3NDV1VtV2tFOXR4OTlRVmpaN05LbUY5d3FyUVdpS3BtNmJBLWgzYmxOTDZzLUthSnhlWjZTY0N6dmxzVmNNYkVwcnFESklKTUdLT1JNZw?oc=5"
         }
       ],
       "market_id": "608545",
@@ -174,16 +174,8 @@
     "608547": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T06:13:57.424649+00:00",
+      "fetched_at": "2026-10-03T06:45:28.359360+00:00",
       "items": [
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-02T22:30:00+00:00",
-          "source": "Bavarian Football Works",
-          "source_url": "https://www.bavarianfootballworks.com",
-          "title": "Harry Kane grateful for Bayern Munich’s support for him in fight to win Ballon d’Or - Bavarian Football Works",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeDdmZmJGMkl6VnNnbmo5NmtCNzZaNzQ4T3JhREppZnFueUNGcmdYZ2I4a20ybkJCaUlCR196T2VsRFNaZXNVejhheWlEb3ZxdENScnAtR01wR2t1ZHVuTlZwWjBMTjlPdzJMbTJkdFl0QkpOeFpGcmZVUXNsLUNWeUlja1VrdkRHV2ZydHh3T2JEcFNzUFZUWGNCV0NCWHFoQjBjTmMwdGtSd1RucTN4QnZ1X2NSU0FPNmR4Mkx6ODhTZ0FNZ3pZUkhabVFpeFFVLXZmbkRzNS15QkpxVndlZkhWU2NSX19hTTVsWWNaRlNPY2RPS2Rn?oc=5"
-        },
         {
           "kind": "news_rss",
           "published_at": "2026-10-02T17:30:00+00:00",
@@ -191,6 +183,14 @@
           "source_url": "https://sports.yahoo.com",
           "title": "Thomas Tuchel heaps praise onto ‘complete package’ Harry Kane - Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0Z2Wlh3R0dxT2FnRC1XazFoOTBpTk1heUV6V3d5OVhoV3FEZ3g4aHlZem1kYWlfZTFabGllbzExNFpZLWxSU3o5SGRwYjFjLV9fMkk4eFVBb2xVeTBiQ3BwWUhhSmdPeFJmZmNFX1VhMTdzRHVTVWZEWnkzVDZ0dlZoeXY3c2s?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-02T22:30:00+00:00",
+          "source": "Bavarian Football Works",
+          "source_url": "https://www.bavarianfootballworks.com",
+          "title": "Harry Kane grateful for Bayern Munich’s support for him in fight to win Ballon d’Or - Bavarian Football Works",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeDdmZmJGMkl6VnNnbmo5NmtCNzZaNzQ4T3JhREppZnFueUNGcmdYZ2I4a20ybkJCaUlCR196T2VsRFNaZXNVejhheWlEb3ZxdENScnAtR01wR2t1ZHVuTlZwWjBMTjlPdzJMbTJkdFl0QkpOeFpGcmZVUXNsLUNWeUlja1VrdkRHV2ZydHh3T2JEcFNzUFZUWGNCV0NCWHFoQjBjTmMwdGtSd1RucTN4QnZ1X2NSU0FPNmR4Mkx6ODhTZ0FNZ3pZUkhabVFpeFFVLXZmbkRzNS15QkpxVndlZkhWU2NSX19hTTVsWWNaRlNPY2RPS2Rn?oc=5"
         },
         {
           "kind": "news_rss",
@@ -581,7 +581,7 @@
     "665374": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T06:13:57.424649+00:00",
+      "fetched_at": "2026-10-03T06:45:28.359360+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -594,10 +594,18 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-08T07:00:00+00:00",
-          "source": "Benzinga",
+          "source": "benzinga.com",
           "source_url": "https://www.benzinga.com",
-          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - Benzinga",
+          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over' - benzinga.com",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2p6enRWYzZ3RUtjRERxY2ZnSWhmRkZGbFNvNUkwVVpVRkd5Q25CQ0xaYmk1R0c3Q2FsdGZJR3ItZ3JTYzZTSUZ5dllJellxUUEzQ1N0VDhteGMyOFQtbXk4eWN6WVk2NXEtQnlJeUpQcktWMlh2cGNua2xsT25IZXB1dEpNLUxVVVozZVFoa0lROUlFbUxWQkZmLVVweTMtR21nTkZzZ0QxNjFrLVZhSkl2QnJKZnRTMUZGNVBiRy16c1NhQWE3WHIwVW03aE0?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-04-05T07:00:00+00:00",
+          "source": "TradingView",
+          "source_url": "https://www.tradingview.com",
+          "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNl9ORHlQS21Td3VrOG53dW9FQXFTUXNwbGt3WjhLLXlHSTFvLW9tYmx1S05sUU9tSVZaUFg1ZDJYc3NxVzVzYUhwUVFLMEV2UTZqamZmU1ozZHI2UVQ1S3oyMHpoZWlLM3lvbDctMUtRRW5sM2hEVW5DZUZONHU5aXZxZFFqZWRTUXBIWm9yRm1SV1hRcHR0cUVSdURkZ1NCNTAyZmRZZTRYNzc3VGhYb0xNZS1rYzdoSGdMbHM5RVVqcHJnM093cnRIdWlxYkFwajFZ?oc=5"
         },
         {
           "kind": "news_rss",
@@ -609,27 +617,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-07-18T07:00:00+00:00",
-          "source": "CryptoSlate",
-          "source_url": "https://cryptoslate.com",
-          "title": "US x Iran Effective Ceasefire date Final Result & Prediction Market - CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVRsTWJ0WDNrWEdyR3dUYjZvdEVENERQUm83UzFxeEhQdnp3a3c5TDNkMXEtOWlQN0JMeDVRS0ZvX1FqV2dvSWl0ZWYyaEgycl9sSUdrYXhyZ3lVY3FYdEFYam9fZXhmemJWQldaUTNVNUtTSXF4M3pjb0NWZXdxODIwbmc?oc=5"
+          "published_at": "2026-03-27T07:00:00+00:00",
+          "source": "Fortune",
+          "source_url": "https://fortune.com",
+          "title": "The Iran war could drag into 2027, analyst warns. The economic fallout is just getting started - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZYR0xpQTVlTXJVM2ItWV9lSDBTSEpzUkNfMG9pR1B2bnl2N2V2U3Q3MDdLODlHcGV4Y0NhZzlRejg5dTVNci00VFlUSFNpbkFEZURfb25tYnNlYUd4ODk5YWprcjFRdmhmYXRxZDhxVTJFX0F6TmdRa016ckdtaGtXU1dvR0hlTjBLamVqV09xQkNNeC1TdXl0TEpyUQ?oc=5"
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-06-12T07:00:00+00:00",
-          "source": "StartupHub.ai",
-          "source_url": "https://www.startuphub.ai",
-          "title": "Musk Tweet Bets Top Polymarket - StartupHub.ai",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnBxUUtUMTN4OFVNQ1dhdzRVRTA5ZUZUQWpTUnhOa1JuUDVtMnAyVXJlejByVE5Vd3plVDkwQ0FMWG5vdDYzWGQ2S0FWYmtqNnFlaWJ3NVlMUVlpQV9sckswNTNBczB5OTNuaVplOFZmRGg1UGdGVXBPejRYelI1dnprTHBLQlMyZ1ZYM2RGSXY0Zw?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-07-09T07:00:00+00:00",
-          "source": "Benzinga",
-          "source_url": "https://www.benzinga.com",
-          "title": "Iran's Parliament Speaker Says Strait of Hormuz Will Open Only Under Tehran's Terms, Slams US 'Bullying' - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ3ZmaFQ2LWdFRXU5d0lUZGJuS0lYcHpIbm9QUzY5SjdJUXcyT3Y3WE9SUlROV1pUdElVYUpITlJtRmpObENsVDZfUWIzX0hyWmdwQWF2dzIxbzlpMklmMnlEZzRHbzZFOFRQLVRTUjFNUWRVaFAzZjhZRDFMTldtaWFLZ0VCc2pVeHJDUTYzZEtyRnA2RENmQXpxN0ZzdnNxTWpscWNnWnF1VnJ1Ujl4NHpGc29hNjFFTm50ZlBGTk4xVU5kVHRmVDZVVlRDQWJpODBKRklkOHBzR2NGd3YyX3NlMGRZZm1U?oc=5"
+          "published_at": "2026-03-01T08:00:00+00:00",
+          "source": "CoinDesk",
+          "source_url": "https://www.coindesk.com",
+          "title": "Polymarket traders bet record $500 million on U.S.-Iran war - CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGRjUjBuZUhWLXJLQ0pQQWVacDNZNm9zWFBjOU90dHFKZlZmaWhzRnpvTmNKU00tQzIxOHhmR0N3YTNCNXA2LWdYb3NVcXk3S1lOSWdSMEI1V3Nwa2F0RGZRcU5KRV9QSi1xOEhwZ1hLclFCRlM1dDktVlBtSUhaYnZWRGM2Slo1dXp4TXZIM3BJN09YYTRLOUlMcDJOZ19aY01ycXJCdFJsclZ0MkwtUkZISTVUUERZUzFZSXNKRk42NlM0QUNn?oc=5"
         }
       ],
       "market_id": "665374",
