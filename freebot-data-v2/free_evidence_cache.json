@@ -60,8 +60,16 @@
     "608540": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-02T06:52:41.441145+00:00",
+      "fetched_at": "2026-10-03T08:39:54.736814+00:00",
       "items": [
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-03T08:00:00+00:00",
+          "source": "sports.yahoo.com",
+          "source_url": "https://sports.yahoo.com",
+          "title": "Real Madrid’s Andriy Lunin makes Ballon d’Or choice clear: ‘Mbappe is the best’ - sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYThqTGIwSThaVnBtMWJZRlRtZUNVYl93bVNpbkphV1REUGc5MVhXZ1VIOXNRRzJwUWw0TUh5dHRtR3hHX05HX1Z0ZXVjRy1Xa0EtSzFka2xZQ0ZwU1J5Sm1zNHNKdi1iYzFYdjZ5VTR1T2FsTEpjNXdFRWN6MEZZdW45bThBUQ?oc=5"
+        },
         {
           "kind": "news_rss",
           "published_at": "2026-09-28T07:23:35+00:00",
@@ -72,11 +80,19 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-10-01T16:37:38+00:00",
-          "source": "Yahoo Sports",
+          "published_at": "2026-10-02T22:36:41+00:00",
+          "source": "beIN SPORTS",
+          "source_url": "https://www.beinsports.com",
+          "title": "Lamine Yamal Explains Why Kylian Mbappé Could Win the Ballon d’Or - beIN SPORTS",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX3cxWDRYcUdiUG5PbGRWU2lJS2ZmSnB4enZuUWxEcFQ5dXFoRzQ1SUZjY1lnejZjT3BEalRxX3l4bFhfMXZnS3R4NktnUFZUWkNkVkhlQXUyOWtNaDNQSnlaSFg5ZTJQTXJvcXBRZFZKZTBWc1A2UEc0cjhpTm16QnQxUkJsNUhpak9YQ05XTjhrRUUzSENoVlVCR3VlbFNzS0RabXZXWFRYcVpoQUJxdWlqd1lDeXN6WjhXcWlITFNBZ3VJNGNGZUhaY0ZLY2hHbF94Yw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-10-03T06:00:00+00:00",
+          "source": "sports.yahoo.com",
           "source_url": "https://sports.yahoo.com",
-          "title": "Dembélé: No issues with France teammate Mbappé despite Ballon d’Or chatter - Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlRlNLM0NwQnpLV2dRcUFLX3RBUEJRNUE1bzU1Qnh3R3lmdklIby1hQ3hrV1J1MGhGMDVxVnJ4OUFmcFFZTE9RYUhMY2dHOVNVVzRTdTlOTGJSM3hna0tRSm9QelR6cmtBejB4OG1Qc1lrYmFSTzU3WWZEMFU?oc=5"
+          "title": "Real Madrid star jokes about choosing between Mbappe and Lamine Yamal for Ballon d’Or: ‘No matter who wins…’ - sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQklVU2lETldWUUlCU3NFbzNfbm93U1d2S3RSUVFrd1ZYRWs4OHFNY0xUY193d0YyQmZ0TWJlN3hEMktyQ0czalBZTXVUN2NYV3l1QlFfZ3gtMG5rbUxXMXo2cHhiaUdJVm1ON1FkakZ5UGw1WmJ1UFduMTNCWmJ2eXVnS2VEbkE?oc=5"
         },
         {
           "kind": "news_rss",
@@ -88,27 +104,11 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-28T17:25:46+00:00",
-          "source": "usmfreepress.org",
-          "source_url": "https://usmfreepress.org",
-          "title": "The 2026 Ballon d’Or Race has become a debate - usmfreepress.org",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONk1Hc3pVY2ZocC1ad0lIbnlrSzVYSEFFRjhoZ3NibndzOVJwSFExdUJDdHhHNzJRbUVwT0pEbXVaelk5MUNOYzJUX2hEbi1JWU5MNERGQnJEVDJMa251MnEyQ1ZsNnlMMDZyOW5BbWdZcDhLc25wYkNmVHFsZnVRcDJYdHZNem9aYWc?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
           "source": "ESPN",
           "source_url": "https://www.espn.com",
           "title": "Ballon d'Or 2026 nominees: Harry Kane, Kylian Mbappé lead 30-man shortlist - ESPN",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdtblUwMGJlMzVPcHhabGpzVFhqWHN2bDc5NkdwelF0MVF4YUd6QTZxaXpQWlNnc25FOHZVVExuQV9GZWJiU0ZOMEE0QXV2NHFfSksySGd6dWp5VzhlSkpsbm9HWV9xWEFlYWtaa2xkaVFHLVcxQTktTGJ4WDY4Vkd1ODhxTFFka1pLRS1sWjZ4VXRPbGhpLTdTZFVwVWl0NHNDX1B1TWFKRG1sSUZHTkZkSWZ2RHZtTHY0?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-10-01T14:51:00+00:00",
-          "source": "Planet Football",
-          "source_url": "https://www.planetfootball.com",
-          "title": "2027 Ballon d'Or Power Rankings: Yamal v Mbappe for next year's award? - Planet Football",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEhzWUY0c0xyZVRySTNmWWlCMXhMbzl3dTdiQktyd0Nid0hkbGRreEx1YUlhbE1xTzV3UlV4Z3dHc2s1OG95S05SSEp0bENZYllxVjZaTnl5VjJCbnVxdUFTZUxMbGNFYzJZQTdDYVl5Z0lCelVuQU40NlgzSmg5VzVTRTV4VmpNLUcwUWd3VUxEMDlIZ3BNNVlxRUZNdGRQaW5VUg?oc=5"
         }
       ],
       "market_id": "608540",
@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T08:08:39.932291+00:00",
+      "fetched_at": "2026-10-03T08:39:54.736814+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -809,7 +809,7 @@
     "676741": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T08:08:39.932291+00:00",
+      "fetched_at": "2026-10-03T08:39:54.736814+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -822,9 +822,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-14T07:00:00+00:00",
-          "source": "247wallst.com",
+          "source": "24/7 Wall St.",
           "source_url": "https://247wallst.com",
-          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 247wallst.com",
+          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUFTaHFlYkdMdkFRa2p0S2NHcllfLXVrZnluaHFQVHVrVkJDbV9JUmNudmxEY1lPS01MbHpCaHNiaUNmX25kYWpUYjQzcnYyaFZVLTRFQ0swX29Bd3Z1SDFkUnlmTFUxTGlvUGNkbDhuWml2NmNaV20weHhuR0NFNkN3dlNiVW1JcENSZlNzNktwT1N3VDBnZUdzbFlpaUw5dldqVVJ6QlQxQVkySWRyd2gyYzQ3OVNuUThBZ25pM2JUQ0NOX2JtZzZ1NWU5SVUyVjNxY09TMA?oc=5"
         },
         {
