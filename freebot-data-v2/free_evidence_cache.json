@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:06:14.180554+00:00",
+      "fetched_at": "2026-10-03T07:37:24.541881+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -695,7 +695,7 @@
     "665727": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:06:14.180554+00:00",
+      "fetched_at": "2026-10-03T07:37:24.541881+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -723,6 +723,14 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-03-26T07:00:00+00:00",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "title": "Iran hardliners ramp up calls for a nuclear bomb, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjZEejhxWTZxaHV0b0lHaWtnQjV0aDAtcGpiQ3FJVm9PNWF4Q2lsTFdxUjlWODNLRVhydHBEVDY2dDBoWUFfRnY1c0l3SHlLazB3LXlJeVUyR254cl9KbkZiaGotel9ONHd3UEpoMTNjSE8zMmZnVjNmckI2TURMN2ROcWJJLXFRRFhHXzZkSl9uQlVBdktZX1lDLUJaSjd2b09kWnZkWVI2LUpBOVpTS3U5MA?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-05-24T07:00:00+00:00",
           "source": "NewsCord",
           "source_url": "https://newscord.org",
@@ -736,14 +744,6 @@
           "source_url": "https://www.iranintl.com",
           "title": "Iranian hardliners talk up nuclear weapons before Pezeshkian's UN trip - Iran International",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Sk4tOWhEUk9aUDRwX0J5Ri1RVC1uVEhTMzlKd3ltUEphb0V1Zlh3a2Q5cnlhUzYzYTZ4bGRjcUdmVjhweDNubWY0WGVuX2dUb0E?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-03-30T07:00:00+00:00",
-          "source": "India Today",
-          "source_url": "https://www.indiatoday.in",
-          "title": "Iran weighs Nuclear Non-Proliferation Treaty exit, blames international 'bullying' - India Today",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTndrV19RY0UxMHIyMW5Qd05NelZfOGRPTDBiZi1RM0QwZ1FFV255NkpOV2hFQjVJVFNoTjAxMzNPZVlRaU16cEd6aWFmWkNvaE9WNXh6ODJIQWVrYjk4TEVrQm9zM1B3WF9jMy1QSU5wc1hUcW8xQll4a1UwVDVBX2pUT3QyV0dxVEV5RThUc2lySzRPMVRyNC1HYWE3cHdNQVAtaUFpR1lwNkY2LURmc0UwQmRoVEt4VFZGZ1poYVA1QV9KSWw3RWF0eklXdHdELVJ6UDRSbktLZ2doNU1xQWFGXzd6TTBfZEV6bGFaczVNWWdKQ0HSAfsBQVVfeXFMTkk0R0hjSG50UnRyQkdKdXNXYWtINFNrNmd6UThPTW04eFlQbkZYM0xDWHBDeC10czZBWGhmQnpQNWpoWFNqOGNiaFVZcDI2UkJPNWc1TGkxVW5wdjhFV2R3NlFXbTd2Q0w2aUdGeW5oQmhEOG4zLWRVdExDVWl6NGxiN3BEUFI2OWRHNXI0by1UWUN5QlU4bWVzWTdVd1JSMzlrOU8tekx5ZnhHOHhVWXRoYzUxa2VSQzBEZ1FxWk5PNHRFcl9rTUFDVFg1bkhYWVNITzdFV2pCdHZvM2ZZNUk3dkN4VUxPVVA4TFRjNUtxck9vRzJGQXZBY3M?oc=5"
         }
       ],
       "market_id": "665727",
@@ -809,7 +809,7 @@
     "676741": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T07:06:14.180554+00:00",
+      "fetched_at": "2026-10-03T07:37:24.541881+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -822,17 +822,17 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-14T07:00:00+00:00",
-          "source": "247wallst.com",
+          "source": "24/7 Wall St.",
           "source_url": "https://247wallst.com",
-          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 247wallst.com",
+          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUFTaHFlYkdMdkFRa2p0S2NHcllfLXVrZnluaHFQVHVrVkJDbV9JUmNudmxEY1lPS01MbHpCaHNiaUNmX25kYWpUYjQzcnYyaFZVLTRFQ0swX29Bd3Z1SDFkUnlmTFUxTGlvUGNkbDhuWml2NmNaV20weHhuR0NFNkN3dlNiVW1JcENSZlNzNktwT1N3VDBnZUdzbFlpaUw5dldqVVJ6QlQxQVkySWRyd2gyYzQ3OVNuUThBZ25pM2JUQ0NOX2JtZzZ1NWU5SVUyVjNxY09TMA?oc=5"
         },
         {
           "kind": "news_rss",
           "published_at": "2026-08-28T19:02:07+00:00",
-          "source": "stonex.com",
+          "source": "StoneX",
           "source_url": "https://www.stonex.com",
-          "title": "Apple Acquisition History: The Biggest Companies Apple Owns - stonex.com",
+          "title": "Apple Acquisition History: The Biggest Companies Apple Owns - StoneX",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBENW5RZHNOeHNkLThOMTYtN3pJTnY3MjI0UndyWmVUQVVjSkhCNlVFTFF2RmEtUDVNUDFGQjFvMnFmWHRnOFRzbzVRN0V3S1VvVTZ5dkxZdlFOc3dLZ3NJY21Qck1SeDlYSFJzRnV0VUhpNnBzN0tYYUctVG4xUQ?oc=5"
         },
         {
@@ -854,9 +854,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-01-27T21:39:41+00:00",
-          "source": "voronoiapp.com",
+          "source": "Voronoi by Visual Capitalist",
           "source_url": "https://www.voronoiapp.com",
-          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - voronoiapp.com",
+          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - Voronoi by Visual Capitalist",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWc5cnJINXJDVFVKYmJPd3BTVFBSZFpSWm1Dbm5nNlJlN3laZ19fc1J3SzZJZzBnV3RRRzNwRWJLdlcwQnd5cThBdmh2ejlQZUdad2dkU1FSWU9PZW1YUzlsdDRUaUJTS1Y0X1BQTzBDZWw1UHNha1VfZU4wZXZ1MEo3RTlkQUVQYnRFVEN1ZC1tYjRDWWtGYXJNOFEzeUpuaXVZdzl5c3M2SXhsajRNXzhpalNQMnRYY2VFdnhMTHk?oc=5"
         }
       ],
