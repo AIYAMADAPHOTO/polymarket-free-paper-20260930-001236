@@ -345,7 +345,7 @@
     "616902": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T05:32:09.402592+00:00",
+      "fetched_at": "2026-10-03T06:03:30.675225+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -365,14 +365,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-09-16T07:00:00+00:00",
-          "source": "Forbes",
-          "source_url": "https://www.forbes.com",
-          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-09-08T07:00:00+00:00",
           "source": "Federal News Network",
           "source_url": "https://federalnewsnetwork.com",
@@ -381,19 +373,27 @@
         },
         {
           "kind": "news_rss",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "source": "Forbes",
+          "source_url": "https://www.forbes.com",
+          "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-01-29T08:00:00+00:00",
+          "source": "J.P. Morgan",
+          "source_url": "https://www.jpmorgan.com",
+          "title": "Fed Leaves Rates Unchanged to Start 2026: Is a Cut Coming in March? - J.P. Morgan",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclBRVmJheElTNjZMUVRPalRFeXN6LW95NjdyN29ZVk40VDZIUXdCS3NGczNBYXd4Y2ZGTWhqVC0xWmVJN2F5MkVhM2pMRXVkb1ZvYnRkU2VRVVptTEhaUENkaG5yU25jbV84SjZFem1KRkRLOC1PcGJEbElQQVBLak9pWVNLUk5MNDFIdGdUMA?oc=5"
+        },
+        {
+          "kind": "news_rss",
           "published_at": "2026-09-11T07:00:00+00:00",
           "source": "Newsweek",
           "source_url": "https://www.newsweek.com",
           "title": "Experts Predict No Fed Rate Cut Next Week: What It Means - Newsweek",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2gxejhKMWQ2Z0xyRmJyNUxieFRZUmtQZXcyazh5REJjRExVN1VINFZmZVhiZkxXRVp4TmoxWWlWQWRrVktrcDM1TmtRRkltcDZPM1pNOXFFcGlnaEpKenpyM0IyNXVMT3dVMU90ZnU3bnZ1WTduMDJxcy11OExIZWNiVGh0aU0?oc=5"
-        },
-        {
-          "kind": "news_rss",
-          "published_at": "2026-09-15T07:00:00+00:00",
-          "source": "Norada Real Estate Investments",
-          "source_url": "https://www.noradarealestate.com",
-          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlhMTEFheG1UWnI0c0J0RHJJZEZUR0lWMGtNQUdqbzg1X2c1Zng4b2x3Nkx3TC0wQWI4T1c5N3lwNUl5QzJ5T1lWemhLLTJ4V1JSTzdRX1BBVGMzVEtSLVFZWjdnS25aZ3p4WGRGTEhlRUFTY0VKZ3ktX1JFVHBWMlgxekpmSEJjR20zUw?oc=5"
         }
       ],
       "market_id": "616902",
@@ -695,7 +695,7 @@
     "665727": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T05:32:09.402592+00:00",
+      "fetched_at": "2026-10-03T06:03:30.675225+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -723,14 +723,6 @@
         },
         {
           "kind": "news_rss",
-          "published_at": "2026-03-26T07:00:00+00:00",
-          "source": "Reuters",
-          "source_url": "https://www.reuters.com",
-          "title": "Iran hardliners ramp up calls for a nuclear bomb, sources say - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjZEejhxWTZxaHV0b0lHaWtnQjV0aDAtcGpiQ3FJVm9PNWF4Q2lsTFdxUjlWODNLRVhydHBEVDY2dDBoWUFfRnY1c0l3SHlLazB3LXlJeVUyR254cl9KbkZiaGotel9ONHd3UEpoMTNjSE8zMmZnVjNmckI2TURMN2ROcWJJLXFRRFhHXzZkSl9uQlVBdktZX1lDLUJaSjd2b09kWnZkWVI2LUpBOVpTS3U5MA?oc=5"
-        },
-        {
-          "kind": "news_rss",
           "published_at": "2026-05-24T07:00:00+00:00",
           "source": "NewsCord",
           "source_url": "https://newscord.org",
@@ -744,6 +736,14 @@
           "source_url": "https://www.iranintl.com",
           "title": "Iranian hardliners talk up nuclear weapons before Pezeshkian's UN trip - Iran International",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Sk4tOWhEUk9aUDRwX0J5Ri1RVC1uVEhTMzlKd3ltUEphb0V1Zlh3a2Q5cnlhUzYzYTZ4bGRjcUdmVjhweDNubWY0WGVuX2dUb0E?oc=5"
+        },
+        {
+          "kind": "news_rss",
+          "published_at": "2026-03-30T07:00:00+00:00",
+          "source": "India Today",
+          "source_url": "https://www.indiatoday.in",
+          "title": "Iran weighs Nuclear Non-Proliferation Treaty exit, blames international 'bullying' - India Today",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTndrV19RY0UxMHIyMW5Qd05NelZfOGRPTDBiZi1RM0QwZ1FFV255NkpOV2hFQjVJVFNoTjAxMzNPZVlRaU16cEd6aWFmWkNvaE9WNXh6ODJIQWVrYjk4TEVrQm9zM1B3WF9jMy1QSU5wc1hUcW8xQll4a1UwVDVBX2pUT3QyV0dxVEV5RThUc2lySzRPMVRyNC1HYWE3cHdNQVAtaUFpR1lwNkY2LURmc0UwQmRoVEt4VFZGZ1poYVA1QV9KSWw3RWF0eklXdHdELVJ6UDRSbktLZ2doNU1xQWFGXzd6TTBfZEV6bGFaczVNWWdKQ0HSAfsBQVVfeXFMTkk0R0hjSG50UnRyQkdKdXNXYWtINFNrNmd6UThPTW04eFlQbkZYM0xDWHBDeC10czZBWGhmQnpQNWpoWFNqOGNiaFVZcDI2UkJPNWc1TGkxVW5wdjhFV2R3NlFXbTd2Q0w2aUdGeW5oQmhEOG4zLWRVdExDVWl6NGxiN3BEUFI2OWRHNXI0by1UWUN5QlU4bWVzWTdVd1JSMzlrOU8tekx5ZnhHOHhVWXRoYzUxa2VSQzBEZ1FxWk5PNHRFcl9rTUFDVFg1bkhYWVNITzdFV2pCdHZvM2ZZNUk3dkN4VUxPVVA4TFRjNUtxck9vRzJGQXZBY3M?oc=5"
         }
       ],
       "market_id": "665727",
@@ -809,7 +809,7 @@
     "676741": {
       "category_hint": "general",
       "errors": [],
-      "fetched_at": "2026-10-03T05:32:09.402592+00:00",
+      "fetched_at": "2026-10-03T06:03:30.675225+00:00",
       "items": [
         {
           "kind": "news_rss",
@@ -822,9 +822,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-07-14T07:00:00+00:00",
-          "source": "24/7 Wall St.",
+          "source": "247wallst.com",
           "source_url": "https://247wallst.com",
-          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 24/7 Wall St.",
+          "title": "Nvidia Vs. Apple: Nvidia Will Edge Out Apple in Market Cap To End July, but Apple is Growing Faster - 247wallst.com",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUFTaHFlYkdMdkFRa2p0S2NHcllfLXVrZnluaHFQVHVrVkJDbV9JUmNudmxEY1lPS01MbHpCaHNiaUNmX25kYWpUYjQzcnYyaFZVLTRFQ0swX29Bd3Z1SDFkUnlmTFUxTGlvUGNkbDhuWml2NmNaV20weHhuR0NFNkN3dlNiVW1JcENSZlNzNktwT1N3VDBnZUdzbFlpaUw5dldqVVJ6QlQxQVkySWRyd2gyYzQ3OVNuUThBZ25pM2JUQ0NOX2JtZzZ1NWU5SVUyVjNxY09TMA?oc=5"
         },
         {
@@ -854,9 +854,9 @@
         {
           "kind": "news_rss",
           "published_at": "2026-01-27T21:39:41+00:00",
-          "source": "Voronoi by Visual Capitalist",
+          "source": "voronoiapp.com",
           "source_url": "https://www.voronoiapp.com",
-          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - Voronoi by Visual Capitalist",
+          "title": "📈 Top 10 U.S. Companies’ Market Cap Peaks in Late October 2025, Declines in January 2026 - voronoiapp.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWc5cnJINXJDVFVKYmJPd3BTVFBSZFpSWm1Dbm5nNlJlN3laZ19fc1J3SzZJZzBnV3RRRzNwRWJLdlcwQnd5cThBdmh2ejlQZUdad2dkU1FSWU9PZW1YUzlsdDRUaUJTS1Y0X1BQTzBDZWw1UHNha1VfZU4wZXZ1MEo3RTlkQUVQYnRFVEN1ZC1tYjRDWWtGYXJNOFEzeUpuaXVZdzl5c3M2SXhsajRNXzhpalNQMnRYY2VFdnhMTHk?oc=5"
         }
       ],
